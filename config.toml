@@ -1,0 +1,28 @@
+BaseUrl= "https://poliw.at"
+LanguageCode= "en-US"
+Title= "POLIW.AT"
+paginate = 20
+DisqusShortname = "poliwat"
+Copyright = "OSOD, Open Source or Die - 2019"
+canonifyurls = true
+publishDir = "docs"
+
+[author]
+  name = "POLIW.AT"
+
+[params]
+  description = ""
+  cover = "images/user.jpg"
+  author = "POLIWAT"
+  authorlocation = ""
+  authorwebsite = "https://poliw.at"
+  bio= "my bio"
+  music = "https://poliwat.bandcamp.com"
+  logo = "images/user.png"
+  googleAnalyticsUserID = ""
+  # Optional RSS-Link, if not provided it defaults to the standard index.xml
+  RSSLink = ""
+  githubName = "poliwat"
+  twitterName = "poliwat"
+  # set true if you are not proud of using Hugo (true will hide the footer note "Proudly published with HUGO.....")
+  hideHUGOSupport = false

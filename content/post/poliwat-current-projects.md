@@ -18,9 +18,9 @@ ___
 The name plays upon the idea that the US government might officially support the creative cataloging of music for the people, through the action of encapsulating everything semantic into a discrete duration of instrumental music. This project is inspired by open source philosophy in software development, where all the work and its underlying components, are exposed to be remixed, reused, edited, and developed on in an open and transparent way.
 You can listen to the Instrumentals across the web available here. Open source and always free.
 
-<iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=1032909743/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="http://poliwat.bandcamp.com/album/federal-beat-reserve-antidepressants">Federal Beat Reserve: Antidepressants by POLIW.AT</a></iframe>
+<iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=1032909743/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://poliwat.bandcamp.com/album/federal-beat-reserve-antidepressants">Federal Beat Reserve: Antidepressants by POLIW.AT</a></iframe>
 
-If you are interested in getting your instrumentals in the official federal beat reserve then DM me, and think about becoming a patron.
+If you are interested in getting your instrumentals in the official federal beat reserve then DM me, and think about becoming a patron || checkout a liibrary of instrumentals you can use https://archive.org/details/@poliwat
 
 > **update 4.15.2k19**
 > my equipment broke but I'll have a one stop link for all instrumentals soon, keep posted.
@@ -31,13 +31,12 @@ ___
 
 
 <h1>
-  <a href="http://🌏.fm" alt="http://xn--vg8h.fm/"> 🌏.fm </a> </h1>
+  <a href="https://paleblue.fm" alt="https://xn--vg8h.fm/"> 🌏.fm </a> </h1>
 #### Pale Blue Dawt Podcast ++ Radio Show
 
 Pale Blue Dawt, aired on 91.1fm at KZSU Stanford. A hybrid between a podcast and a music show, PBD is an hour long weekly radio show journeying through my sound library where my music augments field recordings and interviews. My particuar focus is on recording things that would otherwise not be recorded. This includes but is not limited to; intimate gatherings, DIY and original music, classes, ceremonies, funerals, reunions, and people talking candidly about the things that matter to them most. Sounds kind of like life, the musical.
 
-<iframe width="100%" height="600" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/390257661&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
-
+<iframe width="100%" height="600" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/users/626655807&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
 > Link inc
 
 ___
@@ -54,9 +53,9 @@ Current Version:
 #### Legacy Links
 
 <ul>
-  <li><h2><a href="http://alpha.poliw.at"> alpha.poliw.at </a> || July 25th 2017 - October 18th 2018</h2></li>
-  <li><h2><a href="http://beta.poliw.at"> beta.poliw.at </a> || January 22 2019 - Febuary 19th 2019</h2></li>
-  <li><h2><a href="http://gamma.poliw.at"> gamma.poliw.at </a></h2><h4>|| beyond ++ lost soon to be updated </h4> </li>
+  <li><h2><a href="https://alpha.poliw.at"> alpha.poliw.at </a> || July 25th 2017 - October 18th 2018</h2></li>
+  <li><h2><a href="https://beta.poliw.at"> beta.poliw.at </a> || January 22 2019 - Febuary 19th 2019</h2></li>
+  <li><h2><a href="https://gamma.poliw.at"> gamma.poliw.at </a></h2><h4>|| beyond ++ lost soon to be updated </h4> </li>
 </ul>
 
 ___
@@ -72,7 +71,7 @@ The second step is acknowledge the fact that the only way to get clean off frees
 Meetings are everyday, TBA online and wherever I am. Audio from freestyle sessions are found
 
 
-
+<!-- 
 
 ```
 
@@ -92,17 +91,8 @@ conspiring
 not to be
 sat on
 
-```
+``` -->
 
-___ 
-
-**110 AM**
-
-weird sounds out of my laptop all night sampled some today omg
-
-took years to get the schema but I fucking got it NIIIGGGAAA ITS A SAFE SPACE HERE NIGGA I CAN TYSPE W/E I WANT I KNOW IM NOT RACIST DONT LET LANGUAGE CONSTRAIN YOUR THOUGHTS READ 1984 IF YOU DONT GET IT THEN KILL YOSEL || FEED YOSOL  
-
-___
 
 ___
 <!--

@@ -1,28 +1,74 @@
-BaseUrl= ""
-LanguageCode= "en-US"
-Title= "POLIW.AT"
-paginate = 20
-DisqusShortname = "poliwat"
-Copyright = "OSOD, Open Source or Die - 2019"
-canonifyurls = true
-publishDir = "docs"
-
-[author]
-  name = "POLIW.AT"
+baseurl = "https://poliw.at/"
+title = "POLIW.AT"
+theme = "hugo-creative-portfolio-theme"
+languageCode = "en-us"
+# Enable comments by entering your Disqus shortname
+disqusShortname = ""
+# Enable Google Analytics by entering your tracking code
+googleAnalytics = ""
 
 [params]
-  description = ""
-  cover = "images/user.jpg"
-  author = "POLIWAT"
-  authorlocation = ""
-  authorwebsite = "https://poliw.at"
-  bio= "my bio"
-  music = "https://poliwat.bandcamp.com"
-  logo = "images/user.png"
-  googleAnalyticsUserID = ""
-  # Optional RSS-Link, if not provided it defaults to the standard index.xml
-  RSSLink = ""
-  githubName = "poliwat"
-  twitterName = "poliwat"
-  # set true if you are not proud of using Hugo (true will hide the footer note "Proudly published with HUGO.....")
-  hideHUGOSupport = false
+  # Style options: default (pink), blue, green, pink, red, sea, violet
+  # Use custom.css for your custom styling
+  style = "pink"
+  description = "Open Source"
+  copyright = " OSOD &copy;2019 POLIW.AT LOVES YOU"
+  sidebarAbout = [
+    "I am a composer, musician, visual artist, and writer with 9 years of experience.",
+    "Originally from California, currently travelling. All my work is free and Open Source."
+  ]
+  # Contact page
+     # Since this template is static, the contact form uses www.formspree.io as a
+     # proxy. The form makes a POST request to their servers to send the actual
+     # email. Visitors can send up to a 1000 emails each month for free.
+     #
+     # What you need to do for the setup?
+     #
+     # - set your email address under 'email' below
+     # - upload the generated site to your server
+     # - send a dummy email yourself to confirm your account
+     # - click the confirm link in the email from www.formspree.io
+     # - you're done. Happy mailing!
+  email = "you@yoursite.com"
+
+    # Optional Matomo analytics (formerly piwik)
+      # [params.analytics.matomo]
+      #  URL = "https://stats.example.com"
+      #  ID = "42"
+      #  # Track all subdomains with "*.example.com" (Optional)
+      #  domain = "www.example.com"
+      #  # Optional integrity check hash
+      #  hash = ""
+
+  # Nav links in the side bar
+  [[params.navlinks]]
+  name = "Home"
+  url = "portfolio/"
+  home = true
+
+  [[params.navlinks]]
+  name = "About"
+  url = "about/"
+
+  [[params.navlinks]]
+  name = "Get in touch"
+  url = "contact/"
+
+  [params.social]
+  facebook      = "full page or profile url in facebook"
+  googleplus    = "full profile url in googleplus"
+  email         = "email@example.com"
+  twitter       = "full profile url in twitter"
+  linkedin      = "full profile url in linkedin"
+  stackoverflow = "full profile url in stackoverflow"
+  instagram     = "full profile url in instagram"
+  github        = "full profile url in github"
+  youtube       = "full profile url in youtube"
+  whatsapp      = "wa.me service link"
+
+  [taxonomies]
+     tag = "tags"
+     category = "categories"
+
+
+    # my site tags are music, radio, podcasting, video, short story, diary, tech, love, art, life, metaphysical, psychology, mental illness, AI

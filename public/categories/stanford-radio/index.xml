@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Stanford Radio on POLIW.AT</title>
+    <link>https://poliw.at/categories/stanford-radio/</link>
+    <description>Recent content in Stanford Radio on POLIW.AT</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 15 Sep 2019 12:40:25 -0500</lastBuildDate>
+    
+	<atom:link href="https://poliw.at/categories/stanford-radio/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>What do you need to hear in 40 years?</title>
+      <link>https://poliw.at/portfolio/gg/</link>
+      <pubDate>Sun, 15 Sep 2019 12:40:25 -0500</pubDate>
+      
+      <guid>https://poliw.at/portfolio/gg/</guid>
+      <description>What I&amp;rsquo;m going to need to hear in 40 years&amp;hellip;.
+ a collage of all the most important friends, family, and voices of a time when I was hosting a weekly show at Stanford.</description>
+    </item>
+    
+  </channel>
+</rss>

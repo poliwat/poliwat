@@ -1,27 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="https://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on POLIW.AT</title>
     <link>https://poliw.at/post/</link>
     <description>Recent content in Posts on POLIW.AT</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-US</language>
-    <copyright>OSOD, Open Source or Die - 2019</copyright>
-    <lastBuildDate>Sat, 06 Apr 2019 21:43:29 -0700</lastBuildDate>
+    <language>en-us</language>
     
 	<atom:link href="https://poliw.at/post/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Poliwat Current Projects</title>
-      <link>https://poliw.at/post/poliwat-current-projects/</link>
-      <pubDate>Sat, 06 Apr 2019 21:43:29 -0700</pubDate>
-      
-      <guid>https://poliw.at/post/poliwat-current-projects/</guid>
-      <description>POLIW.AT Music Videos Music is not a purely auditory experience, it is also a visual medium. When we hear audio, our brains want to fill in the visual gaps. My poliw.at music videos are a pursuit of reflecting this exchange where I use visual instruments and a suite of video tools to create the videos in real time.
-.codegena{position:relative;width:100%;height:0;padding-bottom:56.27198%;}.codegena iframe{position:absolute;top:0;left:0;width:100%;height:100%;}
-Federal Beat Reserve The name plays upon the idea that the US government might officially support the creative cataloging of music for the people, through the action of encapsulating everything semantic into a discrete duration of instrumental music.</description>
-    </item>
     
   </channel>
 </rss>

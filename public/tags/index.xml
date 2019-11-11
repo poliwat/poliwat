@@ -1,15 +1,258 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="https://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on POLIW.AT</title>
     <link>https://poliw.at/tags/</link>
     <description>Recent content in Tags on POLIW.AT</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-US</language>
-    <copyright>OSOD, Open Source or Die - 2019</copyright>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 08 Oct 2019 11:27:28 -0500</lastBuildDate>
     
 	<atom:link href="https://poliw.at/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>poem</title>
+      <link>https://poliw.at/tags/poem/</link>
+      <pubDate>Tue, 08 Oct 2019 11:27:28 -0500</pubDate>
+      
+      <guid>https://poliw.at/tags/poem/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>song</title>
+      <link>https://poliw.at/tags/song/</link>
+      <pubDate>Tue, 08 Oct 2019 11:27:28 -0500</pubDate>
+      
+      <guid>https://poliw.at/tags/song/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>diary</title>
+      <link>https://poliw.at/tags/diary/</link>
+      <pubDate>Fri, 04 Oct 2019 21:22:27 -0500</pubDate>
+      
+      <guid>https://poliw.at/tags/diary/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>letters</title>
+      <link>https://poliw.at/tags/letters/</link>
+      <pubDate>Tue, 01 Oct 2019 14:16:06 -0500</pubDate>
+      
+      <guid>https://poliw.at/tags/letters/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>lyrics</title>
+      <link>https://poliw.at/tags/lyrics/</link>
+      <pubDate>Tue, 01 Oct 2019 14:16:06 -0500</pubDate>
+      
+      <guid>https://poliw.at/tags/lyrics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>poems</title>
+      <link>https://poliw.at/tags/poems/</link>
+      <pubDate>Tue, 01 Oct 2019 14:16:06 -0500</pubDate>
+      
+      <guid>https://poliw.at/tags/poems/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>music</title>
+      <link>https://poliw.at/tags/music/</link>
+      <pubDate>Mon, 30 Sep 2019 16:03:03 -0500</pubDate>
+      
+      <guid>https://poliw.at/tags/music/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>schizop</title>
+      <link>https://poliw.at/tags/schizop/</link>
+      <pubDate>Mon, 30 Sep 2019 16:03:03 -0500</pubDate>
+      
+      <guid>https://poliw.at/tags/schizop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hiphop</title>
+      <link>https://poliw.at/tags/hiphop/</link>
+      <pubDate>Fri, 27 Sep 2019 19:18:36 -0500</pubDate>
+      
+      <guid>https://poliw.at/tags/hiphop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>lofi</title>
+      <link>https://poliw.at/tags/lofi/</link>
+      <pubDate>Fri, 27 Sep 2019 19:18:36 -0500</pubDate>
+      
+      <guid>https://poliw.at/tags/lofi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Acapella</title>
+      <link>https://poliw.at/tags/acapella/</link>
+      <pubDate>Sat, 21 Sep 2019 11:34:58 -0500</pubDate>
+      
+      <guid>https://poliw.at/tags/acapella/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>busSessions</title>
+      <link>https://poliw.at/tags/bussessions/</link>
+      <pubDate>Thu, 19 Sep 2019 11:35:59 -0500</pubDate>
+      
+      <guid>https://poliw.at/tags/bussessions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>portfolio</title>
+      <link>https://poliw.at/tags/portfolio/</link>
+      <pubDate>Thu, 19 Sep 2019 11:35:59 -0500</pubDate>
+      
+      <guid>https://poliw.at/tags/portfolio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>produced</title>
+      <link>https://poliw.at/tags/produced/</link>
+      <pubDate>Thu, 19 Sep 2019 11:35:59 -0500</pubDate>
+      
+      <guid>https://poliw.at/tags/produced/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>video</title>
+      <link>https://poliw.at/tags/video/</link>
+      <pubDate>Thu, 19 Sep 2019 11:35:59 -0500</pubDate>
+      
+      <guid>https://poliw.at/tags/video/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>music-vizzy</title>
+      <link>https://poliw.at/tags/music-vizzy/</link>
+      <pubDate>Wed, 18 Sep 2019 10:08:47 -0500</pubDate>
+      
+      <guid>https://poliw.at/tags/music-vizzy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>music-video</title>
+      <link>https://poliw.at/tags/music-video/</link>
+      <pubDate>Tue, 17 Sep 2019 13:00:39 -0500</pubDate>
+      
+      <guid>https://poliw.at/tags/music-video/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>poetry</title>
+      <link>https://poliw.at/tags/poetry/</link>
+      <pubDate>Tue, 17 Sep 2019 13:00:39 -0500</pubDate>
+      
+      <guid>https://poliw.at/tags/poetry/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>story</title>
+      <link>https://poliw.at/tags/story/</link>
+      <pubDate>Tue, 17 Sep 2019 13:00:39 -0500</pubDate>
+      
+      <guid>https://poliw.at/tags/story/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stanford-radio</title>
+      <link>https://poliw.at/tags/stanford-radio/</link>
+      <pubDate>Sun, 15 Sep 2019 12:40:25 -0500</pubDate>
+      
+      <guid>https://poliw.at/tags/stanford-radio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>paleblue.fm</title>
+      <link>https://poliw.at/tags/paleblue.fm/</link>
+      <pubDate>Sun, 15 Sep 2019 12:40:25 -0500</pubDate>
+      
+      <guid>https://poliw.at/tags/paleblue.fm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PBD</title>
+      <link>https://poliw.at/tags/pbd/</link>
+      <pubDate>Thu, 29 Aug 2019 22:26:50 -0700</pubDate>
+      
+      <guid>https://poliw.at/tags/pbd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>podcast</title>
+      <link>https://poliw.at/tags/podcast/</link>
+      <pubDate>Thu, 29 Aug 2019 22:26:50 -0700</pubDate>
+      
+      <guid>https://poliw.at/tags/podcast/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>fa</title>
+      <link>https://poliw.at/tags/fa/</link>
+      <pubDate>Tue, 23 Jul 2019 09:28:29 -0700</pubDate>
+      
+      <guid>https://poliw.at/tags/fa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>freestylers-anonymous</title>
+      <link>https://poliw.at/tags/freestylers-anonymous/</link>
+      <pubDate>Tue, 23 Jul 2019 09:28:29 -0700</pubDate>
+      
+      <guid>https://poliw.at/tags/freestylers-anonymous/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Life the musical</title>
+      <link>https://poliw.at/tags/life-the-musical/</link>
+      <pubDate>Sat, 18 May 2019 12:08:40 -0700</pubDate>
+      
+      <guid>https://poliw.at/tags/life-the-musical/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PLU-screenplay</title>
+      <link>https://poliw.at/tags/plu-screenplay/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://poliw.at/tags/plu-screenplay/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

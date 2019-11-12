@@ -44,7 +44,7 @@ publishDir = "docs"
   # Nav links in the side bar
   [[params.navlinks]]
   name = "Home"
-  url = "/song/"
+  url = "song/"
   home = true
 
   [[params.navlinks]]

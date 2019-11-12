@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>podcast on POLIW.AT</title>
-    <link>https://poliw.at/tags/podcast/</link>
+    <link>poliwat.github.io/poliwat/tags/podcast/</link>
     <description>Recent content in podcast on POLIW.AT</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 29 Aug 2019 22:26:50 -0700</lastBuildDate>
     
-	<atom:link href="https://poliw.at/tags/podcast/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="poliwat.github.io/poliwat/tags/podcast/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Healthier Choices</title>
-      <link>https://poliw.at/song/healthier-choices/</link>
+      <link>poliwat.github.io/poliwat/song/healthier-choices/</link>
       <pubDate>Thu, 29 Aug 2019 22:26:50 -0700</pubDate>
       
-      <guid>https://poliw.at/song/healthier-choices/</guid>
+      <guid>poliwat.github.io/poliwat/song/healthier-choices/</guid>
       <description>PBD ep 2 Ep2 What are you trying to do before you die 
  Pale Blue Dawt!
 or paleblue.fm (couldn&amp;rsquo;t afford keeping another website online)
@@ -33,10 +33,10 @@ or paleblue.fm (couldn&amp;rsquo;t afford keeping another website online)
     
     <item>
       <title>PBD  Ep3 What Do You Do to Relax</title>
-      <link>https://poliw.at/song/pbd-what-do-you-do-to-relax/</link>
+      <link>poliwat.github.io/poliwat/song/pbd-what-do-you-do-to-relax/</link>
       <pubDate>Sat, 18 May 2019 12:08:40 -0700</pubDate>
       
-      <guid>https://poliw.at/song/pbd-what-do-you-do-to-relax/</guid>
+      <guid>poliwat.github.io/poliwat/song/pbd-what-do-you-do-to-relax/</guid>
       <description> </description>
     </item>
     

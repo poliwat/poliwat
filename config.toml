@@ -1,4 +1,4 @@
-baseurl = "https://poliw.at/"
+baseurl = "https://poliwat.github.io/poliwatMain/"
 title = "POLIW.AT"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "en-us"

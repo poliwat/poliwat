@@ -11,7 +11,7 @@ showonlyimage: "true"
 **2213**
 
 
- what? had a great day! tore apart the ugly hutch I should've burned long ago in the garage studio - took inventory of scrap wood - going to hit it hard tomorrow building shelf city in the studio to be the ultimate recording oasis, then will record a bunch of songs in the last week of the month or next week or so - had a great great great time \\\ |||
+ what? had a great day! tore apart the ugly hutch I should've burned long ago in the garage studio - took inventory of scrap wood - going to hit it hard tomorrow building shelf city in the studio to be the ultimate recording oasis, then will record a bunch of songs in the last week of the month or next week or so - had a great great great time
 
   hit bachelors bbq from 2 pm until after th snw ent down at nate's parent's place next dor - played spike ball for the first time and played guitar and rode in the back of the nate's pick up we went to the high schoool and I was the all time goalie and we fribeed footballed soccered it up and I talked to becca on the phone and got a huge second wind on the screen play, now drinking coffee and going to stay up late working on it - tore
 
@@ -19,7 +19,7 @@ oh yeha and I'm officially a writer now
 
 I'm a writer, not an editor(need1)
 
-{{:}{:}{:}{:}{}{}{}{}{}{}{}{}{}{}{}{}{}}
+
 ty for reading my blog brian my prayers to you lets make the world a better place together cuz <3
 
 

@@ -2,70 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on POLIW.AT</title>
-    <link>/post/</link>
+    <link>https://poliw.at/post/</link>
     <description>Recent content in Posts on POLIW.AT</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-US</language>
-    <copyright>OSOD, Open Source or Die - 2019</copyright>
-    <lastBuildDate>Mon, 16 Sep 2019 08:37:21 -0500</lastBuildDate>
+    <language>en-us</language>
     
-	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://poliw.at/post/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Spoken Word Is Now as Powerful</title>
-      <link>/post/spoken-word-is-now-as-powerful/</link>
-      <pubDate>Mon, 16 Sep 2019 08:37:21 -0500</pubDate>
-      
-      <guid>/post/spoken-word-is-now-as-powerful/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>I Only Call People More Miserable Than I</title>
-      <link>/post/i-only-call-people-more-miserable-than-i/</link>
-      <pubDate>Sun, 15 Sep 2019 19:39:40 -0500</pubDate>
-      
-      <guid>/post/i-only-call-people-more-miserable-than-i/</guid>
-      <description>1940
-haven&amp;rsquo;t made a log in a while cause I&amp;rsquo;ve been hand writing every day cause my fucking LAPTOPS been broken for so long on and off all year and this is the fuckin year for it all and helen gets triggered when I try to drink a half bottle of wine in 10 minutes before seeing some free jazz cause I don&amp;rsquo;t wanna sneak any in and god damn I thank Craig for giving me a call cause I just got off the whatever and everyone here is so hot so rich and I told craig I&amp;rsquo;ve been a reclusive outside boyfriend art life, and then again I appreciated his call too many times, cause I didn&amp;rsquo;t realize until I said it outloud this social island period of my life can be summed up by only calling people more Miserable than me, who so far has only been kevin who hasn&amp;rsquo;t answered yet and my parents, and all while applying for grad school and looking up and forward to the future where it&amp;rsquo;s going to be really great and nice</description>
-    </item>
-    
-    <item>
-      <title>Gg</title>
-      <link>/post/gg/</link>
-      <pubDate>Sun, 15 Sep 2019 12:40:25 -0500</pubDate>
-      
-      <guid>/post/gg/</guid>
-      <description>asd</description>
-    </item>
-    
-    <item>
-      <title>Art</title>
-      <link>/post/art/</link>
-      <pubDate>Thu, 23 May 2019 16:34:49 -0700</pubDate>
-      
-      <guid>/post/art/</guid>
-      <description>ye weadks;l **YUP **
-FBR
-PBD
-All of Us
-F.A.A
-F.A.
-ILLEST VILLAGE
-[ {}}{}{} ]</description>
-    </item>
-    
-    <item>
-      <title>Poliwat Current Projects</title>
-      <link>/post/poliwat-current-projects/</link>
-      <pubDate>Sat, 06 Apr 2019 21:43:29 -0700</pubDate>
-      
-      <guid>/post/poliwat-current-projects/</guid>
-      <description>POLIW.AT Music Videos Music is not a purely auditory experience, it is also a visual medium. When we hear audio, our brains want to fill in the visual gaps. My poliw.at music videos are a pursuit of reflecting this exchange where I use visual instruments and a suite of video tools to create the videos in real time.
-.codegena{position:relative;width:100%;height:0;padding-bottom:56.27198%;}.codegena iframe{position:absolute;top:0;left:0;width:100%;height:100%;}
-Federal Beat Reserve The name plays upon the idea that the US government might officially support the creative cataloging of music for the people, through the action of encapsulating everything semantic into a discrete duration of instrumental music.</description>
-    </item>
     
   </channel>
 </rss>

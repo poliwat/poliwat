@@ -9,6 +9,7 @@ sections:
   label: Song
   create: all
   match: "**/*"
+  new_doc_ext: ".md"
 - type: directory
   path: content
   label: Pages

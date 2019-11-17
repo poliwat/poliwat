@@ -8,6 +8,8 @@ disqusShortname = ""
 googleAnalytics = ""
 publishDir = "docs"
 
+paginate = "10"
+
 [params]
   # Style options: default (pink), blue, green, pink, red, sea, violet
   # Use custom.css for your custom styling

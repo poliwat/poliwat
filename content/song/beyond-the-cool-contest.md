@@ -4,6 +4,7 @@ image: "img/16.JPG"
 showonlyimage: "true"
 date: 2019-05-14T22:40:49-07:00
 draft: false
+tags : ["log"]
 ---
 
 **1041pm**

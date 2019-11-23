@@ -2,6 +2,7 @@
 title: "A Soul Whose Intentions Are Lake Plants"
 date: 2019-09-24T00:24:43-05:00
 draft : "false"
+tags : ["log"]
 ---
 
 

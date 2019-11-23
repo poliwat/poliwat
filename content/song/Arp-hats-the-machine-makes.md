@@ -2,6 +2,7 @@
 title: "Arp Hats the Machine Makes"
 date: 2019-10-13T10:34:04-05:00
 draft : "false"
+tags : ["log"]
 ---
 
 

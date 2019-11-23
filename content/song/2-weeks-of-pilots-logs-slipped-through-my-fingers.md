@@ -3,8 +3,11 @@ title: 2 Weeks of Pilots Logs Slipped Through My Fingers
 image: img/1.png
 showonlyimage: 'true'
 date: 2019-04-20T17:58:11.000+00:00
-
+tags : ["log"]
 ---
+
+http://utminers.utep.edu/jquintana4/about_me.htm
+
 **sat 1058 AM**
 
 last night we had matt jack marina ted brian denis helen cam all in the same spot and had a great fucking time ||
@@ -21,4 +24,4 @@ cam and ted
 
 \-=--=
 
-test cms no timestamp bout to beach break ! <3 with hel cat 
+test cms no timestamp bout to beach break ! <3 with hel cat

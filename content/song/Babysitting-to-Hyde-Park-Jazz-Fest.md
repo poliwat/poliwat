@@ -2,6 +2,7 @@
 title: "Babysitting to Hyde Park Jazz Fest"
 date: 2019-09-26T12:23:50-05:00
 draft : "false"
+tags : ["log"]
 ---
 
 **1224**

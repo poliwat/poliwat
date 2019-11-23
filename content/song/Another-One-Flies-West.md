@@ -2,6 +2,7 @@
 title: "Another One Flies West"
 date: 2019-10-28T21:31:20-07:00
 draft : "false"
+tags : ["log"]
 ---
 
 **2132**

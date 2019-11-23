@@ -1,5 +1,5 @@
 ---
-title: "Distant Hills"
+title: "Distant Hills - Winters almost over"
 date: 2019-11-14T16:54:12-08:00
 draft : "false"
 ---
@@ -72,7 +72,6 @@ always always ahead
 turn it around I said
 like another nation
 so big
-
 well passionate about pangea
 is everybody up in the streets
 do ma feel ya
@@ -81,12 +80,9 @@ the bar is low
 the way we talk
 the way we are abusive with our non speaking yo
 damn that nobody is thinking
-
 why am I gonna die a die a cynic
-uh oh cause I'm not too smart
-
+uh oh because I'm not too smart
 to correct our actions through all these words that are not
-
 damn
 why is everyone so dumb
 why my russian blood make me wanna hit the rum
@@ -96,19 +92,15 @@ why
 I know every is a phase a chapter
 all through the maze and winters almost fucking over GO!
 
-
 ```
 
 
 ```
-
 they talk
 as if its just a break
 
 I got her in the meantime
-
 so do I break up break it down break it off ya
-
 ```
 
 Long time since a timestamp (6)

@@ -5,7 +5,7 @@ showonlyimage: "true"
 date: 2019-08-05T14:57:22-07:00
 draft: false
 image: "img/2.png"
-showonlyimage: "true"
+tags : ["log"]
 ---
 
 

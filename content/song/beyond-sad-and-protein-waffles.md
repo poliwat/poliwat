@@ -4,6 +4,7 @@ date: 2019-07-22T20:55:32-07:00
 draft: false
 image: "img/1.png"
 showonlyimage: "true"
+tags : ["log"]
 ---
 
 **2056**

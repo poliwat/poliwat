@@ -2,6 +2,7 @@
 title: "Am I in Love or Am I Obsessed"
 date: 2019-10-16T22:10:56-05:00
 draft : "false"
+tags : ["log"]
 ---
 
 

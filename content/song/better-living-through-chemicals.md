@@ -5,6 +5,7 @@ draft: false
 image: "img/4.png"
 showonlyimage: "true"
 tags : ["freestylers-anonymous", "fa"]
+tags : ["log"]
 ---
 
   > Freestyler's Anonymous (FA) Callback from KZSU

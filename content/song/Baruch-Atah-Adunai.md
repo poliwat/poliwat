@@ -2,6 +2,7 @@
 title: "Baruch Atah Adunai"
 date: 2019-10-04T12:09:22-05:00
 draft : "false"
+tags : ["log"]
 ---
 
 When paul's dad was in the hospital and had a NDE (near death exp):
@@ -14,7 +15,7 @@ The Indian Shaman was : Hunkpapsioux OR they are just called ThinkPapa || HunkPa
 one of the 7 council of the Lacota Tribe
 
 
-### If humans were fish lyrics => 
+### If humans were fish lyrics =>
 
 ```
 our fish tank

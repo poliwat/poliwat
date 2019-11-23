@@ -4,6 +4,7 @@ image: "img/17.JPG"
 showonlyimage: "true"
 date: 2019-08-04T09:14:37-07:00
 draft: false
+tags : ["log"]
 ---
 
 **0914**

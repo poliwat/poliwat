@@ -2,6 +2,7 @@
 title: "BWall Death of Pauls Hookahs"
 date: 2019-10-16T00:08:58-05:00
 draft : "false"
+tags : ["log"]
 ---
 
 painted all day had mugs pizza first time deep dish pep AMAZING

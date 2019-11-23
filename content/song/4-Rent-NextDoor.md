@@ -2,6 +2,7 @@
 title: "4 Rent NextDoor"
 date: 2019-10-04T12:01:07-05:00
 draft : "false"
+tags : ["log"]
 ---
 
 **1201**

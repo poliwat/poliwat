@@ -2,6 +2,7 @@
 title: "4 Year Old Said GodisFake Then We Ate Two Whole Ducks After Bowling"
 date: 2019-10-12T14:28:56-05:00
 draft : "false"
+tags : ["log"]
 ---
 
 Just got to nextspace cause monitor went out again === have a solid 2 hours here to go completely savage on the new site. || we got a jacket yesterday for my music video, some nice blue one helen fronted 80 bucks for then we're going to return.

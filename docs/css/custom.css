@@ -1,1 +1,24 @@
 /* your styles go here */
+
+html, p, h1, h2, h3, h4, h5, h6, div, .h1, .h2, .h3, .h4, .h5, .h6 {
+  font-family: "Courier New", Courier, monospace;
+  color: #ffffff;
+}
+
+h1, h2, h3, h4, h5, h6,  {
+    font-family: "Roboto", Helvetica, Arial, sans-serif;
+    font-weight: 700;
+    line-height: 1.2;
+}
+
+.sidebar-p {
+  font: #ffffff;
+}
+
+.container-fluid {
+   background-color:  #4c83c3;
+}
+
+.box-masonry, .box-masonry p-wrap {
+  background-color: #a84468;
+}

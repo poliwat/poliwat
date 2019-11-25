@@ -13,7 +13,7 @@ paginate = "10"
 [params]
   # Style options: default (pink), blue, green, pink, red, sea, violet
   # Use custom.css for your custom styling
-  style = "pink"
+  # style = "blue"
   description = "Open Source"
   copyright = " OSOD &copy;2019 POLIW.AT LOVES YOU"
   sidebarAbout = [

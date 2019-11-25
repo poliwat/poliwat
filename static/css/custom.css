@@ -1,0 +1,52 @@
+/* your styles go here */
+
+html, p, h1, h2, h3, h4, h5, h6, div, .h1, .h2, .h3, .h4, .h5, .h6 {
+  font-family: "Courier New", Courier, monospace;
+  /* color: #ffffff !important; */
+}
+
+h1 .span .baffle {
+  color: #ffffff !important;
+}
+
+a:hover, a:focus {
+  color: #ffffff !important;
+}
+
+#sidebar, #sidebar h5, #sidebar .box-masonry-text, .box-masonry h4 a {
+  color: #ffffff;
+}
+
+.box-masonry .box-masonry-text p, .sidebar-p {
+    color:#ffffff;
+}
+
+.box-masonry h4 a {
+  color: #f2f2f2;
+}
+
+.sidebar-menu li.active a {
+    color: #ffffff;
+}
+
+.sidebar-menu li.active:hover {
+  color: #f2f2f;
+}
+
+h1, h2, h3, h4, h5, h6,  {
+    font-family: "Roboto", Helvetica, Arial, sans-serif;
+    font-weight: 700;
+    line-height: 1.2;
+}
+
+.sidebar-p {
+  font: #ffffff;
+}
+
+.container-fluid {
+   background-color:  #4c83c3;
+}
+
+.box-masonry, .box-masonry p-wrap {
+  background-color: #a84468;
+}

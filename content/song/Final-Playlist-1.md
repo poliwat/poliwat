@@ -18,6 +18,9 @@ ___
 
 ___
 
+
+___
+
 piano ones:
 
 treasures
@@ -43,9 +46,3 @@ Crossed the mason dixon line before I new the line
 
 *Books as monopods*
 *distant hills*
-
-
--==-
-c 1 after dads death:
-act as if everythings a camera relaxed
-=-=--=

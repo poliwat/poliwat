@@ -3,7 +3,6 @@ title : "Welcome to the Federal Beat Reserve"
 draft : false
 image : "/img/34.jpeg"
 showonlyimage : false
-weight : "2"
 tags: ["portfolio", "produced", "busSessions", "music", "video", "PLU-screenplay"]
 ---
 

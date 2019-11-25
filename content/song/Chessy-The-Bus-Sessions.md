@@ -2,7 +2,6 @@
 title: "Chessy the Bus Sessions"
 date: 2019-09-19T11:35:59-05:00
 draft : "false"
-weight : "3"
 image: "img/32.jpg"
 showonlyimage: "true"
 tags: ["portfolio", "produced", "busSessions", "music", "video"]

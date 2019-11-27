@@ -8,15 +8,21 @@ tags : ["song"]
 > lyrics
 
 ```
+G       Em
 You want to play some sudohku
+G       Em
 I only want to connect the dots
+G       Em
 you talking to me about getting old
+G       Em
 whens your birthday I forgot
 
+C         D                Em
 shut up and seize te day girl
+C                    D                
 cause theres way cooler things
+         Em
 than a guy with a guitar
-I
 
 ```
 

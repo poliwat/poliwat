@@ -9,8 +9,9 @@
         <li><a href="{{ absURL .url }}">{{ .name }}</a></li>
       {{ end }}
     </ul>
-      <h5>Subjects</h5>
+      <h4><a href="/tags/">Overview Effect</a></h4>
     <ul>
+            <li><a href="/tags/">Tags</a></li>
     {{ range .Site.Taxonomies.tags }}
             <li><a href="{{ .Page.Permalink }}">{{ .Page.Title }}</a> {{ .Count }}</li>
     {{ end }}

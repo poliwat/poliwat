@@ -2,7 +2,7 @@
 title: "Terry Rash Wanton"
 date: 2019-09-29T15:33:17-05:00
 draft : "false"
-tags : ["lyrics", "poems", "letters"]
+tags : ["lyrics", "poems"]
 ---
 
 

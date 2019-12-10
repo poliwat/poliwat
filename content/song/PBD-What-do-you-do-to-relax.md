@@ -6,7 +6,7 @@ description : "What are you trying to do while you're still alive?"
 type: post
 image: images/episodes/pbd-ep3.jpeg
 author: Michael Betts
-tags: ["Life the musical", "Podcast"]
+tags: ["Podcast"]
 ---
 
 <iframe src="https://archive.org/embed/ep2whatdoyoudotorelax_201909" width="500" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>

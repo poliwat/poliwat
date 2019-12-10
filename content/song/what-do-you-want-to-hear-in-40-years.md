@@ -4,7 +4,7 @@ date: 2019-09-15T12:40:25-05:00
 image: "img/Wicca-Mic-poliwat.png"
 showonlyimage: "true"
 draft: false
-tags: ["paleblue.fm", "music", "Stanford-radio"]
+tags: ["PBD", "music"]
 ---
 
 What I'm going to need to hear in 40 years....

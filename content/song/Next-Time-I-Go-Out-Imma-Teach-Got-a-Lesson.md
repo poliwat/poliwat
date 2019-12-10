@@ -2,7 +2,7 @@
 title: "Next Time I Go Out Imma Teach Got a Lesson"
 date: 2019-09-27T19:18:36-05:00
 draft : "false"
-tags: ["song", "music", "hiphop", "lofi"]
+tags: ["song", "music", "schizop"]
 ---
 
 ```

@@ -2,7 +2,7 @@
 title: "To Push or to Stretch It Out Further"
 date: 2019-10-04T21:22:27-05:00
 draft : "false"
-tags : ["diary", "song"]
+tags : ["song"]
 ---
 
 should I push what I know or stretch it out farther

@@ -2,7 +2,7 @@
 title: "You Are a Wonderful Person"
 date: 2019-09-28T16:45:06-05:00
 draft : "false"
-tags : ["lyrics", "poems", "letters"]
+tags : ["lyrics", "poems"]
 ---
 
 ```

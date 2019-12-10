@@ -2,7 +2,7 @@
 title: "Too Many Pics"
 date: 2019-09-27T16:15:47-05:00
 draft : "false"
-tags : ["lyrics", "poems", "letters"]
+tags : ["lyrics", "poems"]
 ---
 
 ##  the inky only helps

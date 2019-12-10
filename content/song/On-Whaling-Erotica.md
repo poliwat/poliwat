@@ -2,7 +2,7 @@
 title: "On Whaling Erotica"
 date: 2019-10-08T11:27:28-05:00
 draft : "false"
-tags : ["song", "poem"]
+tags : ["song"]
 ---
 
 > poem for helen on whaling erotica

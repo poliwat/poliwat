@@ -43,6 +43,5 @@ but I need to leave and show support in other ways.
 Hopefully you can forgive me too.
 
 Also my three month goals/intentions are:
-- drink at most every other night
--     
+(will write later)
 ```

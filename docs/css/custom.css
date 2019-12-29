@@ -14,7 +14,8 @@ h1 .span .baffle {
 } */
 
 #sidebar, #sidebar h5, #sidebar .box-masonry-text, .box-masonry h4 a {
-  color: #ffffff;
+  color: #3C3B6E;
+  text-transform: capitalize;
 }
 #sidebar a {
   color: #ffffff;
@@ -51,7 +52,7 @@ h1 .span .baffle {
 }
 
 .content-column {
-    background-color: yellowgreen;
+    background-color: #FFFFFF;
 }
 
 h1, h2, h3, h4, h5, h6,  {

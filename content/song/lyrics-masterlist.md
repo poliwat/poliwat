@@ -99,7 +99,7 @@ I wanna be a dad kinda spliff
 ```
 
 world my stage though I feel more a prop
-cluses I've learned from view in rearview mob
+clues I've learned from view in rearview mob
 my tongue blunt tool tongue she like on pop
 world my stage though I feel more a prop
 

@@ -8,7 +8,8 @@ disqusShortname = ""
 googleAnalytics = ""
 publishDir = "docs"
 
-# paginate = "10"
+paginate = "1"
+PaginatePath = "song"
 
 [params]
   # Style options: default (pink), blue, green, pink, red, sea, violet

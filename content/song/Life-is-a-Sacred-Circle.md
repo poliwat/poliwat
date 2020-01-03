@@ -8,10 +8,13 @@ weight : "5"
 tags: ["song", "schizop"]
 ---
 
+What began the second wave.
+
+<!--more-->
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TEFRfhFCY4s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### Lyrics
+### Lyrics  
 
 ```
 life is a sacred circle
@@ -24,6 +27,6 @@ life is a sacred circle
 ```
 
 > Originally recorded on the beaches of Lake Superior from Cathy Nelson, and she played her flute.
-> This is an old prayer from the Lacota Tribe, a native people before the United States. 
+> This is an old prayer from the Lacota Tribe, a native people before the United States.
 
 <iframe src="https://archive.org/embed/00lifeisasacredcircle" width="500" height="140" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>

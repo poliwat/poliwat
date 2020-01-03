@@ -20,7 +20,9 @@
                       <div class="box-masonry-text">
                       {{ end }}
                           <h4><a href="{{ .Permalink }}"> <span class="baffle">{{ .Title  }}</span></a></h4>
-                          {{ .Description | countwords }}
+                          <p>
+                            {{ if .Description }} {{ .Description }} {{ else }} {{ .Summary }} {{ end }}
+                          </p>
                           <!-- <div class="box-masonry-description">
                             <span class="baffle">
                             {{ .Description | countwords }}

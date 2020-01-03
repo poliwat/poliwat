@@ -4,8 +4,12 @@ date: 2019-11-14T22:05:13-08:00
 draft : "false"
 ---
 
-weeks since a timestamp,
-but writing competition therapy
+Writing competition therapy.
+
+<!--more-->
+
+
+Weeks since a timestamp,
 startx
 
 ___

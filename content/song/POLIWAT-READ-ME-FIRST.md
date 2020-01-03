@@ -7,6 +7,10 @@ draft : "false"
 weight : "1"
 ---
 
+> How to use this site.
+
+<!--more-->
+
 # Table of contents
 1. [Intro P](#introduction)
     1. [bio](#bio)

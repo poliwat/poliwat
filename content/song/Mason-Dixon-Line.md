@@ -5,6 +5,13 @@ draft : "false"
 tags : ["song"]
 ---
 
+All I love and lost, not cause they died.
+
+<!--more-->
+
+^^ Love em and lost em
+
+
 #### Lyrics
 
 Mason Dixon Line by Poliw.at

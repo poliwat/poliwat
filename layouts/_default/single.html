@@ -8,9 +8,9 @@
          <h6>{{ .Date }}</h6>
          {{ .Content }}
 
-         {{ template "_internal/disqus.html" . }}
+         <!-- {{ template "_internal/disqus.html" . }} -->
          <h6>Categories:</h6>
-        {{ partial "tags.html" .}}
+        {{ partial "tags.html" }}
 
 <!-- Hugo's default pagination template. -->
 

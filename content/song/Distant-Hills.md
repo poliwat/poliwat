@@ -4,6 +4,9 @@ date: 2019-11-14T16:54:12-08:00
 draft : "false"
 ---
 
+Loved this freestyle so much I memorized it 99% verbatim.
+
+<!--more-->
 
 > Key: C
 

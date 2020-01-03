@@ -5,6 +5,10 @@ draft : "false"
 tags : ["song"]
 ---
 
+Sequel to 'My Social Island'.  
+
+<!--more-->
+
 #### Lyrics
 
 ```

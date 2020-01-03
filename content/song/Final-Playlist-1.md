@@ -4,6 +4,14 @@ date: 2019-11-16T22:25:48-08:00
 draft : "false"
 ---
 
+If I had a nickel every time I wrote that...
+
+<!--more-->
+
+There is no standard version control for song writing, please reach out if you find or made one.
+
+
+### Main guitar acoustic set 
 ___
 1. I am a spliff
 2. World my stage

@@ -5,8 +5,9 @@ draft : "false"
 tags : ["song"]
 ---
 
-> poem for helen on whaling erotica
+Poem for h on whaling.
 
+<!--more-->
 
 ```
 helen

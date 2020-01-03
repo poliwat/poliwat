@@ -2,7 +2,12 @@
 title: "Tithes for Tony"
 date: 2019-10-02T21:54:03-05:00
 draft : "false"
+categories : "log"
 ---
+
+Tutorial: Is this homeless man telling you the truth-s-?
+
+<!--more-->
 
 **2154**
 

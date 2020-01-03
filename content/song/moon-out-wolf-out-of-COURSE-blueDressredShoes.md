@@ -6,6 +6,10 @@ image: "img/66.png"
 showonlyimage: "true"
 ---
 
+That pressure in my head is a love hate coin.
+
+<!--more-->
+
 **2111**
 ```
 og

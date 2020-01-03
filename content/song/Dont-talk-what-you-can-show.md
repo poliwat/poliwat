@@ -5,6 +5,10 @@ draft : "false"
 tags : ["song"]
 ---
 
+Time to take some of your own advice, 'Money Mic'.
+
+<!--more-->
+
 #### lryics:
 
 ```

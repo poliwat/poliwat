@@ -5,6 +5,10 @@ draft : "false"
 tags : ["song"]
 ---
 
+The immortal feeling of mortality directed in this abstract love song with pokemon references.
+
+<!--more-->
+
 > lyrics and chords
 
 ```

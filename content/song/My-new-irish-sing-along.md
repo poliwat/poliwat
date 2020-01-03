@@ -5,6 +5,9 @@ draft : "false"
 tags : ["song", "Acapella"]
 ---
 
+You gotta be drinking with some real friends to belt this one well together.
+
+<!--more-->
 
 # lyrics  
 

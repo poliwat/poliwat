@@ -6,6 +6,10 @@ image: "img/55.png"
 showonlyimage: "true"
 ---
 
+Read 1984 before you say anything about race.
+
+<!--more-->
+
 <iframe src="https://archive.org/embed/SiliconDarwinismV2" width="500" height="140" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 **2213**

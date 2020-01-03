@@ -5,6 +5,9 @@ draft : "false"
 tags : ["log"]
 ---
 
+I'm getting older or running out of gas in my lungs. Time to talk to that heart I keep over stimulating.
+
+<!--more-->
 
 **025**
 

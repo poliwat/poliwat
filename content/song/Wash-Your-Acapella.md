@@ -5,6 +5,10 @@ draft : "false"
 tags : ["song", "Acapella"]
 ---
 
+First colab with h. Started in the shower, where else does singing start? 
+
+<!--more-->
+
 #lyrics
 ```
 (verse 1)

@@ -7,6 +7,10 @@ draft: false
 tags: ["PBD", "music"]
 ---
 
+**SPOILER** What hope to hear in 40 years.
+
+<!--more-->
+
 What I'm going to need to hear in 40 years....
 
 <iframe src="https://archive.org/embed/pbdep1" width="500" height="140" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>

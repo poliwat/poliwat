@@ -7,6 +7,10 @@ showonlyimage: "true"
 tags: ["portfolio", "music"]
 ---
 
+How do I mention this project without calling it a failure?
+
+<!--more-->
+
 <iframe style="border: 0; width: 350px; height: 786px;" src="https://bandcamp.com/EmbeddedPlayer/album=1767051497/size=large/bgcol=ffffff/linkcol=0687f5/transparent=true/" seamless><a href="http://michaelbetts.bandcamp.com/album/bus-sessions">Bus Sessions by Many Humans</a></iframe>
 
 > Producer writeup:

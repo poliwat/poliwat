@@ -5,6 +5,12 @@ draft : "false"
 tags : ["song"]
 ---
 
+One of the earliest hh explorations, gosh 7 years ago now?
+
+<!--more-->
+
+## And still bumping it!
+
 #### Lyrics:
 
 ```

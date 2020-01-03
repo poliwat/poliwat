@@ -5,6 +5,10 @@ draft : "false"
 tags : ["log"]
 ---
 
+Mace practice in the driveway after work.
+
+<!--more-->
+
 painted all day had mugs pizza first time deep dish pep AMAZING
 
 mace practice in the driveway after work and then always sunny, south park, and {{typing put put gold}} :) .

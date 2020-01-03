@@ -4,8 +4,12 @@ date: 2019-07-23T21:06:04-07:00
 draft: false
 image: "img/53.png"
 showonlyimage: "true"
+categories : "poetry"
 ---
 
+this before the...
+
+<!--more-->
 
 **2106**
 

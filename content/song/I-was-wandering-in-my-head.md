@@ -5,6 +5,10 @@ draft : "false"
 tags : ["song"]
 ---
 
+Another one about the dance between idealized, physical, metaphysical reality in cognition.
+
+<!--more-->
+
 >capo 4 (waking up G and more, listen to it)
 
 ```

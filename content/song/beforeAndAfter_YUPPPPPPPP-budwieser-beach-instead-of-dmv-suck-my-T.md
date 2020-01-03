@@ -7,10 +7,12 @@ showonlyimage: "true"
 tags : ["log"]
 ---
 
+To god
+To our creators
+To our endeavors
+To our dreams!
 
-asddsad  a
-
-
+<!--more-->
 
 **1834**
 

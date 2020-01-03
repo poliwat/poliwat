@@ -5,6 +5,10 @@ draft : "false"
 tags: ["song", "music", "schizop"]
 ---
 
+Supposed to be GOD but world's not ready.
+
+<!--more-->
+
 ```
 [chorus]
 next time I go out Ima teach God a lesson

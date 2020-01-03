@@ -6,6 +6,10 @@ image: "img/44.png"
 showonlyimage: "true"
 ---
 
+GOTOs you gotta in muscle memory in order to stay sane competing in wild cognitive rodeos.    
+
+<!--more-->
+
 <iframe src="https://archive.org/embed/FBR-she-sitting-pretty-stems" width="500" height="140" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 aka kek

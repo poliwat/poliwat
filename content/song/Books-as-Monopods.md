@@ -5,9 +5,14 @@ draft : "false"
 tags : ["song"]
 ---
 
+The second version of my current favorite freestyle Transcript. (1.2.20)
+
+<!--more-->
+
 ___
 
 ##### lyrics;
+
 ```
 I use I use I use
 I use books as monopods

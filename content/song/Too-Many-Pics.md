@@ -5,6 +5,10 @@ draft : "false"
 tags : ["lyrics", "poems"]
 ---
 
+Thought police would have to start a new department with me.
+
+<!--more-->
+
 ##  the inky only helps
 my psyche. I'm jogging this much I feel.
 Lovae as capital. Hypothetical house. Pable blue dot fm. Life the musical. Federal beat reserve. What idea is going to get me 3 meals and a cot, a place to record, a beach house for my mom? Everything else will go to pilot's license and the nonprofit turned summer camps music camp orrphange. You know.

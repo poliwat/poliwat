@@ -4,7 +4,10 @@ date: 2019-08-24T19:27:43-07:00
 draft: false
 ---
 
-> Old interview video I made for a remote programming job... I got it but it was only 400 a month for 20+ hours a week so I had to decline!  
+> Old interview video I made for a remote programming job...
+<!--more-->
+
+I got it but it was only 400 a month for 20+ hours a week so I had to decline! Sent them this wild video for 'extra credit'.
 
 <iframe src="https://archive.org/embed/MichaelBetts3wave1" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 

@@ -5,6 +5,9 @@ draft : "false"
 tags : ["song"]
 ---
 
+Officially the first song I ever wrote.
+
+<!--more-->
 
 **1939**
 

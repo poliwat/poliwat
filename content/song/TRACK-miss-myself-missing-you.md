@@ -1,37 +1,45 @@
 ---
-title: "TRACK Miss Myself Missing You"
+title: "Miss Myself Missing You"
 date: 2019-07-23T15:48:50-07:00
 draft: false
 ---
 
+Most likely my saddest song. Took a long time to sing these words.
+
+<!--more-->
+
+> Jared played guitar at my bedroom in santa cruz up empire grade on those 50 acres and damn he made me cry. I lowered the pitch and layered it to make it sound like a standup bass.
+
 #### "Miss myself missing you" by POLIW.AT
 
-[Mantra]
-<div><br></div>
-<div>I’m not usually the one to slow it down</div>
-<div>but that saddest truth that gets to you </div>
-<div>and I know that my laptop is missing screw you </div>
-<div>and I <b>missing</b> myself oh missing you </div>
-<div><br></div>
-<div>but what's dat hardest truth</div>
-<div>of myself missing you </div>
-<div><br></div>
-<div>like everything ends </div>
-<div>or having loose screw</div>
-<div><br></div>
-<div>what's the hardest truth</div>
-<div>when there is noo truth</div>
-<div><br></div>
-<div>I'll never be all I see</div>
-<div>but </div>
-<div><br></div>
+[once]
+```
+I’m not usually the one to slow it down
+but that saddest truth that gets to you
+and I know that my laptop is missing screw you
+and I missing myself oh missing you
+
+but what's dat hardest truth
+of myself missing you
+
+like everything ends
+or having loose screw
+
+what's the hardest truth
+when there is no truth
+
+I'll never be all I see
+but
+
 
 [Last Past]
 
-<div>Life's so precious</div>
-<div>No one whats they doing</div>
-<div>world full of suffering</div>
-<div>but that those soft truths</div>
-<div>what the hardest truth?</div>
-<div>everything ends eventually for us all </div>
-<div>I miss my self missing you</div>
+Life's so precious
+No one whats they doing
+world full of suffering
+but that those soft truths
+what the hardest truth?
+everything ends eventually for us all
+I miss my self missing you
+
+```

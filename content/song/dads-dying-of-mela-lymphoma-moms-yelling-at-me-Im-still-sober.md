@@ -6,9 +6,11 @@ date: 2019-08-08T12:32:31-07:00
 draft: false
 ---
 
-**1232**
+But I'm still eating cancer, I just noticed even carl's JR has prop 65 -- wild.
 
-but I'm still eating cancer, I just noticed even carl's JR has prop 65 -- wild
+<!--more-->
+
+**1232**
 
 but I had a coupon greig gave me for a free famous star and I wanted to try their beyond meat thing and I needed to leave the house cause it's bad vibes and I know I messed up I left a mess but I've been depressed and non op and just trying to build healthy habits and my mom is so stressed she ripped me a new one and says I'm walking all over her and I just kept telling her I'll give her a massage right there lets just calm down she's too stressed to think clearly and it's stressful being around someone perpetually stressed having 1 way conversations with you and then dad's dying of cancer now so I just don't even know
 

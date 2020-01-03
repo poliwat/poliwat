@@ -5,6 +5,10 @@ draft : "false"
 tags : ["log"]
 ---
 
+The last time you need to hear about white people and jazz ever again.   
+
+<!--more-->
+
 **1224**
 
 Transcription from legal pad # 2 =>

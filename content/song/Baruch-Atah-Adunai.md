@@ -5,7 +5,11 @@ draft : "false"
 tags : ["log"]
 ---
 
-When paul's dad was in the hospital and had a NDE (near death exp):
+When paul's dad was in the hospital and had a NDE (near death experience).
+
+<!--more-->
+
+# ≥åß
 
 the entity said:
 

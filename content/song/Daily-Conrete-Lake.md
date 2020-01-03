@@ -4,6 +4,9 @@ date: 2019-09-21T11:38:59-05:00
 draft : "false"
 ---
 
+Typos on purpose to make you think and the following will be neither.
+
+<!--more-->
 
 """'Alcohol doesn't console' She wrote. 'All is replaces is the lack of God.'"""
 --margot from bluets

@@ -4,7 +4,9 @@ date: 2019-08-28T13:44:15-07:00
 draft: false
 ---
 
-> FBR therapy Instrumental, one export with drums another export without
+FBR therapy instrumental, one export with drums another export without
+
+<!--more-->
 
 <iframe src="https://archive.org/embed/FBR3WhatCanTheseHandsDo82bpmV2" width="500" height="140" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 

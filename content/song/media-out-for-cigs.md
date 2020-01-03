@@ -5,6 +5,10 @@ draft : "false"
 tags : ["song"]
 ---
 
+For those with writers block, read old meta notes(orkys).
+
+<!--more-->
+
 #### lyrics:
 
 ```

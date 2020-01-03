@@ -7,9 +7,13 @@ showonlyimage: "true"
 tags : ["log"]
 ---
 
+h is the best thing in this town.
+
+<!--more-->
+
 ****2351****
 
-h is the best thingin this town
+h is the best thing in this town
 
 and she's not in this town
 

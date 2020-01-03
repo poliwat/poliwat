@@ -7,6 +7,10 @@ showonlyimage: "true"
 tags : ["music"]
 ---
 
+*** SPOILER *** Top tier ❤️ pipe dreams.
+
+<!--more-->
+
 <iframe style="border: 0; width: 350px; height: 786px;" src="https://bandcamp.com/EmbeddedPlayer/album=3781662510/size=large/bgcol=ffffff/linkcol=63b2cc/transparent=true/" seamless><a href="http://michaelbetts.bandcamp.com/album/github-center-wav">github.center.wav by Michael Betts</a></iframe>
 
 > Artist writeup:

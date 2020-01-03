@@ -5,6 +5,10 @@ draft : "false"
 tags : ["song"]
 ---
 
+Great lick, lyrics did not stand the test of time.
+
+<!--more-->
+
 > lyrics
 
 ```

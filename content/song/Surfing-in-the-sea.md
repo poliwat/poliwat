@@ -5,6 +5,9 @@ draft : "false"
 tags : ["song"]
 ---
 
+Perfect song for the beach.
+
+<!--more-->
 
 ```
 D C D ( capo 0 or 2(depending on health) )

@@ -5,6 +5,10 @@ draft : "false"
 tags : ["log"]
 ---
 
+Lost Weiner Circle Opportunities during a manic depressive episode.
+
+<!--more-->
+
 **1201**
 
 ( Time is now )

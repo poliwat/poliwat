@@ -5,6 +5,10 @@ draft : "false"
 tags : ["lyrics", "poems"]
 ---
 
+Diners stay timeless.
+
+<!--more-->
+
 ```
 you are a wonderful person
 too complex a creature to be

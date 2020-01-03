@@ -2,8 +2,12 @@
 title: "Lincoln Park Bunnies Dont Know Whats in the Lake"
 date: 2019-10-03T10:42:33-05:00
 draft : "false"
+categories : "log"
 ---
 
+I.E. Bodies (Not they don't know what they missing)
+
+<!--more-->
 
 **1042AM**
 

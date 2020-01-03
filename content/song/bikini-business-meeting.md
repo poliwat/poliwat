@@ -7,6 +7,10 @@ draft: false
 tags : ["log"]
 ---
 
+Why make art for idiots when you can make art for artists?
+
+<!--more-->
+
 **0914**
 
 

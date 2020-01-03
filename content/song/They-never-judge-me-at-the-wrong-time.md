@@ -4,6 +4,11 @@ date: 2019-09-18T10:08:47-05:00
 draft : "false"
 tags : ["lyrics"]
 ---
+
+Friends. Fam. Oh god this one hurt dirty.
+
+<!--more-->
+
 <iframe src="https://archive.org/embed/1hop1v2" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 **1009**

@@ -4,6 +4,10 @@ date: 2019-08-11T23:17:33-07:00
 draft: false
 ---
 
+Manic depressive episode 783147019183274. 
+
+<!--more-->
+
 **2317**
 
 but Im working late tonight just bounced 2 ableton sessions

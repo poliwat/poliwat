@@ -2,13 +2,15 @@
 title: "Brown Dog Heads to Chicago"
 date: 2019-10-01T14:16:06-05:00
 draft : "false"
-tags : ["lyrics", "poems"]
+tags : ["lyrics", "poems", "log"]
 ---
-
-**1416**
 
 The following are transcriptions from free legal pads :
 
+
+<!--more-->
+
+**1416**
 
 ```
 

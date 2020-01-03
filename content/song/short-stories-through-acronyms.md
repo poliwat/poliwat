@@ -4,6 +4,9 @@ date: 2019-08-16T09:33:08-07:00
 draft: false
 ---
 
+That grace you attain when you submit fully to your favorite artists.
+
+<!--more-->
 
 **933am**
 
@@ -385,4 +388,4 @@ you're sober  mic
 
    I won't drink
 
-   I won't drink !!! 
+   I won't drink !!!

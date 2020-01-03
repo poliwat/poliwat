@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>song on POLIW.AT</title>
+    <link>https://poliw.at/categories/song/</link>
+    <description>Recent content in song on POLIW.AT</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 14 Nov 2019 18:40:46 -0800</lastBuildDate>
+    
+	<atom:link href="https://poliw.at/categories/song/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>I Want a Ball</title>
+      <link>https://poliw.at/song/i-want-a-ball/</link>
+      <pubDate>Thu, 14 Nov 2019 18:40:46 -0800</pubDate>
+      
+      <guid>https://poliw.at/song/i-want-a-ball/</guid>
+      <description>&lt;p&gt;What children survived their 30s? DM me.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

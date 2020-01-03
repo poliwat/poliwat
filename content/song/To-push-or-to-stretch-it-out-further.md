@@ -5,6 +5,10 @@ draft : "false"
 tags : ["song"]
 ---
 
+Should I push what I know or stretch it out farther?
+
+<!--more-->
+
 should I push what I know or stretch it out farther
 
 like stay up all night by the lake

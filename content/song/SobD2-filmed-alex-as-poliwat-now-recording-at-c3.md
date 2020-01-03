@@ -4,6 +4,9 @@ date: 2019-08-02T21:02:38-07:00
 draft: false
 ---
 
+Note to self: Drugs to music ratio was fucked up.
+
+<!--more-->
 
 **2103**
 

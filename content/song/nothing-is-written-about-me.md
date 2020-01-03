@@ -6,6 +6,10 @@ image: "img/69.png"
 showonlyimage: "true"
 ---
 
+But I wrote everything here.
+
+<!--more-->
+
 > **Info** Live Radio Excerpt at Stanford, summer 2k18, Summer Episode on Death! Long form and raw with all mistakes and magic.
 
 <iframe src="https://archive.org/embed/summerepisode3death20180724" width="500" height="140" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>

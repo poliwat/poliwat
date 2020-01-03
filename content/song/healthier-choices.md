@@ -7,11 +7,11 @@ showonlyimage: "true"
 tags : ["PBD", "podcast"]
 ---
 
+Pale Blue Dawt! Or paleblue.fm (couldn't afford keeping another website online)
+
+<!--more-->
+
 > PBD ep 2 <div><b>Ep2 What are you trying to do before you die </b></div>
-
-Pale Blue Dawt!
-
-or paleblue.fm (couldn't afford keeping another website online)
 
 <iframe src="https://archive.org/embed/Ep2WhatDoYouDoToRelax" width="500" height="140" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 

@@ -6,6 +6,10 @@ image: "img/51.png"
 showonlyimage: "true"
 ---
 
+Not pointing fingers here, but someone's addicted.
+
+<!--more-->
+
 **2228**
 
 just got back from bonnie and pauls a nice bbq paul made ribs on my dads dime - and it was dope bonnie asked my beliefs and it turned into this huge long thing that made the 3 hours to cook the ribs on the bbq feel like 3 minutes, and now that she wrote down all my beliefs I'd like to see them, so I'll get a snap of that next time I see her. in the meantime I'm not full exhausted by any means - but getting there cause working at brian's was tough and well shit he didn't call and I suppose I should've called lol

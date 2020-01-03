@@ -1,9 +1,12 @@
 ---
-title: "Eggs Paint and a Womens Talk"
+title: "Eggs Paint, and a Women's Talk"
 date: 2019-10-16T09:50:27-05:00
 draft : "false"
 ---
 
+Look it up in your moleskin.
+
+<!--more-->
 
 and I didn't finished the though because I focused on the good word:
 

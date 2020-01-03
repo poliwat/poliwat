@@ -8,7 +8,9 @@ tags : ["freestylers-anonymous", "fa"]
 tags : ["log"]
 ---
 
-  > Freestyler's Anonymous (FA) Callback from KZSU
+Freestyler's Anonymous (FA) Callback from KZSU and dad log. 
+
+<!--more-->
 
 <iframe src="https://archive.org/embed/FreestylersAnonSmoothYaFaKzsu" width="500" height="140" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 

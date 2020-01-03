@@ -5,6 +5,9 @@ draft : "false"
 tags : ["song", "schizop", "music"]
 ---
 
+Imagine you're hung over hiking by yourself you throw up bile, find a grasshopper, and have a conversation with them.  
+
+<!--more-->
 
 **1603**
 

@@ -1,12 +1,22 @@
-/* your styles go here */
+@font-face {
+    font-family: 'special_eliteregular';
+    src: url('/css/fonts/specialelite-regular-webfont.woff2') format('woff2'),
+         url('/css/fonts/specialelite-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
 
 html, p, h1, h2, h3, h4, h5, h6, div, .h1, .h2, .h3, .h4, .h5, .h6 {
-  font-family: "Courier New", Courier, monospace;
+  font-family: "special_eliteregular", "Courier New", Courier, monospace;
   /* color: #ffffff !important; */
 }
 
 h1 .span .baffle {
   color: #ffffff !important;
+  font-family: "special_eliteregular";
+
 }
 
 /* a:hover, a:focus {

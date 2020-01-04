@@ -4,6 +4,8 @@ date: {{ .Date }}
 draft : "false"
 ---
 
+<!--more-->
+
 <!-- Insert embed code here  -->
 
 You:

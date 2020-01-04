@@ -4,7 +4,6 @@ date: 2019-09-18T14:21:01-05:00
 image: "img/31.png"
 showonlyimage: "true"
 draft : "false"
-weight : "5"
 tags: ["song", "schizop"]
 ---
 

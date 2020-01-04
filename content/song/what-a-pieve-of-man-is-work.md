@@ -2,12 +2,11 @@
 title: "What a Piece of Man Is Work"
 date: 2019-09-17T13:00:39-05:00
 draft : "false"
-weight : "99"
 image : "/img/12.jpg"
 tags: ["song"]
 ---
 
-Your final TODO list before you cut your cucumber off. 
+Your final TODO list before you cut your cucumber off.
 
 <!--more-->
 

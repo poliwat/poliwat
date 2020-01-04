@@ -20,6 +20,10 @@ h1 .span .baffle {
   color: #ffffff !important;
 } */
 
+time {
+  color: #b22234; 
+}
+
 #sidebar, #sidebar h5, #sidebar .box-masonry-text, .box-masonry h4 a {
   color: #3C3B6E;
   text-transform: capitalize;

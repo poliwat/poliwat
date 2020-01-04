@@ -9,11 +9,13 @@ Cause I riffed off all this youth paraphernalia in this clean green room.
 
 <!--more-->
 
-**2202**
+**22:02**
 
 But it was my room soooo...
 
-time? In the room dad died, bonjo just texted me saying I can't make music here I barely read her little drama paragraph -  mom just talked shit for over an hour on the phone to her and all she had resources for was sending a text. FYI I never read long drama texts, that's why my smile crinkles are coming in full swing early like a big band. And the band plays on. I think I'm more angry than sad that I can't do a serious recording session in the room my dad died, when he bought me a nice scarlet interface to record with from the hopsice bed when I was taking care of him, I didn't ask for it, he just surprise got it for me. And I found tears in my eyes at the beach today, meditating day two of sobriety feeling high as shit and the tears were more from the sunscreen why god every time I put sunscreen on my tears come? If I wanna cry about dad I'll ask find the sunscreen. I'm too rushed right now to even eorry about it, no longer angry no longer sad, I'm miles, planets away from the fight with mom this morning, I'm out of this solar sytem, I've ran away with the van and the music equipment and played everywhere from madison to the sidewalks and I came back and bought the house and kicked out mom and put her in her new modest beach house and I turned the green room I painted I sit in now into a studio so I could record my best songs in the spot he died.  
+# Time?
+### In the room dad died,
+#### bonjo just texted me saying I can't make music here I barely read her little drama paragraph -  mom just talked shit for over an hour on the phone to her and all she had resources for was sending a text. FYI I never read long drama texts, that's why my smile crinkles are coming in full swing early like a big band. And the band plays on. I think I'm more angry than sad that I can't do a serious recording session in the room my dad died, when he bought me a nice scarlet interface to record with from the hopsice bed when I was taking care of him, I didn't ask for it, he just surprise got it for me. And I found tears in my eyes at the beach today, meditating day two of sobriety feeling high as shit and the tears were more from the sunscreen why god every time I put sunscreen on my tears come? If I wanna cry about dad I'll ask find the sunscreen. I'm too rushed right now to even eorry about it, no longer angry no longer sad, I'm miles, planets away from the fight with mom this morning, I'm out of this solar sytem, I've ran away with the van and the music equipment and played everywhere from madison to the sidewalks and I came back and bought the house and kicked out mom and put her in her new modest beach house and I turned the green room I painted I sit in now into a studio so I could record my best songs in the spot he died.  
 
 <!--more-->
 

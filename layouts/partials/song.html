@@ -28,6 +28,14 @@
                             {{ .Description | countwords }}
                               </span>
                           </div> -->
+                          <time datetime="" itemprop="datePublished">
+                            {{ .Date.Format "January 02 2006" }}
+                   <!--  {{ if .Params.location }}
+                        <span>
+                            {{ .Params.location }}
+                        </span>
+                    {{ end }} -->
+                          </time>
 
                               <!-- {{ partial "tags.html" .}} -->
 

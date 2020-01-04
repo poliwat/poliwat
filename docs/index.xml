@@ -6,7 +6,7 @@
     <description>Recent content on POLIW.AT</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 02 Jan 2020 22:01:39 -0800</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jan 2020 10:34:41 -0800</lastBuildDate>
     
 	<atom:link href="https://poliw.at/index.xml" rel="self" type="application/rss+xml" />
     
@@ -34,21 +34,12 @@
     </item>
     
     <item>
-      <title>Life Is a Sacred Circle</title>
-      <link>https://poliw.at/song/life-is-a-sacred-circle/</link>
-      <pubDate>Wed, 18 Sep 2019 14:21:01 -0500</pubDate>
+      <title>Dont Push the Black Sheep</title>
+      <link>https://poliw.at/log/dont-push-the-black-sheep/</link>
+      <pubDate>Fri, 03 Jan 2020 10:34:41 -0800</pubDate>
       
-      <guid>https://poliw.at/song/life-is-a-sacred-circle/</guid>
-      <description>&lt;p&gt;What began the second wave.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>What a Piece of Man Is Work</title>
-      <link>https://poliw.at/song/what-a-pieve-of-man-is-work/</link>
-      <pubDate>Tue, 17 Sep 2019 13:00:39 -0500</pubDate>
-      
-      <guid>https://poliw.at/song/what-a-pieve-of-man-is-work/</guid>
-      <description>&lt;p&gt;Your final TODO list before you cut your cucumber off.&lt;/p&gt;</description>
+      <guid>https://poliw.at/log/dont-push-the-black-sheep/</guid>
+      <description>&lt;p&gt;or they might leave.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -799,12 +790,30 @@ big alien alf fable  </description>
     </item>
     
     <item>
+      <title>Life Is a Sacred Circle</title>
+      <link>https://poliw.at/song/life-is-a-sacred-circle/</link>
+      <pubDate>Wed, 18 Sep 2019 14:21:01 -0500</pubDate>
+      
+      <guid>https://poliw.at/song/life-is-a-sacred-circle/</guid>
+      <description>&lt;p&gt;What began the second wave.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>They Never Judge Me at the Wrong Time</title>
       <link>https://poliw.at/song/they-never-judge-me-at-the-wrong-time/</link>
       <pubDate>Wed, 18 Sep 2019 10:08:47 -0500</pubDate>
       
       <guid>https://poliw.at/song/they-never-judge-me-at-the-wrong-time/</guid>
       <description>&lt;p&gt;Friends. Fam. Oh god this one hurt dirty.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>What a Piece of Man Is Work</title>
+      <link>https://poliw.at/song/what-a-pieve-of-man-is-work/</link>
+      <pubDate>Tue, 17 Sep 2019 13:00:39 -0500</pubDate>
+      
+      <guid>https://poliw.at/song/what-a-pieve-of-man-is-work/</guid>
+      <description>&lt;p&gt;Your final TODO list before you cut your cucumber off.&lt;/p&gt;</description>
     </item>
     
     <item>

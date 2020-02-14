@@ -2,7 +2,7 @@
 title: "Im Not Working Today and Im Not Working"
 date: 2019-11-29T14:50:21-08:00
 draft : "false"
-tags : ["log"]
+tags : ["Logs"]
 ---
 
 

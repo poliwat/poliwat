@@ -2,7 +2,7 @@
 title: "The Three Rs Diagnosalis"
 date: 2019-12-09T10:28:36-08:00
 draft : "false"
-tags : ["log"]
+tags : ["logs"]
 ---
 
 

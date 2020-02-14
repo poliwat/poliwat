@@ -2,7 +2,7 @@
 title: "Dont Push the Black Sheep"
 date: 2020-01-03T10:34:41-08:00
 draft : "false"
-tags : ["log"]
+tags : ["Logs"]
 ---
 
 or they might leave.
@@ -101,6 +101,12 @@ for us.
 -=-=--=-=--=-=--=-=--=-=--=-=--=-=--=-=--=-=--=-=--=-=--=-=--=-=-
 
 https://en.wikipedia.org/wiki/Duende_(art)  
+
+
+# ♩     Smart phones     &#9833;
+## ♪     Make you stupid      &#9834;
+### ♫     use  &#9835;
+#### ♬     https://poliw.at/deway &#9836;
 
 <!--
 1 read

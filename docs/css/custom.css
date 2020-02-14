@@ -11,9 +11,12 @@ html, p, h1, h2, h3, h4, h5, h6, div, .h1, .h2, .h3, .h4, .h5, .h6 {
   /* color: #ffffff !important; */
 }
 
+#sidebar ul {
+    color: antiquewhite;
+}
+
 h1 .span .baffle {
   font-family: "special_eliteregular";
-
 }
 
 /* a:hover, a:focus {
@@ -21,7 +24,7 @@ h1 .span .baffle {
 } */
 
 time {
-  color: #b22234; 
+  color: #b22234;
 }
 
 #sidebar, #sidebar h5, #sidebar .box-masonry-text, .box-masonry h4 a {

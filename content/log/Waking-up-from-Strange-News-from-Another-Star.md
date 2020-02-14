@@ -2,7 +2,7 @@
 title: "Waking Up From Strange News From Another Star"
 date: 2019-11-20T10:14:25-08:00
 draft : "false"
-tags : ["log"]
+tags : ["logs"]
 ---
 
 **1015AM**

@@ -2,7 +2,7 @@
 title: "Who I Post To"
 date: 2019-02-17T12:07:59-08:00
 draft : "false"
-tags : ["log"]
+tags : ["logs"]
 ---
 
 <iframe style="border: 0; width: 400px; height: 492px;" src="https://bandcamp.com/EmbeddedPlayer/track=66442707/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://poliwat.bandcamp.com/track/lexapro-tb">Lexapro TB by POLIW.AT</a></iframe>

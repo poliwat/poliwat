@@ -1,0 +1,48 @@
+<div class="col-xs-12 col-sm-8 col-md-9 content-column">
+    {{ partial "mobile_nav_toggle.html" . }}
+    <div class="grid">
+        <div class="row">
+          {{ range .Data.Pages }}
+              <div class="col-xs-12 col-sm-6 col-md-4 col-lg-3 masonry-item">
+                  <div class="box-masonry p-wrap">
+                      {{ if and (isset .Params "image") .Params.image }}
+                        {{ if eq .Params.showonlyimage true }} <span class="baffle">
+                        <a href="{{ .Permalink }}" title="" class="box-masonry-image with-hover-overlay">
+                        {{ else }}
+                        <a href="{{ .Permalink }}" title="" class="box-masonry-image with-hover-overlay with-hover-icon">
+                        {{ end }} </span>
+                            <img src="{{.Params.image | absURL}}" alt="" class="img-responsive">
+                        </a>
+                        {{ end }}
+                      {{ if eq .Params.showonlyimage true }}
+                      <div class="box-masonry-hover-text-header">
+                      {{ else }}
+                      <div class="box-masonry-text">
+                      {{ end }}
+                          <h4><a href="{{ .Permalink }}"> <span class="baffle">{{ .Title  }}</span></a></h4>
+                          <p>
+                            {{ if .Description }} {{ .Description }} {{ else }} {{ .Summary }} {{ end }}
+                          </p>
+                          <!-- <div class="box-masonry-description">
+                            <span class="baffle">
+                            {{ .Description | countwords }}
+                              </span>
+                          </div> -->
+                          <time datetime="" itemprop="datePublished">
+                            {{ .Date.Format "January 02 2006" }}
+                   <!--  {{ if .Params.location }}
+                        <span>
+                            {{ .Params.location }}
+                        </span>
+                    {{ end }} -->
+                          </time>
+
+                              <!-- {{ partial "tags.html" .}} -->
+
+                      </div>
+                  </div>
+              </div>
+          {{ end }}
+        </div>
+    </div>
+</div>

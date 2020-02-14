@@ -2,7 +2,7 @@
 title: "Hiatus From Hiatitcus"
 date: 2019-12-29T09:24:07-08:00
 draft : "false"
-tags : ["log"]
+tags : ["Logs"]
 ---
 
 **924AM**

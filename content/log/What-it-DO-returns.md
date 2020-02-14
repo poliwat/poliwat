@@ -2,7 +2,7 @@
 title: "What It DO Returns"
 date: 2019-12-01T21:00:17-08:00
 draft : "false"
-tags : ["log"]
+tags : ["logs"]
 ---
 
 **2100**

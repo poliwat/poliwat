@@ -2,7 +2,7 @@
 title: "LA Trip Mid Awning Project"
 date: 2019-12-04T12:11:23-08:00
 draft : "false"
-tags : ["log"]
+tags : ["Logs"]
 ---
 
 

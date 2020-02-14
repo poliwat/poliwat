@@ -9,7 +9,7 @@ googleAnalytics = ""
 publishDir = "docs"
 
 paginate = "1"
-PaginatePath = "song"
+PaginatePath = "projects"
 
 [params]
   # Style options: default (pink), blue, green, pink, red, sea, violet
@@ -18,8 +18,7 @@ PaginatePath = "song"
   description = "Open Source"
   copyright = " OSOD &copy;2019 POLIW.AT LOVES YOU"
   sidebarAbout = [
-    "I am a composer, musician, visual artist, and writer with 9 years of experience.",
-    "Originally from California, currently travelling. All my work is free and Open Source."
+    "TLDR;","> US based mixed media artist ","> passion for tech art and humanity ","> makes art to inspire higher standards of how we treat each other"
   ]
   # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a
@@ -33,7 +32,7 @@ PaginatePath = "song"
      # - send a dummy email yourself to confirm your account
      # - click the confirm link in the email from www.formspree.io
      # - you're done. Happy mailing!
-  email = "you@yoursite.com"
+  email = "michael@kzsu.stanford.edu"
 
     # Optional Matomo analytics (formerly piwik)
       # [params.analytics.matomo]
@@ -47,7 +46,7 @@ PaginatePath = "song"
   # Nav links in the side bar
   [[params.navlinks]]
   name = "Home"
-  url = "/song"
+  url = "/projects"
   home = true
 
   [[params.navlinks]]

@@ -2,7 +2,7 @@
 title: "Dear Mom and Bonnie"
 date: 2019-11-22T13:05:08-08:00
 draft : "false"
-tags : ["log"]
+tags : ["Logs"]
 ---
 
 

@@ -2,7 +2,7 @@
 title: "Didn T Get Soaked Till the End of the Pier"
 date: 2019-11-27T13:26:21-08:00
 draft : "false"
-tags : ["log"]
+tags : ["logs"]
 ---
 
 **13:53**

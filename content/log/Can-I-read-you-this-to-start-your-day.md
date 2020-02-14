@@ -2,7 +2,7 @@
 title: "Can I Read You This to Start Your Day"
 date: 2019-12-08T11:32:06-08:00
 draft : "false"
-tags : ["log"]
+tags : ["Logs"]
 ---
 
 **11:39AM**

@@ -2,7 +2,7 @@
 title: "Death of Banned Words"
 date: 2019-11-24T17:26:02-08:00
 draft : "false"
-tags : ["log"]
+tags : ["Logs"]
 ---
 
 

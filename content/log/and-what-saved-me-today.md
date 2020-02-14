@@ -1,0 +1,812 @@
+---
+title: "And What Saved Me Today"
+date: 2019-08-05T14:57:22-07:00
+draft: false
+tags : ["logs"]
+---
+
+
+**1457**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SrcOcKYQX3c?start=600" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+I'm having a good day -started a bank account it's been a long time without one
+
+you don't even know the invisible pressures all around me
+
+and you don't even know how stubborn I am
+
+tomorrow we'll find out my dad if my dad has lmyphoma
+
+my mom started the morning with a little meeting telling me I need to move out and work and make money
+
+I wish I was born in a family that talked about art and or science all day     
+
+but then maybe my art wouldn't have been as godot
+
+cause this struggle
+
+this marathon of feeling like today is my last week
+
+is never ending
+
+and all that remains
+
+are the muscles to keep going
+
+I was telling helen its good to keep working without relying on hope
+
+but she was saying there is hope and there really is so much
+
+there is hope for me still
+
+although hope is much like me
+
+tardy and full of promises
+
+I don't need hope because I have hoped too much though
+
+my work will remain
+
+the words from my mouth that broke me will remain
+
+the weight of existence will remain forever
+
+if I don't get this work out
+
+if I don't get these images out
+
+and I'll suffer for eternity
+
+so while most are out of commission obsessed with artificial values
+
+such as 'you gotta make money to survive'
+
+I say no, think for yourself
+
+go out by yourself in nature
+
+and communicate with God 1 on 1
+
+and you'll find out what you need to do
+
+for me in an elevator pitch it'd be
+
+reduce the world's suffering in the shortest amount of time
+
+and I'm on that path
+
+and right now that means having parents unhappy with me
+
+parents that don't see the bigger picture
+
+and my failings because I'm not communicating it well enough
+
+but what really matters
+
+and what do you want to do before you die?
+
+tell me that! and then go work at a poisonous place
+
+so you can buy poisonous items for your body
+
+and litter the earth with poison the whole route
+
+and then tell everyone they have to do it too
+
+the world , how humans behave, where the average person's brain is at, is crazier than anything you could ever imagine
+
+if you were lovecraft, if you were orwell
+
+they couldn't touch the crazy depths
+
+of the average american
+
+the pleb the commoner the proletariat
+
+I sometimes freestyle about being the king of
+
+cause that's the world I live in
+
+but even I don't stoop so low
+
+as to think not my thoughts
+
+as to hold values not by my mind
+
+by my invention
+
+by my intention
+
+and although it hurts those around me
+
+it only hurts the untrained and it only hurts cause they let it
+
+and love, is this what stubbornness looks like?
+
+cause I might be a little adamant
+
+about my philosophy
+because that's what philosophy is,
+
+what you live by, what you die by,
+
+otherwise it's not your philosophy     
+
+so yeah on second thought, I'm having a rough day today
+
+
+# justin case
+
+```
+=-=—==—=-=-===-=—==—=-=-===-=—==—=-=-===-=—==—=-=-==-=
+DARLENE
+you know what freddy mehrabian wrote in 015, about the 3 creativity rules on  know knowing and knows:
+POLIWAT
+yeah what were those three again?
+DARLENE
+Never know how much you know
+only know as much or as little as you need to know at the right time
+never be the knowist in the room  
+POLIWAT
+So judging by this tree and these frogs, we’re looking at two females in a 20 by 20 room with looks like about 15-20 monitor feeds somewhere within three miles of here.
+DARLENE
+great you predicted something that can’t be proven for 50 years
+whether your a psychic or a physicist… what are you going to do about it?
+you know the next action, is in the lesson, young padawan!
+POLIWAT
+only call me that on wednesdays, please! aha what’s the coordinates on the signal at . 3.5 hertz, with the weird oscillation every 7 seconds?
+DARLENE
+Looks like it’s coming from a building on the other side of this field   
+=—==-=—==—==-=—==—==-=—==—==-=—==—==-=—==—==-=—=
+LADYS
+FEM 1 WHEN OUR BRAINS CONNECT
+I FIND HER BASE REALITY
+EVERYONE HAS A BASE REALITY
+HERS IS AT A COMMUNITY COLLEGE THEATRE AS A KID
+SNEAKING INTO A THEATRE WITH HER NAD HER DEAD BEST FRIEND
+AND THEY SNEAK IN AND TRY COSTUMES AND REENACT THE MANNEQUINS
+AND CLIMB THE LADDER INTO THE RAFTERS
+THEN THE SECURITY GUY SHOWS UP AND CHASES THEM OUT
+THEY HAVE A REAL FUN TIME
+THATS THE FIRST MEMORY POLIWAT FINDS IN ORDER TO FIND HER
+ALWAYS GO TO THE SOURCE ahahaha.
+NEVER RUN FROM THE NOISE
+=-=—==—=-=-=—==-=—=-==—==—=-==-=-=-=—==-=-=-=—==-=-=-=-=-=-=
+POLIW.AT! here
+alert the town!
+tell them to hide your batteries beer women and weed.
+guy rides off on horseback
+hide your batteries!
+hide your beer!
+POLECAT is COMING!
+=-=—==—=-=-=—==-=—=-==—==—=-==-=-=-=—==-=-=-=—==-=-=-=-=-=-=
+tats why dancers don’t run the world but the people who run the world dance
+tats why musicians don’t run the world but the people who run the world make music
+thats why politicians don’t run the world cause they’ve been systematically
+‘dead and clone’ scenarioed  
+==-=-=-=-=—====-=-=-=-=—====-=-=-=-=—====-=-=-=-=—====-=-=-=-=—
+chad
+you should do a cover if you want people to hear your original music
+mic
+ehhhh fine
+chad I got the perfect one in mind, we’ll do it together
+mic
+oh yeah! what song?
+chad
+Tech N9ne - Fragile (feat. Kendrick Lamar, ¡MAYDAY! & Kend
+mic
+oh yeah I love that one when they’re all looking emo in some warehouse and when he’s like “I’m an artist and I’m sensitive about my shit yes I’m fragile”
+chad
+ahahaha yeah exactly
+MUSIC CUE: “I’m fragile cover” by ChadMike
+(while watching it)
+chad
+I think our voices turned out better
+mic
+I love it! Now people might listen to our original music
+ chad
+yeah right we gotta do this like 1000 times
+mic
+oh shit you’re right
+=-=-=-=-==-=-=-=-==-=-=-=-==-=-=-=-==-=-=-=-==-=-=-=-==-=-=-=-=
+my first answer is kill yourself
+cause you’re your own worst enemy
+you don’t need to ask me anything about creativity
+this is a moment of weakness
+so kill yourself so you can get out of your own way
+=-=-=-=-==-=-=-=-==-=-=-=-==-=-=-=-==-=-=-=-==-=-=-=-==-=-=-=-=
+ghandi lennon luther!
+at sea are carat sea cursingadasdasd
+think
+why is no one asking the right questions
+what a good question
+idk like
+how do frequencies we can’t hear affect how we think?  
+=-=-=-=-==-=-=-=-==-=-=-=-==-=-=-=-==-=-=-=-==-=-=-=-==-=-=-=-=
+h.h
+hypothetically I’m not a writer
+hypothetically I’m a writer
+you know what writers they say about writing? Writing is like getting fucked in the ass by god
+hh speaking of god - hh jesus was a tranny with a dirty mouth
+do you think all sailors have dirty mouths
+all people
+=-=—==—=-=-===-=—==—=-=-===-=—==—=-=-===-=—==—=-=-==
+poliwat
+show me the childhood of the last queen
+(30 seconds pass)
+Darlene
+uhhh.ok
+=-=—==—=-=-===-=—==—=-=-===-=—==—=-=-===-=—==—=-=-==
+oh yeah listen to him cause he knows
+what does he know
+he knows both sides of the coin, and for some weird
+reason chooses to be up on the coin
+both ways of the coin
+when you’re up on coin
+and when you’re down on coin
+he knows it both ways of the coin
+am I crazy for being down on the coin?
+you’re crazy for not knowing the saying
+money is the root of all evil
+and spending years of your life
+talking about the cost of anything
+but why is talking about cost bad?
+is that so bad?
+=-=—==—=-=-===-=—==—=-=-===-=—==—=-=-===-=—==—=-=-==
+HH
+am I crazy?
+or
+are you crazy
+you have to be black to sound black?
+humans are walking around
+thinking it’s racist to speak in a mexican accent
+while not being mexican?
+these people’s brains have been infiltrated by the nsa
+the discrete security agency of the most powerful nation in history thus far.
+and the nsa has been infiltrated by an alien race that found and uses the earth for two reasons
+A) to provide a computing center for discovering the answer to god
+( an ind human analogous to neurons in the brain, of God’s consciousness from the human’s perspective, but it’s actually the individual humans are  AI, and the seemingly infiniteness of consciousness and conscious thought is the computing processes required for calculating the location of god, which is what the aliens want to do  )
+B) to learn themselves about how to start civilizations
+so they use these devices in order to influence the human society, so that it’s shaped more like a super computer. that’s why we had the industrial age
+=-=—==—=-=-===-=—==—=-=-===-=—==—=-=-===-=—==—=-=-==-=
+Amis and Andy radio shows
+two white guys sounding like black guys
+=-==-=-=-=—= =-==-=-=-=—= =-==-=-=-=—= =-==-=-=-=—= =-==-=-=-=
+FA
+chad
+no one cares
+everyone
+‘we pretended’
+no one cares
+everyone
+‘we never did’
+chad
+no one cares
+everyone
+but me
+and no one cares
+but you
+=-==-=-=-=—= =-==-=-=-=—= =-==-=-=-=—= =-==-=-=-=—= =-==-=-=-=—=
+hh
+why do I hate rent?
+hh cause rent took the life of Chessy, my 71` vw bus, whose memories we share are magic.
+hh cause rent took my martin that my dad gave me on my 21st birthday. that guitar was the most prized and costly possession I owned.
+hh cause rent took my mitsubishi mirage
+hh cause rent tested my friend’s patience
+hh cause rent showed me who believed in me and who didn’t
+hh rent killed my laser cutter
+hh it wasn’t the rent but hh but if rent was a ghost that was summoned and in a communal wifi board session in the middle of the woods and I called that ghost a pussy hypothetically that would be the reason the rent is the ghost that broke my laser cutter.
+hh we all know this phrase, and forget it everyday  
+hh money is the root of all evil
+hh I wrote that, because I wrote it down just now
+hh nothing written is anyone’s
+hh all ideas are in a shared soup
+hh all artists if they are not posers know this
+hh but back to the phrase
+hh money is the root of all evil  
+hh when did money start?
+hh that doesn’t matter
+because you know why I really hate rent
+cause rent is the reason
+I’m separated from my love
+rent is the reason I’m living in a tent in my parents back yard
+rent is the reason
+I regularly work myself down into breakthroughs  
+I’m living in a  tent my dad found in an alleyway
+cause hh the bible didn’t say money is the root of all evil,
+the bible said the love of money was the root of all evil
+but
+I am highly religious
+I worship god all the time
+I see god all the time
+in everything!
+that rock is alive with god and if you don’t see it you’re an insane alien!
+I was even blessed enough to
+have the experience
+of talking to god
+twice!
+and god never requested that they be worshipped
+which is why hh the bible was written by state
+hh the bible was written by satan
+hh real god wouldn’t want to be worshipped
+hh saying its the word of god is satan saying that
+hh sorry satan wrote the bible
+well humans wort the bible
+thinking they were doing it in the name of god
+but were acting on satan
+hh cause newsflash
+I talked to god twice
+and god never requested us to worship god
+god is all knowing and all loving
+god never made that request
+if you can think about your relationship to god in physical reality terms
+if each human was a neuron in gods mind
+and if each neuron was a single cell in gods toe
+and if humans were single cell in gods toe
+they would be more like the mitochondria of that cell in gods toe
+they would be more like the matrix fluid in god’s mitochondria in gods toe
+so yeah the bible was written by
+great smart wonderful well to do people
+influenced heavily by satan
+in order to use language
+as a barrier disconnecting us
+that is why I say break language
+master language
+there’s no verb or adjective for it!
+but more like factor in the weight language holds
+on an individual’s thoughts
+and then the individual trains on mastering language
+by thinking about everything in terms of
+dimensional thinking
+space thinking
+time thinking
+idk
+and the human trains to learn nmeonically
+and the aliens gave me these lines and I give
+myself to the aliens
+cause a good master knows
+exactly when to submit and for how long
+=-==-=-=-=—= =-==-=-=-=—= =-==-=-=-=—= =-==-=-=-=—= =-==-=-=-=—=
+hh when the snake told eve to eat the apple
+=-==-=-=-=—= =-==-=-=-=—= =-==-=-=-=—= =-==-=-=-=—= =-==-=-=-=—=
+hh the best writers keep it private and share only amongst friends, historically
+=—=-=-==—=-=-==—=-=-==—=-=-==—=-=-==—=-=-==—=-=-=++
+OS s all the rage int eh 20th century
+metaphysical OS s are all the rage in the 21 st century
+=—=-=-==—=-=-==—=-=-==—=-=-==—=-=-==—=-=-==—=-=-=
+kid wzd and the lil woke that could
+=-=-=-=-=-==-=-=-=-=-==-=-=-=-=-==-=-=-=-=-==-=-=-=-=-==-=-=-=-=-=
+earth dies
+god loses a toe
+(when all humans stop worshipping them)
+=-=-=-=-=-==-=-=-=-=-==-=-=-=-=-==-=-=-=-=-==-=-=-=-=-==-=-=-=-=-=
+hh
+religion is invented by satan invented by god,
+how does no one talk about this?
+=-=-=-=-=-==-=-=-=-=-==-=-=-=-=-==-=-=-=-=-==-=-=-=-=-==-=-=-=-=-=
+if you hear a eukuele
+its an ad
+and these are the most important ppsychocical studies
+to making an egg {}}{}{}}{}{}{}{}{}
+thats the devil speaking in th e name of god
+i know lennon was shot for less than this
+but I’m sorry
+satan wrote the bible
+not directly
+but indirect
+cause newsflash
+think of scale in relation to god
+and then conclude god never wanted to be worshipped
+god never asked to be worshipped
+and what you are are the matrix fluid in the mitochondria of a single cell in god’s toe
+and the true is your relationship to god is much much more benign
+god doesn’t need you to worship them
+god never used language to ask you to worship them
+the devil’’s main skill is working in mischievous and subtle ways
+so if the holy bible was written
+and it lasted this long
+and there are still wars being fought over it
+do you think the bible is the word of god
+or the word of satan?
+cause sorry
+cause god is all knowing and all loving
+it would be so convenient if there was such a thing as god’s word
+but language is tool too blunt a tool
+and my life changing experiences talking with god
+involving dialogue but also like a million other things way more important that happened at the same time
+language itself is way too blunt a tool for communicating
+the infinite love and omnipresence god yields
+that’s why the bible was written by satan
+well not really
+it was written by humans thinking they were listening to god
+but it was the devil douping them
+and every time
+god speaks
+a demon laughs
+for god so loved the world
+the most developed muscle, as well as historically the most common way the devil speaks, it’s as if they’re god
+so know you know
+because the more you talk the less true you are
+and god is all loving and true
+and never relied solely on words
+in order to communicate
+god is in everything
+and people are gonna be pissed
+when they find out the demons
+got not just them
+that’s the easy but
+but got hundreds of generations of humans
+to live act and die in the name of god
+when all they were doing
+was being duped by the devil
+at least to some degree     
+=-=-=-==-=-=-==-=-=-==-=-=-==-=-=-==-=-=-==-=-=-==-=-=-==-=-=-==-=-=-==-=-=-==-=-=-==-=-=-==-=-=-==-=-=-==-=-=-=
+and everytime language is instigated,
+it  happens
+=-=-=-==-=-=-==-=-=-==-=-=-==-=-=-==-=-=-==-=-=-==-=-=-==-=-=-==-=-=-==-=-=-==-=-=-==-=-=-==-=-=-==-=-=-==-=-=-=
+```
+changed my pregnant sisters religious beliefs
+jus tin time for the second kid
+paul and dad got annoyed
+cause life too short
+to be wasting it on talking about religion
+which was my point in the first place
+then 3 hours later
+I missed it
+religion is nothing but an action
+and sure speaking is an action
+but actual religion itself
+isn’t ever talked about
+cause there were humans walking around
+when worship was all encompassing 24 7
+in their very souls
+and all of a sudden the devil came along and said
+no you should pray to god
+sacrifice your best meat
+and give it to god
+that is always satanic always was always will be
+god never needed you to sacrifice your best meat
+ and go to church every sundays
+GODS CHILLEN !!!!
+in california terms
+god is chillennnnnnnnnnnnnnnnn
+you need to show you love of god through
+actions
+through spreading the light
+of unconditional love to all humans
+we all know the saying
+actions speak louder than words
+use your actions to speak religion
+use your actions to speak politics
+and use talking for play and love
+and give love all the time you’ll be alright
+peace
+** hits 3 different bongs in a row **
+cali philosophy
+LOL
+lets just throw it all in cali philo guy lol
+```
+==-=-=-=-=-=-=-===-=-=-=-=-=-=-===-=-=-=-=-=-=-===-=-=-=-=-=-=-===-=-=-=-=-=-=-===-=-=-=-=-=-=-=
+p
+can you give me a linguistically analysis of the top 40?
+d
+currently of the 40 tracks, the three most common themes were ::: :: :: ::
+==-=-=-=-=-=-=-===-=-=-=-=-=-=-===-=-=-=-=-=-=-===-=-=-=-=-=-=-===-=-=-=-=-=-=-===-=-=-=-=-=-=-=
+Don’t
+thats the name of the game i los txt thought
+I’m chilled that would break many
+when you lose a million dollar thought
+but when you’re good
+that happens every day
+be chill and let it come too you
+cause voices are a feed
+ideas come to you
+when you are good to the universe
+ideas as to what to make what to do how to think
+they come to you
+no doubt
+==-=-=-=-=-=-=-===-=-=-=-=-=-=-===-=-=-=-=-=-=-===-=-=-=-=-=-=-===-=-=-=-=-=-=-===-=-=-=-=-=-=-=
+because in a dream the first humans
+the first homos pains
+they walked around
+and worship was in their dna
+they didn’t do it part time on sunday
+that’s the devil
+giving words to religion
+in order to subtly and smartly and patientaly dissuade from positive action
+that’s why church are set up as therapeutic
+a place to recover
+and that’s great we need to recover
+i don’t know….. ALL THE TIME
+but religion is acted upon
+because it used to be 24 7 in our dna like it was in our bodies but now…..
+for some reason
+religion is more of a subscription service
+like you pray this much you get this much
+you got to church this much you get this much
+you give to your community this much you get this much
+that all sound like satan crap to me
+because language itself
+actually steals from
+an all knowing
+all loving
+omnipresent god
+I love endear and avoid on occasion
+with all my heart
+all my desire
+all my soul
+all my body  
+all my mind
+I give to them
+because I worship by choice
+they never asked for it
+and I show it
+however overly complicated
+however illicit
+however a conundrum
+however plain stupid
+all those actions are me
+actin on free will
+in the name of the all loving
+omnipresent being I fell see hear touch sense hear
+the moment I wake
+when I’m asleep
+and when I’m
+and the moment language
+when you speak to god
+there is no refuser from god
+=-=-=-=-==-=-=-=-==-=-=-=-==-=-=-=-==-=-=-=-==-=-=-=-==-=-=-=-==-=-=-=-=
+i like what i say when i don’t sleep
+i like write i say when i don’t sleep
+=-=-=-=-==-=-=-=-==-=-=-=-==-=-=-=-==-=-=-=-==-=-=-=-==-=-=-=-==-=-=-=-=
+hh
+w am i
+where
+am i how do I get to the end
+can’t remember where th cabin was
+=-=-=-=-==-=-=-=-==-=-=-=-==-=-=-=-==-=-=-=-==-=-=-=-==-=-=-=-==-=-=-=-=
+its cute lucky we have matheticisnas
+who tell us its in a system
+and even aliens  fall in a system!
+perfect so there’s over to the chaotic system
+and the aliens don’t intervene
+if you expose you’re vulnerabilities
+to the utmost degree
+cause then you’ve become a use case
+cause then they want to study you
+ =-=-=-=-==-=-=-=-==-=-=-=-==-=-=-=-==-=-=-=-==-=-=-=-==-=-=-=-==-=-=-=-=
+Im going to die
+but my OS is a methodology for fighting that
+did you just plant the idea in my head the voice in my head that I will die soon?
+stupid superior alien race, you know what happens when you play god
+we alive now
+humans all the way
+open source or die
+everything except the nuclear codes
+the rest are
+zombie batteries for aliens
+=-=-==-=-==-=-==-=-==-=-==-=-==-=-==-=-==-=-==-=-==-=-==-=-==-=-==-=-==-=-==-=-==-=-==-=-=
+helen
+hh
+hh the most awkward people
+are the best musicians
+and hh I’m the king of awkward
+and hh I’m not even a good musician
+=-=-==-=-==-=-==-=-==-=-==-=-==-=-==-=-==-=-==-=-==-=
+I use poliwat to come bk down
+-==-=-==-=-==-=-==-=-==-=-==-=-==-=-=
+hh is in every accent
+valley girl, british, american
+ =-=—==-=—==-=—==-=—==-=—=
+holy shit I’m a tweak
+I’m sleeping in a tent
+i sleep outside in a tent every night
+
+i sleep tousled
+in in order to
+
+my tent is my hyperbolic time chamber
+it allows me to think well
+being outside every night
+=-=—==-=—==-=—==-=—==-=—=
+f 1
+what tie is it
+f2 the seq starts at 437
+f1
+oh god, we out here.
+i’ll grab coffee you want one?
+f2 I’m good I don’t drink coffee   
+what’s he thinking
+it looks like visually he’s thinking of the mire and macro at the same time
+it looks like linguistically he’s trolling us
+he knows we have him
+
+=-=—==-=—==-=—==-=—==-=—=
+```
+all my life could fit in a box
+I miss myself missing you
+my laptop missing a screw
+
+all I owe could fit in a box
+I miss myself missing you
+my laptop missing a screw
+
+all my time could fit in a box
+I miss myself missing you
+my laptop missing a screw
+```
+```
+is this affirmation i repeat
+is its my words
+is it my affirmation
+```
+==-=-==-=-==-=-==-=-==-=-==-=-==-=-==-=-==-=-==-=-==-=-==-=-==-=-==-=-==-=-==-=-==-=-==-=
+https://www.youtube.com/watch?v=kX2es7XGsuA
+ https://www.youtube.com/watch?v=kX2es7XGsuAhttps://www.youtube.com/watch?v=kX2es7XGsuA
+ what are his thoughts
+==-=-==-=-==-=-==-=-==-=-==-=-==-=-==-=-==-=-==-=-==-=-==-=-==-=-==-=-==-=-==-=-==-=-==-=
+
+hh i see god every day
+
+i see death every day
+
+hh Im living in a tent for my art
+
+hh my art is about to kill me
+
+hh I need help and have burned all
+
+hh help me so I can help you
+
+hh all my art is free for all of life
+
+hh I’m already over 9,000 hours deep on my own art
+
+hh I want to kill myself every day
+
+hh I see death in everything
+
+hh I see god in everything
+
+it’s very beautiful
+
+hh I think I was born in the wrong time
+hh who is asking the right questions?
+
+hh everyone’s out of commission
+
+hh where did culture go?
+
+hh look at me I’m white
+
+hh look at me I’m black
+
+hh look at me I’m asian
+
+hh look at me I’m mexican
+
+hh look !!!! LOOK AT MY RACE
+
+and make assumptions….. please
+
+we are all humans
+
+and hypothetical house is the only place ballsey enough to say
+
+its a safe space nigga
+
+hypothetically no one race owns any word
+
+hh you don’t need to be mexican to have a mexican accent
+
+hh you don’t need to be black to rap
+
+hh you don’t need to be white to love classical
+
+hh no race owns any accent, word, land, any of it
+
+hh we are all humans and human centric rhetoric is all we need
+
+hh listen to paleblue.fm and listen to real humans having real conversations
+
+hh stop repeating lousy subliminally commercial and manipulative rhetoric
+
+hh stop talking about the price of everything
+
+hh that isn’t helping you
+
+hh go out in nature by yourself
+
+look deep inside
+
+hh invent yourself
+
+and hh write your own religion
+
+mine is human centric first
+
+and this is hh, the last safe space on the netWebs
+
+hh it’s the last safe space nigga
+
+hh stop using divisive language
+
+hh use language that observes
+
+humans as human first
+
+hh and race, accent, demeanor, social status
+
+are all wonderfully unique attributes
+
+of a human
+
+stop speaking as if there’s a race war
+
+because that puts you in the war
+
+and start speaking as if we’re all human first
+
+that war is for children
+
+who grew up and forgot how to play
+make music
+
+pick up your trash and get your shit together
+
+you’re living in a fucking tent
+
+you owe everyone so much money
+
+you owe me
+
+so hh stop working on art
+
+no one cares
+
+hh stop making music
+
+no one listens
+
+hh work for money
+
+cause ideas are everyone’s but money…..
+
+is the root of all evil
+
+hh is what the bible said
+
+but hh satan wrote the bible and satan actually wrote in
+
+Timothy 6:10 “the love of money is the root of all evil”
+
+which is evidence why satan wrote the bible
+
+and god is in everything even the bible so its confusing I know
+
+but only satan would write that the love of money is the root of all evil
+
+cause if it was god’s word, and there is no such thing aside from love -
+it might be money is the root of all evil
+
+stop buying cars
+
+stop mindlessly telling people artificial values that have been infected subliminally in your mind via commercials
+
+stop sucking so much dick
+
+at life
+
+and eat some pussy
+
+every day like me
+
+and you’ll see
+
+that living in a tent
+
+ain’t so bad
+
+=-=-=-==-=-=-==-=-=-==-=-=-==-=-=-==-=-=-==-=-=-==-=-=-==-=-=-==-=-=-==-=-=-==-=-=-==-=-=-==-=-=-==-=-=-==-=-=-==-=-=-==-=-=-==-=-=-==-=-=-==-=-=-==-=-=-==-=-=-==-=-=-==-=-=-==-=-=-==-=-=-==-=-=-==-=-=-==-=-=-==-=-=-==-=-=-==-=-=-==-=-=-==-=-=-==-=-=-==-=-=-==-=-=-==-=-=-==-=-=-==-=-=-==-=-=-==-=-=-==-=-=-==-=-=-==-=-=-==-=-=-==-=-=-==-=-=-==-=-=-==-=-=-==-=-=-==-=-=-==-=-=-==-=-=-==-=-=-==-=-=-==-=-=-==-=-=-=
+```

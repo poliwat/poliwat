@@ -2,7 +2,7 @@
 title: "Thats What Wearing the Pants Mean"
 date: 2019-11-25T12:14:17-08:00
 draft : "false"
-tags : ["log"]
+tags : ["logs"]
 ---
 
 but i didn't say anything stupid like that's how I get better or it soothes my soul

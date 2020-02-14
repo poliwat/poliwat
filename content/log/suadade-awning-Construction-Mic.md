@@ -2,7 +2,7 @@
 title: "Suadade Awning Construction Mic"
 date: 2019-12-11T17:25:19-08:00
 draft : "false"
-tags : ["log"]
+tags : ["logs"]
 ---
 
 

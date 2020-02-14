@@ -2,7 +2,7 @@
 title: "How the Canon Pods Changed My Life"
 date: 2019-12-22T17:40:31-08:00
 draft : "false"
-tags : ["log"]
+tags : ["Logs"]
 ---
 
 **17:41PM**

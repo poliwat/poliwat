@@ -2,7 +2,7 @@
 title: "Truth Today Lies Tomorrow"
 date: 2019-12-06T09:15:42-08:00
 draft : "false"
-tags : ["log"]
+tags : ["logs"]
 ---
 
 

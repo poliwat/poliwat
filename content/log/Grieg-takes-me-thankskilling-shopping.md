@@ -2,7 +2,7 @@
 title: "Grieg Takes Me Thankskilling Shopping"
 date: 2019-11-25T14:01:24-08:00
 draft : "false"
-tags : ["log"]
+tags : ["Logs"]
 ---
 
 

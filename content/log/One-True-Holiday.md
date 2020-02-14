@@ -2,7 +2,7 @@
 title: "One True Holiday"
 date: 2019-12-06T15:28:19-08:00
 draft : "false"
-tags : ["log"]
+tags : ["logs"]
 ---
 
 @ LA museum where jack and I danced years ago

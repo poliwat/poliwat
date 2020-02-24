@@ -46,7 +46,7 @@ PaginatePath = "/"
   # Nav links in the side bar
   [[params.navlinks]]
   name = "Home"
-  url = "/projects"
+  url = "/loves-you"
   home = true
 
   [[params.navlinks]]
@@ -72,6 +72,5 @@ PaginatePath = "/"
   [taxonomies]
      tag = "tags"
      category = "categories"
-
 
     # my site tags are music, radio, podcasting, video, short story, tech, love, art, life, metaphysical, psychology, mental illness, AI

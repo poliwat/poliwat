@@ -1,3 +1,147 @@
+*{
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+#loader {
+    position: fixed;
+    width: 100%;
+    height: 100vh;
+    z-index: 1;
+    overflow: visible;
+    background: black url('/img/poliwat-logo-sm.png') no-repeat center center;
+}
+
+/*------------------CSS3------------------*/
+.loading {
+    width: 80px;
+    height: 50px;
+    position: relative;
+    margin: 50px auto;
+    color: white;
+}
+.loading span {
+    display: block;
+    position: absolute;
+    bottom: 0;
+    width: 10px;
+    height: 5px;
+    background-color: #ea834c;
+    animation: waving 1.5s  infinite ease-in-out;
+    -webkit-animation: waving 1.5s  infinite ease-in-out;
+    -moz-animation: waving 1.5s  infinite ease-in-out;
+    -o-animation: waving 1.5s  infinite ease-in-out;
+}
+.loading span:nth-of-type(2) {
+    left:11px;
+    animation-delay: .2s;
+    -webkit-animation-delay: .2s;
+    -moz-animation-delay: .2s;
+    -o-animation-delay: .2s;
+}
+.loading span:nth-of-type(3) {
+    left:22px;
+    animation-delay: .4s;
+    -webkit-animation-delay: .4s;
+    -moz-animation-delay: .4s;
+    -o-animation-delay: .4s;
+}
+.loading span:nth-of-type(4) {
+    left:33px;
+    animation-delay: .6s;
+    -webkit-animation-delay: .6s;
+    -moz-animation-delay: .6s;
+    -o-animation-delay: .6s;
+}
+.loading span:nth-of-type(5) {
+    left:44px;
+    animation-delay: .8s;
+    -webkit-animation-delay: .8s;
+    -moz-animation-delay: .8s;
+    -o-animation-delay: .8s;
+}
+.loading span:last-of-type {
+    left:55px;
+    animation-delay: 1s;
+    -webkit-animation-delay: 1s;
+    -moz-animation-delay: 1s;
+    -o-animation-delay: 1s;
+}
+@keyframes waving {
+    0% , 50% , 100%{
+        height: 5px;
+        transform: translateY(0px);
+        -webkit-transform: translateY(0px);
+        -moz-transform: translateY(0px);
+        -o-transform: translateY(0px);
+        background-color: #ea834c;
+    }
+    25%{
+        height: 60px;
+        transform: translateY(15px);
+        -webkit-transform: translateY(15px);
+        -moz-transform: translateY(15px);
+        -o-transform: translateY(15px);
+        background-color: #ea4c4c;
+    }
+}
+@-webkit-keyframes waving {
+    0% , 50% , 100%{
+        height: 5px;
+        transform: translateY(0px);
+        -webkit-transform: translateY(0px);
+        -moz-transform: translateY(0px);
+        -o-transform: translateY(0px);
+        background-color: #ea834c;
+    }
+    25%{
+        height: 60px;
+        transform: translateY(15px);
+        -webkit-transform: translateY(15px);
+        -moz-transform: translateY(15px);
+        -o-transform: translateY(15px);
+        background-color: #ea4c4c;
+    }
+}
+@-moz-keyframes waving {
+    0% , 50% , 100%{
+        height: 5px;
+        transform: translateY(0px);
+        -webkit-transform: translateY(0px);
+        -moz-transform: translateY(0px);
+        -o-transform: translateY(0px);
+        background-color: #ea834c;
+    }
+    25%{
+        height: 60px;
+        transform: translateY(15px);
+        -webkit-transform: translateY(15px);
+        -moz-transform: translateY(15px);
+        -o-transform: translateY(15px);
+        background-color: #ea4c4c;
+    }
+}
+@-o-keyframes waving {
+    0% , 50% , 100%{
+        height: 5px;
+        transform: translateY(0px);
+        -webkit-transform: translateY(0px);
+        -moz-transform: translateY(0px);
+        -o-transform: translateY(0px);
+        background-color: #ea834c;
+    }
+    25%{
+        height: 60px;
+        transform: translateY(15px);
+        -webkit-transform: translateY(15px);
+        -moz-transform: translateY(15px);
+        -o-transform: translateY(15px);
+        background-color: #ea4c4c;
+    }
+}
+
+
 @font-face {
     font-family: 'special_eliteregular';
     src: url('/css/fonts/specialelite-regular-webfont.woff2') format('woff2'),
@@ -105,10 +249,33 @@ h1, h2, h3, h4, h5, h6,  {
     margin: 0 5px 0 -15px;
     color: #ffffff;
 }
+
 .sidebar-menu li::after {
   /* color: #ffffff; */
 }
 
 .sidebar-menu li a {
   color: #ffffff;
+}
+
+.content1 h1 {
+  margin: 0;
+  color: #fff;
+}
+
+.text-centered {
+  /* Centered text */
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.flex-item {
+    padding: 10px;
+    margin: 10px;
+    color: white;
+    font-weight: bold;
+    font-size: 2em;
+    text-align: center;
 }

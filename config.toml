@@ -9,7 +9,7 @@ googleAnalytics = ""
 publishDir = "docs"
 
 paginate = "1"
-PaginatePath = "projects"
+PaginatePath = "/"
 
 [params]
   # Style options: default (pink), blue, green, pink, red, sea, violet
@@ -46,7 +46,7 @@ PaginatePath = "projects"
   # Nav links in the side bar
   [[params.navlinks]]
   name = "Home"
-  url = "/projects"
+  url = "/tags"
   home = true
 
   [[params.navlinks]]

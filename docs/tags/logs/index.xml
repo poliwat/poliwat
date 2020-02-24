@@ -1,15 +1,60 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Logs on POLIW.AT</title>
+    <title>logs on POLIW.AT</title>
     <link>https://poliw.at/tags/logs/</link>
-    <description>Recent content in Logs on POLIW.AT</description>
+    <description>Recent content in logs on POLIW.AT</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 14 Feb 2020 10:20:17 -0500</lastBuildDate>
+    <lastBuildDate>Thu, 20 Feb 2020 09:08:25 -0500</lastBuildDate>
     
 	<atom:link href="https://poliw.at/tags/logs/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Homeless With a Home</title>
+      <link>https://poliw.at/log/homeless-with-a-home/</link>
+      <pubDate>Thu, 20 Feb 2020 09:08:25 -0500</pubDate>
+      
+      <guid>https://poliw.at/log/homeless-with-a-home/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unpopular Beliefs if Right Succeed</title>
+      <link>https://poliw.at/log/unpopular-beliefs-if-right-succeed/</link>
+      <pubDate>Wed, 19 Feb 2020 16:31:35 -0500</pubDate>
+      
+      <guid>https://poliw.at/log/unpopular-beliefs-if-right-succeed/</guid>
+      <description>&lt;p&gt;Something(x) as zen satire master list.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Safe Inwards</title>
+      <link>https://poliw.at/log/safe-inwards/</link>
+      <pubDate>Tue, 18 Feb 2020 10:39:13 -0500</pubDate>
+      
+      <guid>https://poliw.at/log/safe-inwards/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Divide and Conquering the Peasants So You Don&#39;t Have To</title>
+      <link>https://poliw.at/log/divide-and-conquering-the-peasants-so-you-dont-have-to/</link>
+      <pubDate>Sun, 16 Feb 2020 11:25:18 -0500</pubDate>
+      
+      <guid>https://poliw.at/log/divide-and-conquering-the-peasants-so-you-dont-have-to/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nowadays Ablaut Reduplication</title>
+      <link>https://poliw.at/log/nowadays-ablaut-reduplication/</link>
+      <pubDate>Sat, 15 Feb 2020 13:55:21 -0500</pubDate>
+      
+      <guid>https://poliw.at/log/nowadays-ablaut-reduplication/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>How to Say No to Sandbag Sex</title>
@@ -71,7 +116,7 @@
       <pubDate>Wed, 05 Feb 2020 12:58:22 -0500</pubDate>
       
       <guid>https://poliw.at/log/genos-steak-trivia-bob/</guid>
-      <description></description>
+      <description>&lt;p&gt;Philly&lt;/p&gt;</description>
     </item>
     
     <item>

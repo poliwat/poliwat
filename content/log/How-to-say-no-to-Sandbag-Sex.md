@@ -12,9 +12,17 @@ tags : ["Logs"]
 
 Still figuring that one out. ||
 
-|| 
+|| wake up ||
 
+**17:26**
 
+Pretty productive day. Submitted an album and some tracks to publish online across all platforms through distrokid FINALLY. Becca helen and I are about to head over to see the Dorothy Lange exhibition at the MOMA, then get oysters. I'm such a lucky man, being surrounded by smart cool women basically all the time. Has it's cons though. I was getting a little cabin fever so I jogged too blocks after workhorsing the macbook. 
+
+'' it's valetines day bitch '' -h
+
+brb we gotta get ready  <3
+
+||  ||
 <!--
 1 read
 

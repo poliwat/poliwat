@@ -69,7 +69,7 @@ I cannot find
 
 scarier to be scary than it is being scared
 
-I hate phones
+scared of my phone 
 
 unplug your phone
 

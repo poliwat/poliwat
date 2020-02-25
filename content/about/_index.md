@@ -5,7 +5,7 @@ title = "About me"
 
 <img src="/img/mic1.gif" alt="Me Outside"> <br>
 
-> My dad, Gene Betts died November 18th, 2019  
+<!-- > My dad, Gene Betts died November 18th, 2019   -->
 
 <!-- In Broad terms, Paleblue.fm works to produce creative tech projects to document and pursue truth and document among civilizations, cultures, and peoples, to promote positive adaptation practices. Given the dramatic developments in technological changes, to increase empathy. The first project is a podcast that sounds kind of like life, the musical. It's a podcast that gives voice to every human across the social hierarchy, and finds the connections between our differences.
 

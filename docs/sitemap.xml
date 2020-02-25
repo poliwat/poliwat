@@ -40,18 +40,18 @@
   </url>
   
   <url>
-    <loc>https://poliw.at/tags/logs/</loc>
-    <lastmod>2020-02-24T10:22:58-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://poliw.at/log/</loc>
     <lastmod>2020-02-24T10:22:58-05:00</lastmod>
   </url>
   
   <url>
     <loc>https://poliw.at/tags/</loc>
+    <lastmod>2020-02-24T10:22:58-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://poliw.at/tags/logs/</loc>
     <lastmod>2020-02-24T10:22:58-05:00</lastmod>
     <priority>0</priority>
   </url>

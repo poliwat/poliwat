@@ -9,7 +9,7 @@ Real old attempt at breaking logic.
 
 <!--more-->
 
-<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=1143358609/size=small/bgcol=ffffff/linkcol=0687f5/track=477031702/transparent=true/" seamless><a href="http://michaelbetts.bandcamp.com/album/songs-part-1">Songs, Part 1 by Michael Betts</a></iframe>
+<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=1143358609/size=small/bgcol=ffffff/linkcol=0687f5/track=477031702/transparent=true/" seamless><a href="https://michaelbetts.bandcamp.com/album/songs-part-1">Songs, Part 1 by Michael Betts</a></iframe>
 
 Wrote this song after dropping logic class in community college. Wanted to write a song that exploits flaws in logic.
 

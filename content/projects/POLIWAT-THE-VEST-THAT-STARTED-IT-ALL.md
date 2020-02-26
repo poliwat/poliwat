@@ -11,7 +11,7 @@ Origins of poliwat and why I do what I do.
 
 <!--more-->
 
-<h4><a href="http://poliw.at">POLIWAT</a></h4>
+<h4><a href="https://poliw.at">POLIWAT</a></h4>
 
 <p>🔥👮🏽‍♀️🔥🎶 === a mobile music composition vest, based on this <a href="https://web.archive.org/web/20171217121701/https://github.com/otem/Raspberry-Pi-Looper-synth-drum-thing">open source, project</a></p>
 

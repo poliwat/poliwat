@@ -9,13 +9,13 @@ tags : ["projects"]
 An album of instrumentals, named after command lines, for emotional people who program.
 
 <!--more-->
-<h4><a href="https://web.archive.org/web/20171217121701/http://michaelbetts.me/portfolio/work12/">What's at the center of Github?</a></h4>
+<h4><a href="https://web.archive.org/web/20171217121701/https://michaelbetts.me/portfolio/work12/">What's at the center of Github?</a></h4>
 
-<iframe style="border: 0; width: 350px; height: 520px;" src="https://bandcamp.com/EmbeddedPlayer/album=3781662510/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="http://michaelbetts.bandcamp.com/album/github-center-wav">github.center.wav by Michael Betts</a></iframe>
+<iframe style="border: 0; width: 350px; height: 520px;" src="https://bandcamp.com/EmbeddedPlayer/album=3781662510/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://michaelbetts.bandcamp.com/album/github-center-wav">github.center.wav by Michael Betts</a></iframe>
 
 <h3 id="open-source-music-for-emotional-people-project">Open source music for emotional people project.</h3>
 
-<a href="https://web.archive.org/web/20171217121701/http://github.center/">github.center shutdown as of 2018</a></p></p>
+<a href="https://web.archive.org/web/20171217121701/https://github.center/">github.center shutdown as of 2018</a></p></p>
 
 > Artist writeup:
 

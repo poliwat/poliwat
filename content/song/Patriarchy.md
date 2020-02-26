@@ -9,7 +9,7 @@ A satire song.
 
 <!--more-->
 
-<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=1143358609/size=small/bgcol=ffffff/linkcol=0687f5/track=2865604892/transparent=true/" seamless><a href="http://michaelbetts.bandcamp.com/album/songs-part-1">Songs, Part 1 by Michael Betts</a></iframe>
+<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=1143358609/size=small/bgcol=ffffff/linkcol=0687f5/track=2865604892/transparent=true/" seamless><a href="https://michaelbetts.bandcamp.com/album/songs-part-1">Songs, Part 1 by Michael Betts</a></iframe>
 
 ##### Chords: Bm7 E7 Am7 D7 | Gmaj7 - A7 - D
 

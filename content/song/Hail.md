@@ -7,7 +7,7 @@ tags : ["songs"]
 
 <!--more-->
 
-<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=2291264285/size=small/bgcol=ffffff/linkcol=0687f5/track=3324570219/transparent=true/" seamless><a href="http://michaelbetts.bandcamp.com/album/songs-part-3">Songs, part 3 by Michael Betts</a></iframe>
+<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=2291264285/size=small/bgcol=ffffff/linkcol=0687f5/track=3324570219/transparent=true/" seamless><a href="https://michaelbetts.bandcamp.com/album/songs-part-3">Songs, part 3 by Michael Betts</a></iframe>
 
 #### Lyrics
 

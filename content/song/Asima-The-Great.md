@@ -10,11 +10,11 @@ Story, then a song, as it was first written.
 
 <!--more-->
 
-<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=3303138254/size=small/bgcol=ffffff/linkcol=0687f5/track=3934722426/transparent=true/" seamless><a href="http://michaelbetts.bandcamp.com/album/songs-part-2">Songs, Part 2 by Michael Betts</a></iframe>
+<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=3303138254/size=small/bgcol=ffffff/linkcol=0687f5/track=3934722426/transparent=true/" seamless><a href="https://michaelbetts.bandcamp.com/album/songs-part-2">Songs, Part 2 by Michael Betts</a></iframe>
 
 ##### Version without the story:
 
-<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=3303138254/size=small/bgcol=ffffff/linkcol=0687f5/track=995400666/transparent=true/" seamless><a href="http://michaelbetts.bandcamp.com/album/songs-part-2">Songs, Part 2 by Michael Betts</a></iframe>
+<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=3303138254/size=small/bgcol=ffffff/linkcol=0687f5/track=995400666/transparent=true/" seamless><a href="https://michaelbetts.bandcamp.com/album/songs-part-2">Songs, Part 2 by Michael Betts</a></iframe>
 
 #### Lyrics
 

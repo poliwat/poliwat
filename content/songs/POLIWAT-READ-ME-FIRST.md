@@ -140,9 +140,9 @@ Most of my work lately is inspired from mysteries of the feminine. I am highly s
 
 > current fav ⬇️
 
-<iframe style="border: 0; width: 350px; height: 442px;" src="https://bandcamp.com/EmbeddedPlayer/track=1389909834/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="http://poliwat.bandcamp.com/track/my-friends-fatal-flaws-master-list">My friends fatal flaws master list by POLIW.AT</a></iframe>
+<iframe style="border: 0; width: 350px; height: 442px;" src="https://bandcamp.com/EmbeddedPlayer/track=1389909834/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://poliwat.bandcamp.com/track/my-friends-fatal-flaws-master-list">My friends fatal flaws master list by POLIW.AT</a></iframe>
 
-<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=1276903406/size=small/bgcol=ffffff/linkcol=0687f5/transparent=true/" seamless><a href="http://michaelbetts.bandcamp.com/album/homebrew-piano">Homebrew Piano by Michael Betts</a></iframe>
+<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=1276903406/size=small/bgcol=ffffff/linkcol=0687f5/transparent=true/" seamless><a href="https://michaelbetts.bandcamp.com/album/homebrew-piano">Homebrew Piano by Michael Betts</a></iframe>
 
 ### Anti-folk <a name="Anti-folk"></a>
 Anti folk started in the 90s (though kinda has been around since the lute)
@@ -302,7 +302,7 @@ we're all childhood friends we grew up on the same block and go way back. -->
 ___
 <!-- ___
 
-## <a href="http:poliw.at"> songs.poliw.at </a>
+## <a href="https:poliw.at"> songs.poliw.at </a>
 
 - chord charts and lyrics for all my finished songs
  -->

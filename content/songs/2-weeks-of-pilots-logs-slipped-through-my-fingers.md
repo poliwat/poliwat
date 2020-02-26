@@ -10,7 +10,7 @@ The more I write the longer I stay alive.
 
 <!--more-->
 
-http://utminers.utep.edu/jquintana4/about_me.htm
+https://utminers.utep.edu/jquintana4/about_me.htm
 
 **sat 1058 AM**
 

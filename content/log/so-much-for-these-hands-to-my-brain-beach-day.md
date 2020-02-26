@@ -36,7 +36,7 @@ ok real shit I'm needing to like ||
 Schedule people for live tv shows remotely, I just show up and do it on the spot out of the backpack ||
 
 
-http://kadena2.novadesign.io/wp-content/uploads/2018/08/Kadena-PactWhitepaper.pdf
+https://kadena2.novadesign.io/wp-content/uploads/2018/08/Kadena-PactWhitepaper.pdf
 
 
 -=-=-=-=-=-=-=-=-

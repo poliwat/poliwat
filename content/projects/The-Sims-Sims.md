@@ -23,4 +23,4 @@ A three act comedic play that I acted in.
 
 <p><img src="/images/sims.jpg"/></p>
 
-<h4><a href="http://perotroupe.org/"> Made with my theatre troupe group </a></h4>
+<h4><a href="https://perotroupe.org/"> Made with my theatre troupe group </a></h4>

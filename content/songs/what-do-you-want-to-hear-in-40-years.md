@@ -44,12 +44,12 @@ A collage of all the most important friends, family, and voices of a time when I
 <div>Chris Sanchez</div>
 <div><br></div>
 <div>Jack Rogers</div>
-<div><u>http://perotroupe.org/</u><br></div>
+<div><u>https://perotroupe.org/</u><br></div>
 <div><br></div>
 <div>Paul De Paulo </div>
 <div><br></div>
 <div>Brian Eurice </div>
-<div><u><font color="#DCA00D">http://perotroupe.org/</font></u><br></div>
+<div><u><font color="#DCA00D">https://perotroupe.org/</font></u><br></div>
 <div><br></div>
 <div>Uncle Ray<b><br></b></div>
 <div><b><br></b></div>
@@ -58,7 +58,7 @@ A collage of all the most important friends, family, and voices of a time when I
 <div>Reineer (child)</div>
 <div><br></div>
 <div>Teddy Alexander </div>
-<div><u><font color="#DCA00D">http://deetsa.com/</font></u><br></div>
+<div><u><font color="#DCA00D">https://deetsa.com/</font></u><br></div>
 <div><br></div>
 <div>Cameron Mehrabian</div>
 <div><br></div>

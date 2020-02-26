@@ -8,7 +8,7 @@ tags : ["Logs"]
 
 **1212**
 
-About to get picked up by http://robbieconal.com/about/robbies-bio/  ||
+About to get picked up by https://robbieconal.com/about/robbies-bio/  ||
 never net him or his wife Debbie but they're so nice to pick me up !
 
 Helen said don't be racy ahahahaha I'm not more racy than anyone else - everyone's racy || that's the thing ||

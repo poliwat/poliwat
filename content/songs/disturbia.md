@@ -17,7 +17,7 @@ draft: false
 
 || Last night got eaten up from a wires issue || I need to throw away half my gear its driving me crazy ||
 
-http://center-for-nonverbal-studies.org/htdocs/6101.html
+https://center-for-nonverbal-studies.org/htdocs/6101.html
 
 |||
 **Wed 903PM**

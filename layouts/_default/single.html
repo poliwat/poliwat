@@ -12,6 +12,14 @@
 
          <!-- {{ template "_internal/disqus.html" . }} -->
          <!-- <h6>Categories:</h6> -->
+
+         {{ with .PrevInSection }}
+          <a class="previous" href="{{.Permalink}}"> {{.Title}}</a>
+        {{ end }}
+        {{ with .NextInSection }}
+          <a class="next" href="{{.Permalink}}"> {{.Title}}</a>
+        {{ end }}
+
         {{ partial "tags.html" }}
 
 <!-- Hugo's default pagination template. -->

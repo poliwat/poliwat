@@ -2,16 +2,16 @@
 
 @font-face {
 font-family: "specialelite-regular-webfont";
-src: url("http://localhost:1313/css/fonts/specialelite-regular-webfont.eot");
-src: url("http://localhost:1313/css/fonts/specialelite-regular-webfont.eot/css/fonts/specialelite-regular-webfont.woff") format("woff"),
-url("http://localhost:1313/css/fonts/specialelite-regular-webfont.eot/css/fonts/specialelite-regular-webfont.otf") format("opentype"),
-url("http://localhost:1313/css/fonts/specialelite-regular-webfont.eot/css/fonts/specialelite-regular-webfont.svg#filename") format("svg");
+src: url("https://localhost:1313/css/fonts/specialelite-regular-webfont.eot");
+src: url("https://localhost:1313/css/fonts/specialelite-regular-webfont.eot/css/fonts/specialelite-regular-webfont.woff") format("woff"),
+url("https://localhost:1313/css/fonts/specialelite-regular-webfont.eot/css/fonts/specialelite-regular-webfont.otf") format("opentype"),
+url("https://localhost:1313/css/fonts/specialelite-regular-webfont.eot/css/fonts/specialelite-regular-webfont.svg#filename") format("svg");
 }
 
 @font-face {
     font-family: 'special_eliteregular';
-    src: url('http://localhost:1313/css/fonts/specialelite-regular-webfont.woff2') format('woff2'),
-         url('http://localhost:1313/css/fonts/specialelite-regular-webfont.woff') format('woff');
+    src: url('https://localhost:1313/css/fonts/specialelite-regular-webfont.woff2') format('woff2'),
+         url('https://localhost:1313/css/fonts/specialelite-regular-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 

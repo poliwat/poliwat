@@ -250,7 +250,7 @@ in jujitsu || just jujitsu ||
 
 https://en.wikipedia.org/wiki/Decentralized_autonomous_organization
 
-http://www.nomnoml.com
+https://www.nomnoml.com
 
 
 **405AM**

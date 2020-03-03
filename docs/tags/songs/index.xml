@@ -6,7 +6,7 @@
     <description>Recent content in songs on POLIW.AT</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 31 Jan 2020 18:08:44 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 26 Feb 2020 11:47:19 -0500</lastBuildDate>
     
 	<atom:link href="https://poliw.at/tags/songs/index.xml" rel="self" type="application/rss+xml" />
     
@@ -29,6 +29,15 @@
       
       <guid>https://poliw.at/songs/3pac-ohoots-is-dead/</guid>
       <description>&lt;p&gt;Song about a friend I didn&amp;rsquo;t get a chance to meet on this Earth.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Boogeyman</title>
+      <link>https://poliw.at/song/boogeyman/</link>
+      <pubDate>Wed, 26 Feb 2020 11:47:19 -0500</pubDate>
+      
+      <guid>https://poliw.at/song/boogeyman/</guid>
+      <description></description>
     </item>
     
     <item>

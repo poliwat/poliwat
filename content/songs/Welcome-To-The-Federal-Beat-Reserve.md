@@ -36,3 +36,17 @@ way.
 <iframe src="https://archive.org/embed/FBR10V1MayTheFourthBeWithYouPOLIW.AT" width="500" height="140" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 <iframe src="https://archive.org/embed/FBR5HappyHandsV1" width="500" height="140" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+
+## Federal Beat Reserve
+The name plays upon the idea that the US government might officially support the creative cataloging of music for the people, through the action of encapsulating everything semantic into a discrete duration of instrumental music. This project is inspired by open source philosophy in software development, where all the work and its underlying components, are exposed to be remixed, reused, edited, and developed on in an open and transparent way.
+You can listen to the Instrumentals across the web available here. Open source and always free.
+
+<iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=1032909743/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://poliwat.bandcamp.com/album/federal-beat-reserve-antidepressants">Federal Beat Reserve: Antidepressants by POLIW.AT</a></iframe>
+
+If you are interested in getting your instrumentals in the official federal beat reserve then DM me, and think about becoming a patron || checkout a liibrary of instrumentals you can use https://archive.org/details/@poliwat
+
+> **update 4.15.2k19**
+> my equipment broke but I'll have a one stop link for all instrumentals soon, keep posted.
+
+  <img src="/images/frb-poliwat-project-1.png" />

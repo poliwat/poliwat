@@ -66,17 +66,14 @@ PaginatePath = "/"
   url = "cv/"
 
 
-  # [params.social]
-  # facebook      = "full page or profile url in facebook"
-  # googleplus    = "full profile url in googleplus"
-  # email         = "email@example.com"
-  # twitter       = "full profile url in twitter"
-  # linkedin      = "full profile url in linkedin"
-  # stackoverflow = "full profile url in stackoverflow"
-  # instagram     = "full profile url in instagram"
-  # github        = "full profile url in github"
-  # youtube       = "full profile url in youtube"
-  # whatsapp      = "wa.me service link"
+  [params.social]
+  email         = "michael@kzsu.stanford.edu"
+  twitter       = "https://twitter.com/poliwat"
+  linkedin      = "https://www.linkedin.com/in/bettsmichael/"
+  instagram     = "https://www.instagram.com/poliwat/"
+  github        = "https://github.com/michaelflops/"
+  youtube       = "https://www.youtube.com/channel/UCJ90WzG8RJSMYy_1HudyabQ/videos"
+  whatsapp      = "https://wa.me/18314281060"
 
   [taxonomies]
      tag = "tags"

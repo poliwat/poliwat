@@ -13,11 +13,12 @@
          <!-- {{ template "_internal/disqus.html" . }} -->
          <!-- <h6>Categories:</h6> -->
 
+
          {{ with .PrevInSection }}
-          <a class="previous" href="{{.Permalink}}"> {{.Title}}</a>
-        {{ end }}
+          <a class="previous" href="{{.Permalink}}">{{.Title}} <span>&#8592;</span></a>
+        {{ end }}||
         {{ with .NextInSection }}
-          <a class="next" href="{{.Permalink}}"> {{.Title}}</a>
+          <a class="next" href="{{.Permalink}}"><span>&#8594;</span> {{.Title}}</a>
         {{ end }}
 
         {{ partial "tags.html" }}

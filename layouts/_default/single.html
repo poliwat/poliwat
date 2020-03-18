@@ -20,6 +20,7 @@
          <!-- <h6>Categories:</h6> -->
         {{ partial "tags.html" }}
 
+        <h6>Other Logs:</h6>
         <ul>
           {{ range first 10 ( where ( where .Site.Pages.ByDate.Reverse ".Params.tags" "intersect" .Params.tags ) "Permalink" "!=" .Permalink ) }}
             <li class="relatedPost">

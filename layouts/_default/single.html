@@ -20,7 +20,14 @@
          <!-- <h6>Categories:</h6> -->
         {{ partial "tags.html" }}
 
-<!-- Hugo's default pagination template. -->
+        <ul>
+          {{ range first 10 ( where ( where .Site.Pages.ByDate.Reverse ".Params.tags" "intersect" .Params.tags ) "Permalink" "!=" .Permalink ) }}
+            <li class="relatedPost">
+              <a href="{{ .RelPermalink }}">{{ .Title | markdownify }}</a><br />
+              {{ .Description | markdownify }}
+            </li>
+          {{ end }}
+        </ul>
 
         <h5></h5>
       </div>

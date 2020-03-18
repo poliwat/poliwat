@@ -59,6 +59,80 @@ to be tortured on the southwest chief
 ```
 
 
+its 2020 nation stuck at home
+
+
+light in our gestures not in our actions
+
+No one can make you feel inferior without your permission, as Epictetus famously said.
+
+and we got issues but I don’t know what they are
+
+
+
+TT 1 (25min)
+	- Updating poliwat site, adding all old logs from the alpha. (F U C K Y E A H)
+
+
+tags : ["logs"]
+
+
+
+and who picked me up when I fell out my boat
+and who forgave me when I built my own moat
+
+
+
+___
+
+
+## pbd unorgans, pad daily -
+
+## interesting link of the day
+
+1.  1sttake of me with mic and webcam doing the report
+2. 2nd take of the meta commentary, me with the ps3 controller
+
+#### its 2020 nation stuck at home
+
+light in our gestures not in our actions
+
+No one can make you feel inferior without your permission, as Epictetus famously said.
+
+and we got issues but I don’t know what they are
+
+
+
+TT 1 (25min)
+	- Updating poliwat site, adding all old logs from the alpha. (F U C K Y E A H)
+
+
+tags : ["logs"]
+
+
+and who picked me up when I fell out my boat
+and who forgave me when I built my own moat
+
+```
+ill be out on the streets
+cause I’m not on the lease
+if I feel making beats
+if I keep rapping these
+homeless a year
+now she signed a lease
+won’t suck my dick
+till I pay for new sheets
+looking for work
+biggest bitch I ever had
+making tunes never made my dad
+a cent
+so all that karma built up
+I’ll make it with this song
+fuck the house
+its a compound   
+```
+
+
 https://medium.com/@sashamartinsen/generative-fui-technique-d230cc2ac276
 
 <!--

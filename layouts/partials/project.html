@@ -3,7 +3,7 @@
     <div class="grid">
         <div class="row">
           {{ range .Data.Pages }}
-              <div class="col-xs-12 col-sm-6 col-md-4 col-lg-3 masonry-item">
+              <div class="col-xs-12 col-sm-6 masonry-item">
                   <div class="box-masonry p-wrap">
                       {{ if and (isset .Params "image") .Params.image }}
                         {{ if eq .Params.showonlyimage true }} <span class="baffle">
@@ -15,6 +15,7 @@
                         </a>
                         {{ end }}
                       {{ if eq .Params.showonlyimage true }}
+
                       <div class="box-masonry-hover-text-header">
                       {{ else }}
                       <div class="box-masonry-text">
@@ -23,19 +24,23 @@
                           <p>
                             {{ if .Description }} {{ .Description }} {{ else }} {{ .Summary }} {{ end }}
                           </p>
+                          <time datetime="" itemprop="datePublished">
+                            {{ .Date.Format "January 02 2006" }}
+                          </time>
+
+
                           <!-- <div class="box-masonry-description">
                             <span class="baffle">
                             {{ .Description | countwords }}
                               </span>
                           </div> -->
-                          <time datetime="" itemprop="datePublished">
-                            {{ .Date.Format "January 02 2006" }}
-                   <!--  {{ if .Params.location }}
+
+                    <!-- {{ if .Params.location }}
                         <span>
                             {{ .Params.location }}
                         </span>
                     {{ end }} -->
-                          </time>
+
 
                               <!-- {{ partial "tags.html" .}} -->
 

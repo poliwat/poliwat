@@ -6,10 +6,10 @@
   <div class="row">
     <div class="col-lg-8">
       <div class="content-column-content">
-        {{ with .PrevInSection }}
+        {{ with .PrevInSection }} <span class="arrowLife">&#8592;</span> Past
          <a class="previous" href="{{.Permalink}}">{{.Title}} <span>&#8592;</span></a>
        {{ end }}||
-       {{ with .NextInSection }}
+       {{ with .NextInSection }} <span class="arrowLife">&#8592;</span> Future
          <a class="next" href="{{.Permalink}}"><span>&#8594;</span> {{.Title}}</a>
        {{ end }}
          <h1>{{ .Title }}</h1>
@@ -30,7 +30,15 @@
           {{ end }}
         </ul>
 
-        <h5></h5>
+        <div class="row">
+        {{ with .PrevInSection }} Past
+         <span class="arrowLife">&#8592;</span> <a class="previous" href="{{.Permalink}}">{{.Title}}</a> <sub>{{ .Date }}</sub>
+       {{ end }}
+        </div>
+       {{ with .NextInSection }} Future
+         <span class="arrowLife">&#8594;</span><a class="next" href="{{.Permalink}}">{{.Title}}</a> <sub>{{ .Date }}</sub>
+       {{ end }}
+
       </div>
     </div>
   </div>

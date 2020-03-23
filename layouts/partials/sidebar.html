@@ -9,7 +9,14 @@
         <li><a href="{{ absURL .url }}">{{ .name }}</a></li>
       {{ end }}
     </ul>
-    <a href="/listen"><img src="/img/music-folder.png" alt=""></a>
+    <a href="https://open.spotify.com/artist/7Jn4iPQ4xOje3URpWzD27A"><img src="/img/music-folder.png" alt=""></a>
+
+    <video width="320" height="240" autoplay>
+      <source src="/img/kyokopoliwat-comp.mp4" type="video/mp4">
+      <source src="/img/loading1kyokopoliwat-comp.webm" type="video/webm">
+      <source src="/img/" type="video/ogg">
+    Your browser does not support the video tag.
+    </video>
 
       <h4><a href="/tags/">Overview Effect</a></h4>
     <ul>
@@ -21,12 +28,18 @@
     {{ partial "social_buttons_in_sidebar.html" . }}
 
     <div class="copyright">
+      <img src="/img/poliwat-logo-sm.png" alt="POLIW.AT LOVES YOU"><br>
+
       <p class="credit">
         {{ with .Site.Params.copyright }}
           {{ . | safeHTML }}
         {{ end }}
         {{ partial "attribution.html" . }}
       </p>
+      <h6>Other Logs:</h6>
+      {{ range .Data.Pages }}
+      <h4><a href="{{ .Permalink }}"> <span class="baffle">{{ .Title  }}</span></a></h4>
+      {{ end }}
 
     </div>
   </div>

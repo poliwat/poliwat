@@ -1,5 +1,5 @@
 ---
-title: "Hail"
+title: "Hail or Constantly Zoning Out"
 date: 2020-01-31T17:47:19-05:00
 draft : "false"
 tags : ["songs"]
@@ -12,6 +12,48 @@ tags : ["songs"]
 #### Lyrics
 
 ```
+(Verse 1)
+constantly zoning out (6)
+minds tenant to the clouds (6)
+enough to make dad proud (6)
+mamma made me loud (6)
+
+you're a waitress waiting
+I'm a failure taking my time
+time the ultimate currency
+nothing has value without time
+
+(Bridge)
+then why are you spending most of it
+in company we don't like?
+
+deep down in my heart
+I have a tiny heart
+on again off
+otra vez march
+
+I love you
+but you don't know what you're talking about
+I love you
+but you don't know what you're talking about
+
+I love you
+but you don't know what you're talking about
+
+(Bridge)
+then why are you spending most of it
+in company we don't like?
+```
+
+
+Not below this line (old version)
+
+```
+
+planning for tomorrow
+is how you spend your time off
+
+you're a waitress waiting
 
 ```
 

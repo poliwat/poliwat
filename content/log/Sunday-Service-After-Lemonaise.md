@@ -1,11 +1,19 @@
 ---
-title: "{{ replace .Name "-" " " | title }}"
-date: {{ .Date }}
+title: "Sunday Service After Lemonaise"
+date: 2020-03-29T17:26:21-04:00
 draft : "false"
 tags : ["Logs"]
 ---
 
 <!--more-->
+
+**00:21**
+
+polecats broken, just like this script. || polecats broken, just like this script. || polecats broken, just like this script. || polecats broken, just like this script. || polecats broken, just like this script. || polecats broken, just like this script. || polecats broken, just like this script. ||
+
+just watched carrie and great wonderbar || talked to niko outside || gave sunday service with becca to gina helen || read and made edits || BEEM BADA BOOM GARLIC BEFORE BED CORONA ISLAND ||
+
+___
 
 
 <!--

@@ -1,12 +1,41 @@
 ---
-title: "{{ replace .Name "-" " " | title }}"
-date: {{ .Date }}
+title: "I'm not alone, we're just out numbered"
+date: 2020-03-26T21:46:30-04:00
 draft : "false"
 tags : ["Logs"]
 ---
 
+
+```
+I'm not alone, we're just out numbered.
+```
 <!--more-->
 
+POLIW.AT
+I'm not alone, we're just out numbered.
+
+
+-- Kardashian's is pleb tier shit
+the
+
+### mike's provebs of hell
+
+```
+worship only who just cleaned
+```
+
+
+```
+
+flux for life
+blue light or die
+
+```
+
+when you want to have a horse
+but only as long as the horse last
+
+over dramatic english swine
 
 <!--
 

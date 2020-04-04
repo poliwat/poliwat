@@ -10,40 +10,96 @@ tags : ["songs"]
 #### Lyrics
 
 ```
+(chorus)
+we are jobs
+what do you do
+and by the way
+let me do mine
+
 97 floors of jobs
 no window in my sisters office
 I had a job but I lost it
 
+(chorus)
+we are jobs
+what do you do
+and by the way
+let me do mine
+
 mom saw an ad
-said would'nt it be nice
+say wouldn't it be nice
 if my son drove me in his car
 to his house
 to his wife
 
+living in revelations
+unemployment soaring
+if jobs were songs
+Ive got thousands
+(chorus)
+we are jobs
+what do you do
+and by the way
+let me do mine
 
-and his kid
-serve me up a coffee
-wouldn't that be nice
-but all I got is this song
 
 dad works full time
 no paycheck in a month
 keeps giving me razors
-for job interviews
 I keep losing
 
 my brother is a teacher
 I'm wearing his shoes
-says the moon landing's fake
+but i dont need any shoes
+
+
+my sister is a stoner
+she dance real good
+
+
+says moon landing's fake
+he's on youtube news
+
+
+
 his students say Earth is flat
 
-the buildings have antenae's
+
+(chorus)
+we are jobs
+what do you do
+and by the way
+let me do mine
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+'
+the buildings have antenna's
 how has no one noticed
 they don't want me with my acid eyes
 
 told food stamps lady
 if I had a 9 to 5 I'd die
-owe my girflriend 1000 dollars
+owe my girlfriend 1000 dollars
 but wrote her five songs
 haven't recorded any of them
 what's a girl to do?
@@ -64,6 +120,21 @@ and by the way
 let me do mine
 
 ```
+
+## not below this line
+
+```
+I could be anybody
+but was
+born to make music
+
+and his kid
+serve me up a coffee
+
+wouldn't that be nice
+but all I got is this song
+```
+
 
 <!--
 ♩     Musical quarter note     &#9833;

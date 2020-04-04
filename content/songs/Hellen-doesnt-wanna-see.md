@@ -15,24 +15,32 @@ draft: false
 lyrics:
 
 ```
+
+E(lick)
 I don't know whats in
+          A(7)
 my bank account
+E(lick)
 couldn't tell you the
+          A(7)
 exact amount
 I don't know what's in
+
 my veins right now
+
 yes I do
+
 I'm mad at you
 
 
-she's a frog
-Imma kiss
+She's a frog
+I'mma kiss
 iLive in bogs
 you're dismissed
 BITCHES
 you're dismissed
 
-I got some english muffin
+my english muffin
 carb revolution
 kombucha as restitution
 satan invented institution

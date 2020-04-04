@@ -75,6 +75,8 @@ and you know that I went hard
 (V2)
 but the friends and the skills acquired
 easily worth the cost
+
+
 I'd do it ten times over it
 if hell freezes over non apathetic
 I take the cost

@@ -6,7 +6,7 @@
     <description>Recent content in songs on POLIW.AT</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 01 Apr 2020 19:14:01 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 09 Apr 2020 13:16:24 -0400</lastBuildDate>
     
 	<atom:link href="https://poliw.at/tags/songs/index.xml" rel="self" type="application/rss+xml" />
     
@@ -29,6 +29,24 @@
       
       <guid>https://poliw.at/songs/3pac-ohoots-is-dead/</guid>
       <description>&lt;p&gt;Song about a friend I didn&amp;rsquo;t get a chance to meet on this Earth.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>CC4CC</title>
+      <link>https://poliw.at/song/cc4cc/</link>
+      <pubDate>Thu, 09 Apr 2020 13:16:24 -0400</pubDate>
+      
+      <guid>https://poliw.at/song/cc4cc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prospect Park</title>
+      <link>https://poliw.at/song/prospect-park/</link>
+      <pubDate>Wed, 08 Apr 2020 23:13:20 -0400</pubDate>
+      
+      <guid>https://poliw.at/song/prospect-park/</guid>
+      <description></description>
     </item>
     
     <item>

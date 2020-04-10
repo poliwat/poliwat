@@ -271,3 +271,13 @@ i just had the idea
 id have a better life if I served penance
 
 ```
+
+
+
+sitting on hits
+don't give a shit
+wanna just spit
+
+you're all sheep
+kill yourself
+were his last words

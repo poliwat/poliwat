@@ -295,3 +295,21 @@ h1, h2, h3, h4, h5, h6,  {
 .arrowLife {
   font-size: 2em;
 }
+
+pre {
+    display: block;
+    padding: 1px;
+    margin: 0 0 10px;
+    font-size: 10px;
+    line-height: 1.429;
+    color: #333;
+    word-break: normal;
+    word-wrap: normal;
+    background-color: #fdfdfd;
+    border: 1px solid #ccc;
+    border-radius: 7px;
+}
+
+code {
+  font-family: "special_eliteregular", "Courier New", Courier, monospace;
+}

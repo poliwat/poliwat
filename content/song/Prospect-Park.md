@@ -23,12 +23,12 @@ Satan's greatest was the word of god
 
 my greatest hasn't happened yet
 
-slipped through my fingers (like my cars||God )
+slipped through my fingers ( like my cars||God )
 
-Im in the maze
+I'm in the maze
 I got the faith
 polecat in the bay
-Im barefoot
+I'm barefoot
 
 by dog beach
 

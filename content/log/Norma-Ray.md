@@ -1,11 +1,25 @@
 ---
-title: "Norma Ray"
+title: "Norma Ray Uncle Ray"
 date: 2020-04-07T15:48:19-04:00
 draft : "false"
 tags : ["Logs"]
 ---
 
+POLIW.AT
+
+What I know would crush your chest
+
+HELCAT
+
+What *I* know would crush *your* chest
+
 <!--more-->
+
+#### Uncle Ray && Boats
+
+From weird to gold
+(child) who knows
+
 
 
 <!--

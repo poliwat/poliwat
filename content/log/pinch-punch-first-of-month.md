@@ -67,7 +67,7 @@ SO I AINT GOING NO WHERE
 called
 ## Dossier
 
-### Dossier for MICHEAL
+### Dossier for MICHAEL
 
 #### Table read
 

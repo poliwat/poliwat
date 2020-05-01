@@ -7,6 +7,8 @@ tags : ["songs"]
 
 <!--more-->
 
+##### Capo 4 C E Am F(Fm)
+
 #### Lyrics
 
 ```
@@ -20,17 +22,17 @@ let me do mine
 no window in my sisters office
 I had a job but I lost it
 
-(chorus)
-we are jobs
-what do you do
-and by the way
-let me do mine
-
 mom saw an ad
 say wouldn't it be nice
 if my son drove me in his car
 to his house
 to his wife
+
+(chorus)
+we are jobs
+what do you do
+and by the way
+let me do mine
 
 living in revelations
 unemployment soaring
@@ -48,22 +50,16 @@ no paycheck in a month
 keeps giving me razors
 I keep losing
 
-my brother is a teacher
-I'm wearing his shoes
-but i dont need any shoes
-
-
-my sister is a stoner
-she dance real good
-
-
+brother is a teacher
+wearing his shoes
 says moon landing's fake
 he's on youtube news
 
+students say Earth is flat
+don't know what to do with that
 
 
-his students say Earth is flat
-
+but i dont need any shoes
 
 (chorus)
 we are jobs
@@ -71,30 +67,15 @@ what do you do
 and by the way
 let me do mine
 
+my sister is a stoner
+she dance real good
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-'
 the buildings have antenna's
 how has no one noticed
+how things affect us
+outside our hearing
+
+
 they don't want me with my acid eyes
 
 told food stamps lady
@@ -102,8 +83,10 @@ if I had a 9 to 5 I'd die
 owe my girlfriend 1000 dollars
 but wrote her five songs
 haven't recorded any of them
+
 what's a girl to do?
-life is short art is long  
+life is short art is long
+saying we are jobs.....
 
 I got six jobs I get high
 if jobs were songs

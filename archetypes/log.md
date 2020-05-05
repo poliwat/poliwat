@@ -10,50 +10,24 @@ tags : ["Logs"]
 
 <!--
 
-Dailies:
-
-Read [] What did you read?
-
-
-Write [] What did you write?
-
-
-Create [] What did you make?
-
-
-Exercise [] Dance workout (or otherwise)
-
-
-Audio [] You recorded what:
-
-
-Visual [] You filmed what:
-
-
-Finish A [] You bounced what track:
-
-
-Live [] You sang what song(s) live:
-
-
-Finish V [] You made what visuals:
-
-
-Phone [] You called who:
-
-
-Share [] You uploaded what to Archive:
-
-
-Website [] You did what to Paleblue.fm:
-
-
-Website [] You did what to poliw.at:
-
-
-Love and Legacy [] You did what for friends/family:
-
-
-God [] You're grateful for what:
+| Dailies        | Questions           | Answers  |
+| ------------- |:-------------:| -----:|
+| Read()      | *What did you read?* | X |
+| Write()      | *What did you write?*      |   X |
+| Create() | *What did you make?*      |    X |
+| Exercise() | *Dance workout (or otherwise?)*      |    X |
+| Audio() | *You recorded what:*      |    X |
+| Video() | *You filmed what:*      |    X |
+| Finish() | *You bounced what track:*      |    X |
+| Live() | *You sang what live:*      |    X |
+| Finish2() | *You made what visuals*      |    X |
+| Phone() | *You called who:*      |    X |
+| Share() | *Uploaded what to archive:*      |    X |
+| Phone() | *You called who*      |    X |
+| PBD() | *You did what for PBD?*      |    X |
+| Web() | *You did what to POLIW.AT?*      |    X |
+| Love&Legacy() | *You did what for friends/fam?*      |    X |
+| God() | *You're grateful for what?*      |    X |
+<sub>v1.0</sub>
 
  -->

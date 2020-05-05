@@ -41,22 +41,22 @@ Live [] You sang what song(s) live:
   - Constantly zoning out on zoom for Emma's Bday
 
 Finish V [] You made what visuals:
-  -
+  - https://youtu.be/KmGUC8V14i4
 
 Phone [] You called who:
-
+  -
 
 Share [] You uploaded what to Archive:
-
+  -  
 
 Website [] You did what to Paleblue.fm:
-
+  -
 
 Website [] You did what to poliw.at:
-  
+  - updated logs
 
 Love and Legacy [] You did what for friends/family:
-
+  - sent mom a postcard from brooklyn (belated BDAY :( )
 
 God [] You're grateful for what:
 

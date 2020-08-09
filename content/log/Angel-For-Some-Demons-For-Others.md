@@ -30,7 +30,7 @@ and don't you want to be like every one man
 everyone man?
 
 everyone like us blown ear drums
-  
+
 rectangle minds
 
 your mind

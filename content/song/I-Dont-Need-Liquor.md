@@ -19,9 +19,8 @@ I do not need liquor when I think that I'm in love
 I do not need liquor when I believe in God above
 I do not need liquor when I need no more sentences
 I do not need liquor when I don't need a linguist
-I do not need liquid when my actions are intended
+I do not need liquid when my actions are intended 
 I show you through my actions I love you in this nation
-
 (double time)
 I do not need no liquor because you are my liquor
 because you on this beat and this beat is getting sicker
@@ -29,10 +28,11 @@ and becca on the drums and mike up on them keys
 and michael on the bass
 that's michael with no liquor, clean
 
-
+//
 (chorus)
 please
 love me love you love this holy shit
+//
 
 ```
 

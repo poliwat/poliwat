@@ -22,7 +22,7 @@ tags : ["logs"]
 
 
 
-F# G Em A E C#m C# FNm Bm A# F C D# DNm D B GNm
+F# G Em A E C#m C# FNm Bm G# F C D# DNm D B GNm
 
 
 (matt /jack playing congas in jack’s studio, michael with microhpone)

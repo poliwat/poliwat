@@ -277,7 +277,7 @@ same coke line
 
 my therapist is at wits end
 
-plese center yourself
+please center yourself
 you render yourself
 useless
 half the time spit

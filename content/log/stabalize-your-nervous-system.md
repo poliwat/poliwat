@@ -32,7 +32,7 @@ Real distraught right now but within the next 20 I'll be able to do actionable i
 
 **Friday 850 PM**
 
-@lulu's all by myslef :)
+@lulu's all by myself :)
 
 
 just jumped off the bus after one stop because the nice lady said it was an hour to get my place, and I didn't want to do that so I'm here chasing wifi

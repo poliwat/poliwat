@@ -243,7 +243,7 @@ am I a burnout, because I feel burnt out?
 
 
 
-**firday 1242 PM**
+**friday 1242 PM**
 
 
 why cause I only fuck local bitches?

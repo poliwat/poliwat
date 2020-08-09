@@ -1,5 +1,5 @@
 ---
-title: "CC4CC"
+title: "CC4CF"
 date: 2020-04-09T13:16:24-04:00
 draft : "false"
 tags : ["songs"]
@@ -10,25 +10,85 @@ tags : ["songs"]
 #### Lyrics
 
 ```
+Carter! Carter! Carter!
+DID HE DID HE
+// move with that attitude
+DID HE
+911 demolition
+DID HE
+false flag operation
+DID HE
+JFK assasination
+I'm talking curtain call
+for the curtain fall
+girls go wild when the curtain up
+men revolutionize to take that curtain down
+I just wanna shower with you and anime
+wow wow
+I said it It meant it as everything as a pawn
+I said it It meant it as everything as a pawn
+I said it It meant it as everything as a pawn
+I said it It meant it as everything as a pawn
 
-carter! carter! carter!
 
-DID
+I'm talking I'm talking curtain call for the curtain fall
+it a party when the curtain up
+girls revolutionize to take that curtain down
+I just wanna shower with you
+and anime wow wow
+I said it I meant it as everything as a pawn
+I said it I meant it as everything as a pawn
+I said it I meant it as everything as a pawn
+I said it I meant it as everything as a pawn
+
+learn to love yourself buttercup
+grab a partner you love make-up and no make-up
+buttercup
+grow up you grown up
+don't kill that child inside of of you
+that the most you you'll ever know
+your short buy a cute pup
+
+and you welcome here
+cause it's curtain call for the curtain fall
+fuck a hook read a book you got ADD
+5150'd on my 21st birthday
+life beyond fear
+that's why they say I got acid eyes
+fam's afraid to call me back like
+from poor to bullied to popular to transcend 'I'
+
+bullied into fear
+deprogram the shill in your cheap thrills
+that's making the world a shittier place
+paradise is here always was here
+
+most of the right pills for your body mind and soul
+wont be legal
+cause we're stuck in a master slave complex
+abstracted away through lawyers and judges
+
+
+once a week I stay up till dawn
+
+------NOT BELOW THIS LINE ------
+don't constrain your language
+only sacred is nothing is sacred
+
+have something to say about start ups
+men revolutionize take that
+
 
 max every emotion
 throw me in coach
 
 my world would crush your chest
 
-fuck a hook
-read a book
-you got ADD
-I got 5150'd
-on my 21st birthday
+why is nobody thining
+am I gonna die a die a cynic
+cause I'm not too smart
+to correct these actions that are not
 
-life beyond fear
-that's why they say I got acid eyes
-from bullied to popular
 
 ```
 

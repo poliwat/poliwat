@@ -106,7 +106,7 @@ means of existence you know
 
 I hope youre happy God
 while I am not
-gender bias and temperment
+gender bias and temperament
 personality nouns
 don't wear on you
 stead up lift you now

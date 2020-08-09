@@ -129,3 +129,17 @@ Exercise in futility ?
 
 
 https://www.newmusicusa.org/our-programs/grants/
+
+
+|| why is the top screen typing me typing terminal and doing a monologue ||
+
+|| || || ||
+
+## welcome to pitchers
+
+### GG
+
+Where I pitch you shows till you give me food and shelter in the form of a contract involving money, which I hate. (spit on the ground)
+...
+
+I love nature myself 

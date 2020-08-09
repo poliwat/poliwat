@@ -12,7 +12,7 @@ tags : ["logs"]
 <div>I’m not usually the one to slow it down</div>
 <div>but that saddest truth that gets to you </div>
 <div>and I know that my laptop is missing screw you </div>
-<div>and I <b>missing</b> myself oh missing you </div>
+<div>and I <b>miss </b> myself oh missing you </div>
 <div><br></div>
 <div>but what's dat hardest truth</div>
 <div>of myself missing you </div>
@@ -25,10 +25,6 @@ tags : ["logs"]
 <div><br></div>
 <div>I'll never be all I see</div>
 <div>but </div>
-<div><br></div>
-
-[Last Past]
-
 <div>Life's so precious</div>
 <div>No one whats they doing</div>
 <div>world full of suffering</div>

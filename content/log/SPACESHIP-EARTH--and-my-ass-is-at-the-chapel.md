@@ -17,9 +17,9 @@ and we had a blast. Hung out with his tree crew,
 
 met a cool author Brandon Peele
 
-Met a cool ecuadorian mentor type guy Joe
+Met a cool Ecuadorian mentor type guy Joe
 
-Hungout with Nick's tree crew Dustin, Brian, and $%^&
+Hung out with Nick's tree crew Dustin, Brian, and $%^&
 
 ##### THEN
 

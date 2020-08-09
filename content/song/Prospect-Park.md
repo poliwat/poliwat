@@ -79,6 +79,44 @@ ___
 
 
 ```
+
+
+```
+
+```
+Im in the maze
+I got the faith
+polecat in the bay
+Im barefoot
+
+
+know your audience
+fuck that
+you need more challenge
+we all that
+
+last act going down
+
+speakers blowing out
+music all night
+got a set at dawn
+am I in front of or behind the curtain
+
+met the cutest nuddist budhist
+
+spat cummings to me
+
+under oak tree
+
+by dog beach
+
+now she work in tech
+
+taught me this chant
+
+now i cant pay rent
+
+but was born a betts
 and Satan's greatest was
 the word of god because
 

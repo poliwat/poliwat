@@ -4,7 +4,9 @@ date: 2020-07-05T16:15:00-04:00
 draft : "false"
 tags : ["Logs"]
 ---
-
+```
+the more you bounce
+```
 <!--more-->
 
 the more you bounce
@@ -31,7 +33,7 @@ Not super stoked on my album because it isn't nearly as good as I imagined I cou
 I am working with becca on poliw.at live and we are having a lot of fun breathing a whole new life into those songs.
 
 || this laptop's too hot to think I believe :D It's a sunday, and the first sunday I have had in a while that illicit's a break, you know one of those days you just take off? I'm going to try and make sure to do that every Sunday. Played the kompletel kontrol keys and becca joined and we did a live practice of next time I go out with me on keys now and yeah can't write cause I'm a rusty goose, been taking too many days off from journaling. It really puts you n the dark a bit about your emotions if you aren't journalling!
-Hard to notice it but when you do you know. || Listening to Atom Heart Mother and everything here is building into something of a magical life and I am writing in Gina's room cause she went to cape cod 
+Hard to notice it but when you do you know. || Listening to Atom Heart Mother and everything here is building into something of a magical life and I am writing in Gina's room cause she went to cape cod
 
 <!--
 

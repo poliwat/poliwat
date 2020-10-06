@@ -1,6 +1,6 @@
 ---
-title: "Boogeyman"
-date: 2020-02-26T11:47:19-05:00
+title: "DINOCLIT"
+date: 2020-10-02T13:21:27-04:00
 draft : "false"
 tags : ["songs"]
 ---
@@ -10,37 +10,47 @@ tags : ["songs"]
 #### Lyrics
 
 ```
+remember what famous anus
+said to cloud bitch
+back in high school
 
-dumb dumb dumb
-dumbdumbdumb
-dumb dumb dumb
-dumbdumbdumb
+said to cloud bitch with babushka
 
+I know that
+dinoclit
+hit me back
 
-my last ex
-is the boogey man x3
+I know that
+dinoclit
+hit me back
 
+I know that
+dinoclit
+hit me back
 
-suns coming up
-and I've just come down
-think I caught something
-to spend the night with with you
+-=-=--==-=--=-=-==--=-=
+and 40 years later
+look in the mirror
+dont wanna see no pimp
+creepin hard all gimp
+it was dirty dude
+the world
+after dad dip  
+what famous anus
+told dinoclit 
+-=-=--==-=--=-=-==--=-=
 
-g -l -o -v -e
-love love love love with the glove
-
-nonononono
-no no no
-nonononono
-no no no
-nonononono
-no no no
-
-
-suns coming down
-and I'm just getting up
-
-
+TJs and Quesedillas and Mrs. America
+and bikes and ciggie and uncle ray
+and sleepy all day and coffee not working
+and h ain't pregant, becca got 3 triangular
+dark circles on her skin
+and I got more work
+and I got great work
+and I work work great got
+and I don't care
+about looking dumb
+cause you don't even know
 
 ```
 

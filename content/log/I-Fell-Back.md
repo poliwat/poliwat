@@ -4,7 +4,9 @@ date: 2020-07-30T11:23:55-04:00
 draft : "false"
 tags : ["Logs"]
 ---
-
+```
+Creature of habit more than anything else
+```
 <!--more-->
 
 **11:24AM**

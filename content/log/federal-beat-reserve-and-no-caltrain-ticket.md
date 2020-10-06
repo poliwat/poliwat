@@ -57,6 +57,7 @@ let's bring it back to that shakespeare
 20k wordflocabulary
 siempre off-kilter always
 siempre off-key
+physically
 but in my mind I writing symphonies
 last samurai of a world full of employees
 paradigm shift wet wipes ephiphany
@@ -82,7 +83,7 @@ michaelflops
 addicted to concept of space
 we perceive only observable universe
 want to know what's bigger than big?
-addicted to the idea of a bitch
+addicted to that idea of a bitch
 oh optimize my hard drive
 ableton be full
 as I'm empty bellied burning Cali

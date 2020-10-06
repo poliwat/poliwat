@@ -4,13 +4,14 @@ date: 2020-08-01T15:05:35-04:00
 draft : "false"
 tags : ["Logs"]
 ---
-
+<iframe src="https://archive.org/embed/tabitha_202005" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 <!--more-->
 
 **15:05**
 
 # Dat sat
 
+___
 
 ```
 
@@ -106,3 +107,9 @@ DATS SAT
 <sub>v1.0</sub>
 
  -->
+
+{{ I'm having a hard time being patient right about now lol }}
+
+{{ I need you to leave now you said you were leaving }}
+
+{{  }}

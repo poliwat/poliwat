@@ -1,15 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>logs on POLIW.AT</title>
+    <title>Logs on POLIW.AT</title>
     <link>https://poliw.at/tags/logs/</link>
-    <description>Recent content in logs on POLIW.AT</description>
+    <description>Recent content in Logs on POLIW.AT</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 06 Oct 2020 12:20:27 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2020 12:06:32 -0400</lastBuildDate>
     
 	<atom:link href="https://poliw.at/tags/logs/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Focus as Frolly Found</title>
+      <link>https://poliw.at/log/focus-as-frolly-found/</link>
+      <pubDate>Wed, 07 Oct 2020 12:06:32 -0400</pubDate>
+      
+      <guid>https://poliw.at/log/focus-as-frolly-found/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Polecat Notes</title>

@@ -15,6 +15,10 @@ tags : ["Logs"]
 
 - Andrzej Majewski
 
+> Act as if the maxims of your action were to become through your will a universal law of nature.
+
+- Immanuel Kant
+
 
 <!--
 

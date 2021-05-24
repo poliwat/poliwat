@@ -28,7 +28,22 @@ I know that
 dinoclit
 hit me back
 
--=-=--==-=--=-=-==--=-=
+--=--=--
+
+'famus anus to cloud bitch'
+
+
+I was on that bridge
+
+I was on that cliff
+
+I blacked out in dangerous places on purpose
+
+its a spiritual battle
+
+only you can solve it
+
+-=-=--==-=--=-=-==--=-
 and 40 years later
 look in the mirror
 dont wanna see no pimp
@@ -37,7 +52,7 @@ it was dirty dude
 the world
 after dad dip  
 what famous anus
-told dinoclit 
+told dinoclit
 -=-=--==-=--=-=-==--=-=
 
 TJs and Quesedillas and Mrs. America
@@ -72,3 +87,14 @@ cause you don't even know
 𝄞     G clef     &#119070;
 𝄢     F clef     &#119074;
 𝄡     C clef     &#119073; -->
+you’re depressed
+
+and nothing I say will make it better
+
+I know that
+
+dino clit hit me back
+
+
+
+I was depressed for years

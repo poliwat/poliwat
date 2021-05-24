@@ -2,14 +2,18 @@
 title: "Remembering Famous Anus and Cloud Bitch"
 date: 2020-05-08T11:43:00-04:00
 draft : "false"
-tags : ["Logs"]
+tags : ["songs"]
 ---
 ```
+remember what famous anus
+said to cloud bitch
+back in high shool
+jumpin the fence hop in the pool
+
 TJs and Quesedillas and Mrs. America
 and bikes and ciggie and uncle ray
 and sleepy all day and coffee not working
-and h ain't pregant, becca got 3 triangular
-dark circles on her skin
+and h ain't pregant
 and I got more work
 and I got great work
 and I work work great got
@@ -17,10 +21,7 @@ and I don't care
 about looking dumb
 cause you don't even know
 ```
-
 <!--more-->
-
-
 
 **18:17**
 

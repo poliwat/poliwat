@@ -36,8 +36,7 @@ let me do mine
 
 living in revelations
 unemployment soaring
-if jobs were songs
-Ive got thousands
+if jobs were songs Im working on
 (chorus)
 we are jobs
 what do you do
@@ -57,6 +56,7 @@ he's on youtube news
 
 students say Earth is flat
 don't know what to do with that
+
 
 
 but i dont need any shoes

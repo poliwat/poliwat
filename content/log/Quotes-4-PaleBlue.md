@@ -19,6 +19,9 @@ tags : ["Logs"]
 
 - Immanuel Kant
 
+> "Once in a lifetime, maybe, you look at a stranger and you see a soul, a gloriosu presence out of place in the world. And if you love God, every choice is made for you. There is no turning away."
+
+- Gilead
 
 <!--
 

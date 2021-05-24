@@ -15,7 +15,7 @@ PaginatePath = "/"
   # Style options: default (pink), blue, green, pink, red, sea, violet
   # Use custom.css for your custom styling
   # style = "blue"
-  description = "Open Source"
+  description = "Life is short, POLIWAT forever. OSOD = open source or die."
   copyright = " OSOD &copy;2019 POLIW.AT LOVES YOU"
   sidebarAbout = [
     "TLDR;","> US based mixed media artist ","> passion for tech art and humanity ","> makes art to inspire higher standards of how we treat each other"
@@ -58,8 +58,25 @@ PaginatePath = "/"
   url = "contact/"
 
   [[params.navlinks]]
-  name = "Listen"
-  url = "listen/"
+  name = "Spotify"
+  url = "https://open.spotify.com/artist/7Jn4iPQ4xOje3URpWzD27A?si=AyZdzRvtRuibdqwtUrB-qQ"
+
+  [[params.navlinks]]
+  name = "Apple Music"
+  url = "https://music.apple.com/us/artist/poliw-at/1500101418"
+
+  [[params.navlinks]]
+  name = "Archive"
+  url = "https://archive.org/details/@poliwat"
+
+
+  [[params.navlinks]]
+  name = "Amazon"
+  url = "https://www.amazon.com/s?k=poliw.at&i=digital-music&search-type=ss&ref=ntt_srch_drd_B0851YJNWM"
+
+  [[params.navlinks]]
+  name = "Deezer"
+  url = "https://deezer.page.link/rtuVRcxCYqQMGyZf7"
 
   [[params.navlinks]]
   name = "CV"

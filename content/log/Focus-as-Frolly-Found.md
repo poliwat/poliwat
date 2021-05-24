@@ -14,15 +14,17 @@ I want to start remixing other people's videos to improve them. Especially lextu
 
 10 favorite websites when I'm feelng lazy / depressed   
 
+ourworldindata.org
 lesswrong.com
 wikipedia
 kirstenhacker.wordpress.com
 poliw.at
 paleblue.fm
 
-when I'm really depressed I go on
-quora (sorta)
-4chan.org/x/
+
+When I'm really depressed I go on
+quora (sorta) || 4chan.org/x/
+
 
 <!--
 

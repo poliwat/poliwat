@@ -59,7 +59,7 @@ learn how to gain mastery over a few things
 
   A person called that may be an Omari Client
 
-  http://www.shawnxu.net/
+  https://www.shawnxu.net/
 
 
 Hey Ben,
@@ -82,7 +82,7 @@ YOU DIDN'T TELL ME MIKI MAKES HOUSE MUSIC! 🔥🌍 Tell him I liked the Overvie
 
 
 You can see projects I've done here:
-http://michaelbetts.me
+https://michaelbetts.me
 
 
 

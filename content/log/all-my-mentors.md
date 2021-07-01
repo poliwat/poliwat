@@ -74,7 +74,7 @@ sample dave
 
 # east bay regional park
 
-http://www.ktvu.com/news/police-find-burning-body-at-19th-century-funeral-pyre-in-oakland
+https://www.ktvu.com/news/police-find-burning-body-at-19th-century-funeral-pyre-in-oakland
 
 
 *Friday 719 PM*

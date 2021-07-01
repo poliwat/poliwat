@@ -15,7 +15,7 @@ Abs Anonymous.
 
 And it started because for years, I have been keeping tabs on others with the same name as me, Michael Betts. Mostly to feel better about myself, but also I have this fantasy where we can all start a think tank and solve the world's issues. Or even better not solve them and make a show of our attempts.
 
-Loser Michael's aside ( I'll report on in the future ), there's one Michael Betts in much better shape than me. He's a [personal trainer](http://www.huffingtonpost.co.uk/author/michael-betts). I'm going to make the exercise list and link the audio, and ask him if he'd be interested in producing a workout video called Abs Anonymous.   
+Loser Michael's aside ( I'll report on in the future ), there's one Michael Betts in much better shape than me. He's a [personal trainer](https://www.huffingtonpost.co.uk/author/michael-betts). I'm going to make the exercise list and link the audio, and ask him if he'd be interested in producing a workout video called Abs Anonymous.   
 
 My friend [Jimmothy Leary](https://soundcloud.com/jimmothy_leary) has a sweet club track I'm writing a workout routine to.
 

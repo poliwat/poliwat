@@ -52,4 +52,4 @@ I will log my time
 
 *Sunday 325 AM*
 
-http://www.telegraph.co.uk/science/2016/09/11/dolphins-recorded-having-a-conversation-for-first-time/
+https://www.telegraph.co.uk/science/2016/09/11/dolphins-recorded-having-a-conversation-for-first-time/

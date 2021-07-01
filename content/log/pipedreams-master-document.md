@@ -5,7 +5,7 @@ draft: false
 tags : ["logs"]
 ---
 
-## <a href="http://www.headlands.org/program/air/">pipedream  </a> (UNDONE)
+## <a href="https://www.headlands.org/program/air/">pipedream  </a> (UNDONE)
 
 
 write your own religion
@@ -81,4 +81,4 @@ You have your audio, now what?
 
 
 
-http://cdm.link/2018/02/free-plug-brings-extreme-paulstretch-stretching-daw/
+https://cdm.link/2018/02/free-plug-brings-extreme-paulstretch-stretching-daw/

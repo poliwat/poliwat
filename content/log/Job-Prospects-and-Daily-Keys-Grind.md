@@ -20,7 +20,7 @@ tags : ["Logs"]
 ||
 
 
-http://www.mouchette.org/fly/flies.html ||
+https://www.mouchette.org/fly/flies.html ||
 
 https://nyanpass.com/about.html
 

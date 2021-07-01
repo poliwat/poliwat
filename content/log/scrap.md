@@ -17,14 +17,14 @@ Got some sweet Christmas presents at Scrap and I'm going to get all my holiday s
 
 Today I learned about bunch of new cool shit.
 
-http://grayarea.org/education/apprenticeship/
+https://grayarea.org/education/apprenticeship/
 
 
 #### Stoked to go to this tomorrow morning
 
 https://ccrma.stanford.edu/events/aren-jansen-audioset-real-world-audio-event-classification
 
-http://learnsimlish.blogspot.com/p/simlish-dictionary.html
+https://learnsimlish.blogspot.com/p/simlish-dictionary.html
 
 
 [This guy used to always be at noisebridge last year](https://www.theverge.com/circuitbreaker/2017/9/7/16267418/scotty-allen-strangeparts-iphone-7-headphone-jack-mod-shenzhen-diy)

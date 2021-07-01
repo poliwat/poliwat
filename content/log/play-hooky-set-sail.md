@@ -17,7 +17,7 @@ I grew a new appreciation for the ocean, from a wind perspective. In sailing you
 <iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/338457122%3Fsecret_token%3Ds-XMbbl&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
 
 
-http://kotaku.com/the-extraordinary-mischievous-too-short-life-of-sean-481060252
+https://kotaku.com/the-extraordinary-mischievous-too-short-life-of-sean-481060252
 
 
 Today I have goals before waking up early for the 17 with Stefan.
@@ -33,7 +33,7 @@ Today I have goals before waking up early for the 17 with Stefan.
 
   finish center of github - try to get ONE SOLD ( link to patreon )
 
-  what I'm listening to now. <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=1276903406/size=large/bgcol=333333/linkcol=4ec5ec/tracklist=false/track=1633700327/transparent=true/" seamless><a href="http://michaelbetts.bandcamp.com/album/homebrew-piano">Homebrew Piano by Michael Betts</a></iframe>
+  what I'm listening to now. <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=1276903406/size=large/bgcol=333333/linkcol=4ec5ec/tracklist=false/track=1633700327/transparent=true/" seamless><a href="https://michaelbetts.bandcamp.com/album/homebrew-piano">Homebrew Piano by Michael Betts</a></iframe>
 
   249 PM
 
@@ -43,7 +43,7 @@ Today I have goals before waking up early for the 17 with Stefan.
 
 324 pm
 
-Only talked on the phone with people the past 30 minutes and looked at books in [santa cruz bookstore](http://www.bookshopsantacruz.com/)
+Only talked on the phone with people the past 30 minutes and looked at books in [santa cruz bookstore](https://www.bookshopsantacruz.com/)
 
 The 4 loco has been heavy on my mind all day, and once I get in the groove of bouncing samples I'll take a drag.
 Gotta get the site up first! And release a youtube cut of the center of github.

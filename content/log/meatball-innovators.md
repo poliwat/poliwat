@@ -22,7 +22,7 @@ https://themes.gohugo.io/theme/forty/
 real fucked up anime = https://en.wikipedia.org/wiki/Attack_on_Titan
 
 sophie =
-http://www.boundarysolutions.com/
+https://www.boundarysolutions.com/
 
 --=-=-==--==-=-- --=-=-==--==-=-- --=-=-==--==-=-- --=-=-==--==-=-- --=-=-==--==-=-- --=-=-==--==-=--
 

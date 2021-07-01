@@ -70,7 +70,7 @@ dät
 https://www.radiotopia.fm/podquest/
 
 
-http://www.audiocraft.com.au/#intro
+https://www.audiocraft.com.au/#intro
 
 https://twitter.com/audiocraftconf
 
@@ -88,7 +88,7 @@ is dying
 
 because I'm ding
 
-http://bpd.cdn.sos.ca.gov/corp/pdf/naavinquiryform.pdf
+https://bpd.cdn.sos.ca.gov/corp/pdf/naavinquiryform.pdf
 
 
 

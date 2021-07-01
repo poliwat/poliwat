@@ -113,7 +113,7 @@ add credits to each ep
 
 email out to get the 501(c) going again
 
-This is all that matters, the rest is <a href="http://www.ubu.com/sound/beckett_godot.html"> EC </a>
+This is all that matters, the rest is <a href="https://www.ubu.com/sound/beckett_godot.html"> EC </a>
 
 =-=-=-= =-=-=-= =-=-=-= =-=-=-= =-=-=-= =-=-=-= =-=-=-= =-=-=-= =-=-=-= =-=-=-= =-=-=-= =-=-=-=
 =-=-=-= =-=-=-= =-=-=-= =-=-=-= =-=-=-= =-=-=-= =-=-=-= =-=-=-= =-=-=-= =-=-=-= =-=-=-= =-=-=-=

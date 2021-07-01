@@ -21,7 +21,7 @@ Climbed a super sketch tree haou
 
 
 
-# fav link ever = http://paleblue.org/
+# fav link ever = https://paleblue.org/
 
 
 

@@ -73,7 +73,7 @@ Just got the pdf laya yoga chakras
 I think I should migrate to bandcamp cause it's free
 
 
-<iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=3303138254/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/track=609969269/transparent=true/" seamless><a href="http://michaelbetts.bandcamp.com/album/songs-part-2">Songs, Part 2 by Michael Betts</a></iframe>
+<iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=3303138254/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/track=609969269/transparent=true/" seamless><a href="https://michaelbetts.bandcamp.com/album/songs-part-2">Songs, Part 2 by Michael Betts</a></iframe>
 
 ```
 chorus 34567890987654356789

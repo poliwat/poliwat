@@ -45,7 +45,7 @@ I love working in atom, maybe just have a hugo dev site for the workflow of ever
 PBD - Founders Follies
 Erin McKean
 https://www.ted.com/talks/erin_mckean_go_ahead_make_up_new_words
-http://erinmckean.com/about/
+https://erinmckean.com/about/
 https://twitter.com/emckean
 
 
@@ -73,6 +73,6 @@ https://gallery.mailchimp.com/d98bc191795a26a2e0dec3420/files/FREE_Simple_Keto.0
 
 https://youtu.be/7BWE2i88egk
 
-http://siimland.com/body-mind-agoge-optin/
+https://siimland.com/body-mind-agoge-optin/
 
 https://www.instagram.com/siimland/

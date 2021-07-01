@@ -13,7 +13,7 @@ Buying a car
 a good producer
 has reliable wheels
 ```
-http://www.visual-literacy.org/periodic_table/periodic_table.html
+https://www.visual-literacy.org/periodic_table/periodic_table.html
 
 
 

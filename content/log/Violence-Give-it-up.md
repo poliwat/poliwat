@@ -11,7 +11,7 @@ tags : ["Logs"]
 ```
 
 Couldn't
-ever be mor e
+ever be more
   violence
   man runs into the center of the crowd
   screams

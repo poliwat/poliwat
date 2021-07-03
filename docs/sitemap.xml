@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="https://www.w3.org/1999/xhtml">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
     <loc>https://poliw.at/songs/songbook-master-list/</loc>
@@ -18,31 +18,148 @@
   </url>
   
   <url>
-    <loc>https://poliw.at/log/finally-setup/</loc>
-    <lastmod>2020-11-21T19:40:16-05:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://poliw.at/</loc>
-    <lastmod>2020-11-21T19:40:16-05:00</lastmod>
+    <lastmod>2021-07-03T12:53:10-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://poliw.at/log/</loc>
-    <lastmod>2020-11-21T19:40:16-05:00</lastmod>
+    <lastmod>2021-07-03T12:53:10-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://poliw.at/log/press-is-going-to-have-a-field-day-with-this/</loc>
+    <lastmod>2021-07-03T12:53:10-04:00</lastmod>
   </url>
   
   <url>
     <loc>https://poliw.at/tags/</loc>
-    <lastmod>2020-11-21T19:40:16-05:00</lastmod>
+    <lastmod>2021-07-03T12:53:10-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://poliw.at/tags/logs/</loc>
-    <lastmod>2020-11-21T19:40:16-05:00</lastmod>
+    <lastmod>2021-07-03T12:53:10-04:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://poliw.at/log/shutin-catching-up/</loc>
+    <lastmod>2021-05-28T17:13:11-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://poliw.at/log/violence-give-it-up/</loc>
+    <lastmod>2021-05-27T17:11:04-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://poliw.at/log/late-may-menthols-otm/</loc>
+    <lastmod>2021-05-24T09:08:53-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://poliw.at/log/another-chance/</loc>
+    <lastmod>2021-05-24T00:33:55-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://poliw.at/log/lights-flash-playing-parent-trap/</loc>
+    <lastmod>2021-05-13T14:23:46-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://poliw.at/log/theres-no-time-like-the-present/</loc>
+    <lastmod>2021-04-23T15:04:53-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://poliw.at/log/sands-of-time-in-my-pocket-last-time/</loc>
+    <lastmod>2021-04-16T11:04:41-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://poliw.at/song/</loc>
+    <lastmod>2021-04-09T22:47:56-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://poliw.at/song/tock/</loc>
+    <lastmod>2021-04-09T22:47:56-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://poliw.at/tags/songs/</loc>
+    <lastmod>2021-04-09T22:47:56-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://poliw.at/log/the-year-i-was-29/</loc>
+    <lastmod>2021-04-02T09:25:44-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://poliw.at/song/mouths-open-wide/</loc>
+    <lastmod>2021-03-10T15:06:43-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://poliw.at/song/kants-death/</loc>
+    <lastmod>2021-03-10T14:51:50-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://poliw.at/song/i-am-soup/</loc>
+    <lastmod>2021-03-10T14:47:46-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://poliw.at/song/my-friends-fatal-flaws-masterlist/</loc>
+    <lastmod>2021-03-10T14:38:16-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://poliw.at/log/the-mysterious-black-voice-in-my-room/</loc>
+    <lastmod>2020-12-11T00:14:47-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://poliw.at/log/remember-when/</loc>
+    <lastmod>2020-12-08T14:28:20-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://poliw.at/log/think-youre-getting-jafars/</loc>
+    <lastmod>2020-12-07T11:19:39-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://poliw.at/log/loombick-wilson/</loc>
+    <lastmod>2020-11-30T22:32:41-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://poliw.at/log/sardinos/</loc>
+    <lastmod>2020-11-29T20:49:39-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://poliw.at/log/back-the-ratty-cat-gym-goes/</loc>
+    <lastmod>2020-11-25T11:25:57-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://poliw.at/log/november-blue-plane-dad/</loc>
+    <lastmod>2020-11-23T10:36:16-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://poliw.at/log/finally-setup/</loc>
+    <lastmod>2020-11-21T19:40:16-05:00</lastmod>
   </url>
   
   <url>
@@ -86,20 +203,8 @@
   </url>
   
   <url>
-    <loc>https://poliw.at/song/</loc>
-    <lastmod>2020-10-17T10:36:17-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://poliw.at/song/what-is-lost/</loc>
     <lastmod>2020-10-17T10:36:17-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://poliw.at/tags/songs/</loc>
-    <lastmod>2020-10-17T10:36:17-04:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -1363,14 +1468,14 @@
   </url>
   
   <url>
-    <loc>https://poliw.at/tags/podcasts/</loc>
+    <loc>https://poliw.at/songs/what-do-you-want-to-hear-in-40-years/</loc>
     <lastmod>2019-09-15T12:40:25-05:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://poliw.at/songs/what-do-you-want-to-hear-in-40-years/</loc>
+    <loc>https://poliw.at/tags/podcasts/</loc>
     <lastmod>2019-09-15T12:40:25-05:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>

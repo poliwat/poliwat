@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="https://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on POLIW.AT</title>
     <link>https://poliw.at/tags/</link>
     <description>Recent content in Tags on POLIW.AT</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 21 Nov 2020 19:40:16 -0500</lastBuildDate>
+    <lastBuildDate>Sat, 03 Jul 2021 12:53:10 -0400</lastBuildDate>
     
 	<atom:link href="https://poliw.at/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>logs</title>
       <link>https://poliw.at/tags/logs/</link>
-      <pubDate>Sat, 21 Nov 2020 19:40:16 -0500</pubDate>
+      <pubDate>Sat, 03 Jul 2021 12:53:10 -0400</pubDate>
       
       <guid>https://poliw.at/tags/logs/</guid>
       <description></description>
@@ -23,7 +23,7 @@
     <item>
       <title>songs</title>
       <link>https://poliw.at/tags/songs/</link>
-      <pubDate>Sat, 17 Oct 2020 10:36:17 -0400</pubDate>
+      <pubDate>Fri, 09 Apr 2021 22:47:56 -0700</pubDate>
       
       <guid>https://poliw.at/tags/songs/</guid>
       <description></description>
@@ -48,7 +48,7 @@
     </item>
     
     <item>
-      <title>Podcasts</title>
+      <title>podcasts</title>
       <link>https://poliw.at/tags/podcasts/</link>
       <pubDate>Sun, 15 Sep 2019 12:40:25 -0500</pubDate>
       

@@ -1,15 +1,60 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="https://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Songs on POLIW.AT</title>
     <link>https://poliw.at/song/</link>
     <description>Recent content in Songs on POLIW.AT</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 17 Oct 2020 10:36:17 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 09 Apr 2021 22:47:56 -0700</lastBuildDate>
     
 	<atom:link href="https://poliw.at/song/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Tock</title>
+      <link>https://poliw.at/song/tock/</link>
+      <pubDate>Fri, 09 Apr 2021 22:47:56 -0700</pubDate>
+      
+      <guid>https://poliw.at/song/tock/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mouths Open Wide</title>
+      <link>https://poliw.at/song/mouths-open-wide/</link>
+      <pubDate>Wed, 10 Mar 2021 15:06:43 -0800</pubDate>
+      
+      <guid>https://poliw.at/song/mouths-open-wide/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kants Death</title>
+      <link>https://poliw.at/song/kants-death/</link>
+      <pubDate>Wed, 10 Mar 2021 14:51:50 -0800</pubDate>
+      
+      <guid>https://poliw.at/song/kants-death/</guid>
+      <description>&lt;iframe allow=&#34;autoplay&#34; width=&#34;100%&#34; height=&#34;300&#34; src=&#34;https://www.iheart.com/artist/poliwat-34084534/?embed=true&#34; frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;</description>
+    </item>
+    
+    <item>
+      <title>I Am Soup</title>
+      <link>https://poliw.at/song/i-am-soup/</link>
+      <pubDate>Wed, 10 Mar 2021 14:47:46 -0800</pubDate>
+      
+      <guid>https://poliw.at/song/i-am-soup/</guid>
+      <description>&lt;iframe allow=&#34;autoplay&#34; width=&#34;100%&#34; height=&#34;300&#34; src=&#34;https://www.iheart.com/artist/poliwat-34084534/?embed=true&#34; frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;</description>
+    </item>
+    
+    <item>
+      <title>My Friends Fatal Flaws Masterlist</title>
+      <link>https://poliw.at/song/my-friends-fatal-flaws-masterlist/</link>
+      <pubDate>Wed, 10 Mar 2021 14:38:16 -0800</pubDate>
+      
+      <guid>https://poliw.at/song/my-friends-fatal-flaws-masterlist/</guid>
+      <description>&lt;iframe src=&#34;https://open.spotify.com/embed/album/5mj6KZOvneg9ZDTCQk0aPx&#34; width=&#34;300&#34; height=&#34;380&#34; frameborder=&#34;0&#34; allowtransparency=&#34;true&#34; allow=&#34;encrypted-media&#34;&gt;&lt;/iframe&gt;</description>
+    </item>
     
     <item>
       <title>What Is Lost</title>
@@ -102,7 +147,7 @@
     </item>
     
     <item>
-      <title>Today I Submit To</title>
+      <title>Today     To</title>
       <link>https://poliw.at/song/today-i-submit-to/</link>
       <pubDate>Mon, 16 Mar 2020 18:11:21 -0500</pubDate>
       

@@ -50,8 +50,12 @@ PaginatePath = "/"
   home = true
 
   [[params.navlinks]]
-  name = "About"
-  url = "about/"
+  name = "Music"
+  url = "https://open.spotify.com/artist/7Jn4iPQ4xOje3URpWzD27A?si=AyZdzRvtRuibdqwtUrB-qQ"
+
+  [[params.navlinks]]
+  name = "Video Library Vault 36"
+  url = "contact/"
 
   [[params.navlinks]]
   name = "Get in touch"

@@ -1,0 +1,129 @@
+body {
+  height: 100%;
+  margin: 0;
+  perspective: 500px;
+  transform-style: preserve-3d;
+}
+
+h1 {
+  font-family: sans-serif;
+  position: absolute;
+  margin: 0 auto;
+  left: 0;
+  right: 0;
+  top: 20px;
+  font-size: 0.9em;
+  color: white;
+  z-index: 9990;
+  text-align: center;
+  width: 400px;
+  border-radius: 20px;
+  height: 40px;
+  line-height: 40px;
+}
+
+background {
+  display: block;
+  width: 100vw;
+  height: 100vh;
+  background: #333;
+}
+background ul {
+  position: absolute;
+  top: 60px;
+}
+
+div {
+  overflow: hidden;
+  transform-origin: 0% 0%;
+  width: 100vw;
+  height: 100vh;
+  background: #121212;
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  transition: all 1s ease;
+  transform: rotateY(0deg);
+  display: flex;
+  border: 1px solid transparent;
+}
+
+#switch {
+  display: none;
+}
+#switch:checked ~ div {
+  border: 1px solid white;
+  box-shadow: 20px 10px 10px rgba(0, 0, 0, 0.5);
+  width: 20vw;
+  height: 20vh;
+  right: 10%;
+  bottom: 100px;
+  transform: rotateY(-10deg);
+}
+
+.switch {
+  z-index: 9999;
+  position: absolute;
+  top: 20px;
+  left: 30px;
+  cursor: pointer;
+  width: 50px;
+}
+.switch span {
+  background: white;
+  height: 5px;
+  width: 100%;
+  display: block;
+  margin: 7px 0px;
+  border-radius: 5px;
+}
+
+video {
+  display: none;
+  width: 100%;
+  align-self: center;
+}
+
+.btns {
+  position: absolute;
+  top: 80px;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.btns label {
+  background: #444;
+  cursor: pointer;
+  border-top: 1px solid rgba(255, 255, 255, 0.3);
+  border-top: 1px solid rgba(255, 255, 255, 0.3);
+  color: white;
+  font-family: sans-serif;
+  height: 50px;
+  padding-left: 30px;
+  line-height: 50px;
+  transition: all 0.2s ease;
+}
+.btns label:hover {
+  background: #222;
+}
+.btns label span {
+  padding-right: 20px;
+  color: #00e600;
+  display: none;
+}
+
+input[type=radio] {
+  display: none;
+}
+
+input[type=radio]#a:checked ~ div > video:nth-child(1),
+input[type=radio]#b:checked ~ div > video:nth-child(2),
+input[type=radio]#c:checked ~ div > video:nth-child(3) {
+  display: block;
+}
+
+input[type=radio]#a:checked ~ .btns label[for=a] span,
+input[type=radio]#b:checked ~ .btns label[for=b] span,
+input[type=radio]#c:checked ~ .btns label[for=c] span {
+  display: inline-block;
+}

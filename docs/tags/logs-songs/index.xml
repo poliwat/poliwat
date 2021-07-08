@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>logs, songs on POLIW.AT</title>
+    <link>https://poliw.at/tags/logs-songs/</link>
+    <description>Recent content in logs, songs on POLIW.AT</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 14 Jul 2019 16:00:31 -0700</lastBuildDate>
+    
+	<atom:link href="https://poliw.at/tags/logs-songs/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>All of Us Owe</title>
+      <link>https://poliw.at/songs/all-of-us-owe/</link>
+      <pubDate>Sun, 14 Jul 2019 16:00:31 -0700</pubDate>
+      
+      <guid>https://poliw.at/songs/all-of-us-owe/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

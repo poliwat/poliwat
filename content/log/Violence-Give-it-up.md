@@ -3,7 +3,22 @@ title: "Violence Give It Up"
 date: 2021-05-27T17:11:04-04:00
 draft : "false"
 tags : ["Logs"]
+vtag: "vault361"
 ---
+
+<section class="fullsize-video-bg">
+	<div class="inner">
+		<div>
+			<h1></h1>
+		</div>
+	</div>
+	<div id="video-viewport">
+		<video width="1920" height="1280" autoplay loop>
+			<source src="https://poliwatvideos.s3.us-east-2.amazonaws.com/poliwatwebbg3.mp4" type="video/mp4" />
+			<source src="https://poliwatvideos.s3.us-east-2.amazonaws.com/poliwatwebbg3.webm" type="video/webm" />
+		</video>
+	</div>
+</section>
 
 
 **17:12**

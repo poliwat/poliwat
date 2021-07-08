@@ -55,7 +55,7 @@ PaginatePath = "/"
 
   [[params.navlinks]]
   name = "Video Library Vault 36"
-  url = "contact/"
+  url = "video/"
 
   [[params.navlinks]]
   name = "Get in touch"

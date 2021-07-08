@@ -6,7 +6,7 @@
     <description>Recent content in Tags on POLIW.AT</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 06 Jul 2021 12:20:18 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 07 Jul 2021 10:44:03 -0400</lastBuildDate>
     
 	<atom:link href="https://poliw.at/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>logs</title>
       <link>https://poliw.at/tags/logs/</link>
-      <pubDate>Tue, 06 Jul 2021 12:20:18 -0400</pubDate>
+      <pubDate>Wed, 07 Jul 2021 10:44:03 -0400</pubDate>
       
       <guid>https://poliw.at/tags/logs/</guid>
       <description></description>
@@ -53,6 +53,15 @@
       <pubDate>Sun, 15 Sep 2019 12:40:25 -0500</pubDate>
       
       <guid>https://poliw.at/tags/podcasts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>logs, songs</title>
+      <link>https://poliw.at/tags/logs-songs/</link>
+      <pubDate>Sun, 14 Jul 2019 16:00:31 -0700</pubDate>
+      
+      <guid>https://poliw.at/tags/logs-songs/</guid>
       <description></description>
     </item>
     

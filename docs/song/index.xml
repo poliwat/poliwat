@@ -17,7 +17,12 @@
       <pubDate>Fri, 09 Apr 2021 22:47:56 -0700</pubDate>
       
       <guid>https://poliw.at/song/tock/</guid>
-      <description></description>
+      <description>&lt;div id=&#34;video-viewport-blog&#34;&gt;
+  &lt;video width=&#34;1280&#34; height=&#34;1080&#34; loop mute controls&gt;
+    &lt;source src=&#34;https://poliwatvideos.s3.us-east-2.amazonaws.com/vault361.mp4&#34; type=&#34;video/mp4&#34; /&gt;
+    &lt;source src=&#34;https://poliwatvideos.s3.us-east-2.amazonaws.com/vault361.webm&#34; type=&#34;video/webm&#34; /&gt;
+  &lt;/video&gt;
+&lt;/div&gt;</description>
     </item>
     
     <item>

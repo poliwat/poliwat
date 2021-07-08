@@ -5,7 +5,48 @@ draft : "false"
 tags : ["songs"]
 ---
 
+<div id="video-viewport-blog">
+  <video width="1280" height="1080" loop mute controls>
+    <source src="https://poliwatvideos.s3.us-east-2.amazonaws.com/vault361.mp4" type="video/mp4" />
+    <source src="https://poliwatvideos.s3.us-east-2.amazonaws.com/vault361.webm" type="video/webm" />
+  </video>
+</div>
+
 <!--more-->
+
+<!-- {{ partial "head.html" . }} -->
+  <!-- {{ block "sidebar.html" . }}
+  {{ end }}
+  {{ block "top2" . }}
+  {{ end }} -->
+
+<!-- <link rel="stylesheet" href="{{ "css/homepage.css" | absURL }}">
+<link rel="stylesheet" href="{{ "css/custom.css" | absURL }}"> -->
+<!-- <link rel="stylesheet" href="{{ "css/video.css" | absURL }}"> -->
+
+<div class="">
+	<div class="inner">
+		<div>
+      <h4>Vault 36</h4>
+
+      <h4>Vault 36 is an open source video library created by mixed media artist Poliw.at and used often by the nonprofit Paleblue.fm .</h4>
+
+      <h4>"I use these clips for music videos, live visuals, secret kickbacks, and other projects." -POLIW.AT</h4>
+
+      <h4>If you found any of this art useful, feel free to shout out @poliwat , or send me love through donations through one of my sites.</h4>
+
+      <h4>Open source or die!</h4>
+
+      <h4>POLIWAT LOVES YOU</h4>
+		</div>
+	</div>
+</div>
+
+<!-- <div class="container">
+  <div class="row">
+    <h1>VIZZY</h1>
+</div> -->
+
 
 #### Lyrics
 
@@ -34,7 +75,7 @@ all the women I date more qualified than me
 most important woman of my life
 sas I'm a genius
 
-  
+
 
 ```
 

@@ -236,6 +236,10 @@ h1, h2, h3, h4, h5, h6,  {
   color: #ffffff;
 }
 
+h1, h2, h3, h4, h5, h6, p {
+  color: #ffffff;
+}
+
 .container-fluid {
   background: rgb(00,00,00);
   /* background: linear-gradient(180deg, rgba(26,44,76,1) 37%, rgba(38,66,115,1) 67%, rgba(49,88,155,1) 93%); */

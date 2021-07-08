@@ -5,6 +5,8 @@ draft : "false"
 tags : ["songs"]
 ---
 
+<iframe src="https://archive.org/embed/mashup-1v-2" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
 <!--more-->
 
 #### Lyrics

@@ -5,9 +5,11 @@ draft : "false"
 tags : ["songs"]
 ---
 
-<iframe allow="autoplay" width="100%" height="300" src="https://www.iheart.com/artist/poliwat-34084534/?embed=true" frameborder="0"></iframe>
+<iframe src="https://archive.org/embed/2skip1v1" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 <!--more-->
+
+<iframe allow="autoplay" width="100%" height="300" src="https://www.iheart.com/artist/poliwat-34084534/?embed=true" frameborder="0"></iframe>
 
 #### Lyrics
 

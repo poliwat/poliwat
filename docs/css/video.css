@@ -25,3 +25,7 @@ video { display: block; width: 100%; height: auto; }
 
 h1 { font-size: 3em; line-height: .9; font-weight: 900; letter-spacing: -.025em; text-transform: uppercase; margin-bottom: .5em; }
 h1 + p + a { font-size: 1.5em;  }
+
+.light {
+  color:white;
+}

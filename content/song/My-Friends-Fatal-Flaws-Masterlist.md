@@ -5,17 +5,19 @@ draft : "false"
 tags : ["songs"]
 ---
 
-<iframe src="https://open.spotify.com/embed/album/5mj6KZOvneg9ZDTCQk0aPx" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+<iframe src="https://archive.org/embed/soundfloors-amb-pbd/POLIW.AT+-+My+friends+fatal+flaws+master+list.wav" width="500" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+^Soft Piano
 
 <!--more-->
 
-<iframe src="https://open.spotify.com/embed/artist/7Jn4iPQ4xOje3URpWzD27A" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+#### Notes
 
-#### Lyrics
+No words, just made this doodle over the TV and mom in the kitchen one day. (around christmas)
 
-```
 
-```
+<iframe src="https://open.spotify.com/embed/album/5mj6KZOvneg9ZDTCQk0aPx" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
 
 <!--
 ♩     Musical quarter note     &#9833;

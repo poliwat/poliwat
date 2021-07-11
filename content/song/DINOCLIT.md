@@ -5,6 +5,8 @@ draft : "false"
 tags : ["songs"]
 ---
 
+<iframe src="https://archive.org/embed/federal-beat-reserve-poliwat/00+beatmaker2v1.mp3" width="500" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe> ^instrumental version
+
 <!--more-->
 
 #### Lyrics

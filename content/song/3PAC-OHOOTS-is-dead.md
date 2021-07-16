@@ -2,9 +2,11 @@
 title: "3PAC OHOOTS Is Dead"
 date: 2020-01-31T12:21:45-05:00
 draft : "false"
-tags : ["songs"]
+tags : ["song"]
 weight : "2"
 ---
+
+<iframe src="https://open.spotify.com/embed/album/3zwkZQZhC0p8qAqPD42luL" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 Song about a friend I didn't get a chance to meet on this Earth.
 

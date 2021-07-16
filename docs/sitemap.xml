@@ -8,7 +8,7 @@
   </url>
   
   <url>
-    <loc>https://poliw.at/songs/3pac-ohoots-is-dead/</loc>
+    <loc>https://poliw.at/song/3pac-ohoots-is-dead/</loc>
     <lastmod>2020-01-31T12:21:45-05:00</lastmod>
   </url>
   
@@ -18,31 +18,41 @@
   </url>
   
   <url>
-    <loc>https://poliw.at/log/find-kachina/</loc>
-    <lastmod>2021-07-11T10:46:31-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://poliw.at/tags/logs/</loc>
-    <lastmod>2021-07-11T10:46:31-04:00</lastmod>
-    <priority>0</priority>
+    <loc>https://poliw.at/log/balls-and-bladders/</loc>
+    <lastmod>2021-07-16T12:39:02-04:00</lastmod>
   </url>
   
   <url>
     <loc>https://poliw.at/</loc>
-    <lastmod>2021-07-11T10:46:31-04:00</lastmod>
+    <lastmod>2021-07-16T12:39:02-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://poliw.at/log/</loc>
-    <lastmod>2021-07-11T10:46:31-04:00</lastmod>
+    <lastmod>2021-07-16T12:39:02-04:00</lastmod>
   </url>
   
   <url>
     <loc>https://poliw.at/tags/</loc>
-    <lastmod>2021-07-11T10:46:31-04:00</lastmod>
+    <lastmod>2021-07-16T12:39:02-04:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://poliw.at/tags/logs/</loc>
+    <lastmod>2021-07-16T12:39:02-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://poliw.at/log/cherry-picked-lies/</loc>
+    <lastmod>2021-07-14T12:39:45-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://poliw.at/log/find-kachina/</loc>
+    <lastmod>2021-07-11T10:46:31-04:00</lastmod>
   </url>
   
   <url>
@@ -57,7 +67,7 @@
   </url>
   
   <url>
-    <loc>https://poliw.at/tags/songs/</loc>
+    <loc>https://poliw.at/tags/song/</loc>
     <lastmod>2021-07-08T01:11:37-04:00</lastmod>
     <priority>0</priority>
   </url>
@@ -115,6 +125,12 @@
   <url>
     <loc>https://poliw.at/song/tock/</loc>
     <lastmod>2021-04-09T22:47:56-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://poliw.at/tags/songs/</loc>
+    <lastmod>2021-04-09T22:47:56-07:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -930,12 +946,6 @@
   </url>
   
   <url>
-    <loc>https://poliw.at/songs/</loc>
-    <lastmod>2020-01-31T12:21:45-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://poliw.at/log/another-stock-photo-article/</loc>
     <lastmod>2020-01-30T00:46:30-05:00</lastmod>
   </url>
@@ -1050,6 +1060,12 @@
   <url>
     <loc>https://poliw.at/log/dont-push-the-black-sheep/</loc>
     <lastmod>2020-01-03T10:34:41-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://poliw.at/songs/</loc>
+    <lastmod>2020-01-02T22:01:39-08:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -1210,7 +1226,7 @@
   </url>
   
   <url>
-    <loc>https://poliw.at/songs/distant-hills/</loc>
+    <loc>https://poliw.at/song/distant-hills/</loc>
     <lastmod>2019-11-14T16:54:12-08:00</lastmod>
   </url>
   

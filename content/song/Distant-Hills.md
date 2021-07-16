@@ -2,7 +2,7 @@
 title: "Distant Hills - Winters almost over"
 date: 2019-11-14T16:54:12-08:00
 draft : "false"
-tags : ["songs"]
+tags : ["song"]
 ---
 
 Loved this freestyle so much I memorized it 99% verbatim.

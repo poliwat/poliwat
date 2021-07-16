@@ -9,6 +9,9 @@ tags : ["Logs"]
 I got my landboat
 ```
 
+<!--more-->
+
+
 **12:21 pm**
 
 It's time to get ome uglies out - couldn't sleep couldn't do anything watched a smart TV lost phone on the beach with H yesterday blamed her cause she didn't let me go back cause she was hungry
@@ -157,10 +160,6 @@ until we swayed away from it.
 
 
 ```
-
-
-
-<!--more-->
 
 
 <!--

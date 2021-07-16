@@ -1,23 +1,19 @@
 ---
-title: "My Friends Fatal Flaws Masterlist"
-date: 2021-03-10T14:38:16-08:00
+title: "Just Found My GOPRO"
+date: 2021-07-16T14:19:25-04:00
 draft : "false"
 tags : ["song"]
 ---
 
-<iframe src="https://archive.org/embed/soundfloors-amb-pbd/POLIW.AT+-+My+friends+fatal+flaws+master+list.wav" width="500" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
-
-^Soft Piano
+<iframe style="border: 0; width: 350px; height: 350px;" src="https://bandcamp.com/EmbeddedPlayer/track=3328145023/size=large/bgcol=333333/linkcol=ffffff/minimal=true/transparent=true/" seamless><a href="https://poliwat.bandcamp.com/track/just-found-my-gopro">just found my GOPRO by POLIW.AT</a></iframe>
 
 <!--more-->
 
-#### Notes
+#### Old instrumental for a class pattern mic.
 
-No words, just made this doodle over the TV and mom in the kitchen one day. (around christmas)
+```
 
-
-<iframe src="https://open.spotify.com/embed/album/5mj6KZOvneg9ZDTCQk0aPx" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
-
+```
 
 <!--
 ♩     Musical quarter note     &#9833;

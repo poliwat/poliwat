@@ -2,7 +2,7 @@
 title: "Real Legend"
 date: 2020-04-01T19:14:01-04:00
 draft : "false"
-tags : ["songs"]
+tags : ["song"]
 ---
 
 <iframe src="https://archive.org/embed/mashup-1v-2" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>

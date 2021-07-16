@@ -2,7 +2,7 @@
 title: "Kants Death"
 date: 2021-03-10T14:51:50-08:00
 draft : "false"
-tags : ["songs"]
+tags : ["song"]
 ---
 
 <iframe src="https://archive.org/embed/1hop1v2" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>

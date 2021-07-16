@@ -2,7 +2,7 @@
 title: "2 Reasons"
 date: 2020-01-31T17:32:28-05:00
 draft : "false"
-tags : ["songs"]
+tags : ["song"]
 ---
 
 Reasons of why I sleep alone at night, basically my personality flaws and view of the world.

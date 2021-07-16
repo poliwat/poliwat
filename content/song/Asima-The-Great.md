@@ -2,15 +2,15 @@
 title: "Asima the Great"
 date: 2020-01-31T17:41:48-05:00
 draft : "false"
-tags : ["songs"]
+tags : ["song"]
 ---
+
+<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=3303138254/size=small/bgcol=ffffff/linkcol=0687f5/track=3934722426/transparent=true/" seamless><a href="https://michaelbetts.bandcamp.com/album/songs-part-2">Songs, Part 2 by Michael Betts</a></iframe>
 
 Otherwise known as 'my first date'.
 Story, then a song, as it was first written.
 
 <!--more-->
-
-<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=3303138254/size=small/bgcol=ffffff/linkcol=0687f5/track=3934722426/transparent=true/" seamless><a href="https://michaelbetts.bandcamp.com/album/songs-part-2">Songs, Part 2 by Michael Betts</a></iframe>
 
 ##### Version without the story:
 

@@ -90,6 +90,30 @@ cause it’s like your partners dying
 got my london GF
 she in her L B Ds
 
+___
+
+welcome to poliw.at
+
+are you ready to engage
+
+are you ready to empower yourself
+
+over the terrors of this world
+
+you're in the right place
+
+
+
+# Whatever
+
+# Makes
+
+# You
+
+# feel
+
+# Comfortable
+
 <!--
 
 | Dailies        | Questions           | Answers  |

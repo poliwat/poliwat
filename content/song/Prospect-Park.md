@@ -2,13 +2,8 @@
 title: "Prospect Park"
 date: 2020-04-08T23:13:20-04:00
 draft : "false"
-tags : ["song"]
+tags : ["songs"]
 ---
-
-
-<iframe src="https://archive.org/embed/pbd-singsong/Prospect+Park+v1.mp3" width="500" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe> ^instrumental version
-
-^ SHITTY first draft
 
 <!--more-->
 

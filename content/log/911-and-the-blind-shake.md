@@ -86,7 +86,7 @@ His irl name is Dyer and he's a gem. I'm always rooting for him.
 
 Life stops I need to read this (paul told me about it today)
 
-https://www.matrixseite.de/Chronicles_from_the_Future-01.pdf
+http://www.matrixseite.de/Chronicles_from_the_Future-01.pdf
 
 ## nugs:
 

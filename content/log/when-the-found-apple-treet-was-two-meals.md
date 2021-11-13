@@ -49,7 +49,7 @@ an afternoon with have my face numb was interesting. I walked about 4 miles bare
 
 *Tuesday 657 PM*
 
-[the theatre we're officially running TSS at](https://www.mojotheatre.com/theatre-rental)
+[the theatre we're officially running TSS at](http://www.mojotheatre.com/theatre-rental)
 
 About to spliff episode two
 

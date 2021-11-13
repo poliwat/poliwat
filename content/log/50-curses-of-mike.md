@@ -102,7 +102,7 @@ youtube skeleton template for the description
 
 you can purchase the beat here:
 
-you can follow my audio blog here: https://poliw.at
+you can follow my audio blog here: http://poliw.at
 
 follow me on soundcloud and send me a voicemail
 

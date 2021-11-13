@@ -8,7 +8,7 @@ tags : ["logs"]
 **Friday 325 PM**
 
 
-Did I already link <a href="https://kenfulk.tumblr.com/">this</a> I forgot
+Did I already link <a href="http://kenfulk.tumblr.com/">this</a> I forgot
 
 The website looks like a bunch of dreams I've had with many doors.
 

@@ -29,7 +29,7 @@ Had a wonderful night with some new friends <3
 also got mixing advice from ian
 
 
-https://www.ubu.com/film/lane_inspirator.html
+http://www.ubu.com/film/lane_inspirator.html
 
 *Saturday 1018 AM*
 

@@ -28,46 +28,6 @@ it's just a drop L friend.
 ___
 
 
-### picture of a gender ambiguous human
-
-in the future when it says no floss sticks
-
-NO FLOSS STICKS =>
-
-therapy
-
-
-BRIANS A SEX ADDICT SIM, CAN'T STOP FREESTYLING ABOUT SEX
-
-cam and me are mariachi cover band walking in with guitars after we both die
-
-FA hall of fame members down the line
-
-IMPOSTER SYNDROME  - neither of them can have an identity while the other lives
-
-EVENTS - CAM DIES IN A PLANE ON THE WAY OVER SO I LEAVE THE MEETING AND THEN LIVE STREAM KILLING
-
-
-in fan fiction the discussion is as important as the story
-
-
-Two wuv - woman’s unique desirability
-
-magic Hoo Hoo - woman’s sexual desirability, whereas Twu Wav is about a woman’s specialness as a human being
-
-```
-capo 2 g em c (d)
-
-at the beach
-her words are pathetic
-her word are prophetic
-
-I’m a double fire sign
-she’s a last match kind of girl
-```
-
-
-
 <!--
 
 | Dailies        | Questions           | Answers  |

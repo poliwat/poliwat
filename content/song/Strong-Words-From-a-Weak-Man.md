@@ -2,10 +2,8 @@
 title: "Strong Words From a Weak Man"
 date: 2020-06-28T09:27:30-04:00
 draft : "false"
-tags : ["song"]
+tags : ["songs"]
 ---
-
-*Audio inc
 
 <!--more-->
 

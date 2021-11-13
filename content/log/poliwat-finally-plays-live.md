@@ -24,7 +24,7 @@ My favorite part of the show was hanging out having hilarious conversations back
 
 
 
-<a href="https://www.hkhinc.com/newmexico/albuquerque/doomsday/">I'm not much of a doomsday person</a>
+<a href="http://www.hkhinc.com/newmexico/albuquerque/doomsday/">I'm not much of a doomsday person</a>
 
 
 

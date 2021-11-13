@@ -5,45 +5,9 @@ draft : "false"
 tags : ["songs"]
 ---
 
-<div id="video-viewport-blog">
-  <video width="1280" height="1080" loop mute controls>
-    <source src="https://poliwatvideos.s3.us-east-2.amazonaws.com/vault361.mp4" type="video/mp4" />
-    <source src="https://poliwatvideos.s3.us-east-2.amazonaws.com/vault361.webm" type="video/webm" />
-  </video>
-</div>
-
 <!--more-->
 
-<!-- {{ partial "head.html" . }} -->
-  <!-- {{ block "sidebar.html" . }}
-  {{ end }}
-  {{ block "top2" . }}
-  {{ end }} -->
-
-<!-- <link rel="stylesheet" href="{{ "css/homepage.css" | absURL }}">
-<link rel="stylesheet" href="{{ "css/custom.css" | absURL }}"> -->
-<!-- <link rel="stylesheet" href="{{ "css/video.css" | absURL }}"> -->
-
-<div class="">
-	<div class="inner">
-		<div>
-      <h1>Tock</h1>
-      <h4>news flash</h4>
-      <h4>find a new waiter</h4>
-		</div>
-	</div>
-</div>
-
-<!-- <div class="container">
-  <div class="row">
-    <h1>VIZZY</h1>
-</div> -->
-
-___
-
-### Lyrics
-
-```
+#### Lyrics
 
 waiting
 news flash
@@ -69,6 +33,10 @@ all the women I date more qualified than me
 
 most important woman of my life
 sas I'm a genius
+
+  
+
+```
 
 ```
 

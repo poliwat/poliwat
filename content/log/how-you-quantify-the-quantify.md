@@ -15,7 +15,7 @@ tags : ["logs"]
 ### trilobyte
 
 
-<a href="https://www.dlcid.com/">jon de la cruz</a>
+<a href="http://www.dlcid.com/">jon de la cruz</a>
 
 
 "it's not beautiful if it doens't function" -jon

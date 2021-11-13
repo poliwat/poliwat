@@ -29,7 +29,7 @@ make reference shots for Chris by scene and email him
 
 Think about making brochure / start on lasercut business card design / schedule a time to see Tom
 
-email solmaxion for this https://solmaxion.fire.beer/ install her theme
+email solmaxion for this http://solmaxion.fire.beer/ install her theme
 
 
 -=--=-==--=-=-=

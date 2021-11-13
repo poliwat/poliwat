@@ -19,7 +19,7 @@ tasklist for michaelbetts dot me
   - make background more spacey
 
 
-  gotta keep it short and sweet, I really went into the weeds today churning out [this site](https://innovatorsrad.io/)
+  gotta keep it short and sweet, I really went into the weeds today churning out [this site](http://innovatorsrad.io/)
 
   .... am I going sailing tomorrow? I shouldn't but I sure hope so.
 

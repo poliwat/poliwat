@@ -2,12 +2,12 @@
 title: "Hail or Constantly Zoning Out"
 date: 2020-01-31T17:47:19-05:00
 draft : "false"
-tags : ["song"]
+tags : ["songs"]
 ---
 
-<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=2291264285/size=small/bgcol=ffffff/linkcol=0687f5/track=3324570219/transparent=true/" seamless><a href="https://michaelbetts.bandcamp.com/album/songs-part-3">Songs, part 3 by Michael Betts</a></iframe>
-
 <!--more-->
+
+<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=2291264285/size=small/bgcol=ffffff/linkcol=0687f5/track=3324570219/transparent=true/" seamless><a href="https://michaelbetts.bandcamp.com/album/songs-part-3">Songs, part 3 by Michael Betts</a></iframe>
 
 #### Lyrics
 

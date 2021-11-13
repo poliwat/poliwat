@@ -2,22 +2,20 @@
 title: "My Friends Fatal Flaws Masterlist"
 date: 2021-03-10T14:38:16-08:00
 draft : "false"
-tags : ["song"]
+tags : ["songs"]
 ---
-
-<iframe src="https://archive.org/embed/soundfloors-amb-pbd/POLIW.AT+-+My+friends+fatal+flaws+master+list.wav" width="500" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
-
-^Soft Piano
-
-<!--more-->
-
-#### Notes
-
-No words, just made this doodle over the TV and mom in the kitchen one day. (around christmas)
-
 
 <iframe src="https://open.spotify.com/embed/album/5mj6KZOvneg9ZDTCQk0aPx" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
+<!--more-->
+
+<iframe src="https://open.spotify.com/embed/artist/7Jn4iPQ4xOje3URpWzD27A" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
+#### Lyrics
+
+```
+
+```
 
 <!--
 ♩     Musical quarter note     &#9833;

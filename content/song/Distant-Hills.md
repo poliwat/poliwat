@@ -2,7 +2,7 @@
 title: "Distant Hills - Winters almost over"
 date: 2019-11-14T16:54:12-08:00
 draft : "false"
-tags : ["song"]
+tags : ["songs"]
 ---
 
 <iframe src="https://archive.org/embed/freestylers-anonymous/00+winters+almost+over.mp3" width="500" height="140" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
@@ -79,8 +79,8 @@ is another one this house of cards
 2 step 10 steps
 always always ahead
 turn it around I said
-like another nation
-so big
+disapointed in the arts
+
 well passionate about pangea
 is everybody up in the streets
 do ma feel ya
@@ -91,7 +91,7 @@ the way we are abusive with our non speaking yo
 damn that nobody is thinking
 why am I gonna die a die a cynic
 uh oh because I'm not too smart
-to correct our actions through all these words that are not
+to correct our actions through all these words that are hard
 damn
 why is everyone so dumb
 why my russian blood make me wanna hit the rum
@@ -100,6 +100,11 @@ my body float insomnia make me not cum
 why
 I know every is a phase a chapter
 all through the maze and winters almost fucking over GO!
+
+distant hills soar throat
+brazzers throat you know how it goes
+when you freetyle for too long
+when you're sick with a chopin cough
 
 ```
 

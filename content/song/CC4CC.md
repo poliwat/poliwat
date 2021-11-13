@@ -2,12 +2,8 @@
 title: "CC4CF"
 date: 2020-04-09T13:16:24-04:00
 draft : "false"
-tags : ["song"]
+tags : ["songs"]
 ---
-
-<iframe src="https://archive.org/embed/pbd-final-ep-3-v-2/1+Curtain+Call+4+Curtain+Fall+(Long+version)%5BInstrumental%5D.wav" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
-
-^ Preview for next schizop album....
 
 <!--more-->
 

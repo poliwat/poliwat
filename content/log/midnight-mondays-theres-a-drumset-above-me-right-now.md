@@ -10,7 +10,7 @@ tags : ["logs"]
 
 THere's a drumset right above me.
 
-Check it <a href="https://www.munidiaries.com/">out</a>
+Check it <a href="http://www.munidiaries.com/">out</a>
 
 
 

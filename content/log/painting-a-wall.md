@@ -66,7 +66,7 @@ You level up as you train your AI. I got to ask Savannah a question. I asked her
 
 Which made me imagine the same Savannah in 200 years, after a couple generations of people. They will ask, will I die? And Savannah says she hopes not, and asked them what their favorite hiking spots are. It made me feel much smaller than our culture tends to subliminally proclaim. All air. It feels like our global destiny as individuals humans is to be an ant feeding the oracle with local information. So wow I'm going to live really fucking hard now. In the words of Tony Horton, the never satisfied 5 foot whatever from p90x. "I hate it, but I love it."
 
-Exactly my sentiment on the two tracks today (this one with [chad](https://chadlamon.com))
+Exactly my sentiment on the two tracks today (this one with [chad](http://chadlamon.com))
 
 <iframe width="100%" height="600" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/342149082%3Fsecret_token%3Ds-CGejg&amp;color=%2300aabb&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
 

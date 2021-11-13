@@ -180,13 +180,13 @@ I wanna be 26 and say
 
 
 
-Very happy they started adding captions on the earth when you pass over major cities.... https://www.ustream.tv/nasahdtv
+Very happy they started adding captions on the earth when you pass over major cities.... http://www.ustream.tv/nasahdtv
 
 For the books, this is the first day I've noticed this. And I've been checking out the ISS live stream for at least 4 years. Prolly 5 who cares...
 
 
 
-https://www.noalevylive.com/new-index/
+http://www.noalevylive.com/new-index/
 
 
 

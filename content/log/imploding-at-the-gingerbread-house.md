@@ -7,7 +7,7 @@ tags : ["logs"]
 
 *Sunday 159 PM*
 
-[@kzsu](https://kzsu.stanford.edu/)
+[@kzsu](http://kzsu.stanford.edu/)
 
 K IWNBH - Internet will not be homogenized
 

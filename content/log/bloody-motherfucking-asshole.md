@@ -146,7 +146,7 @@ even the play can fall into this if I work smart. FUCK I'm so still clueless.
 
 I don't like posting on fb because you sort of have to color inside the lines. I was never a fan, so I get my social media fix by posting up between https://poliw.at and https://michaelbetts.me   
 
-<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=2291264285/size=large/bgcol=333333/linkcol=ffffff/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://michaelbetts.bandcamp.com/album/songs-part-3">Songs, part 3 by Michael Betts</a></iframe>
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=2291264285/size=large/bgcol=333333/linkcol=ffffff/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://michaelbetts.bandcamp.com/album/songs-part-3">Songs, part 3 by Michael Betts</a></iframe>
 
 
 Yeah I gotta move it all over.

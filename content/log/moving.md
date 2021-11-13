@@ -84,7 +84,7 @@ There are 2 schools of thought on the basis of shamanism
 
     c. tradition is visciated + grasping at straws
 
-2. [Gordon Wasson](https://www.imaginaria.org/wasson/life.htm)
+2. [Gordon Wasson](http://www.imaginaria.org/wasson/life.htm)
 
     a. nonarcotic shamanism
 

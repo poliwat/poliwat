@@ -1,64 +1,25 @@
-<link rel="stylesheet" href="{{ "css/homepage.css" | absURL }}">
-<link rel="stylesheet" href="{{ "css/custom.css" | absURL }}">
-<link rel="stylesheet" href="{{ "css/bootstrap.min.css" | absURL }}">
+{{ partial "top2.html"}}
+
+<header>
+  <script src="{{ "js/loading.js" | absURL }}"></script>
+  <link rel="stylesheet" href="{{ "css/homepage.css" | absURL }}">
+
+  <div class="overlay"></div>
+
+  <!-- <video playsinline="playsinline" width="1920" height="1080" autoplay="autoplay" muted="muted" loop="loop">
+      <source src="https://poliwatvideos.s3.us-east-2.amazonaws.com/kyokopoliwat.mp4" type="video/mp4">
+      <source src="https://poliwatvideos.s3.us-east-2.amazonaws.com/kyokopoliwat.webm" type="video/webm">
+  </video> -->
 
 
-<!-- <video playsinline="playsinline" width="100%" height="20%" autoplay="autoplay" muted="muted" loop="loop">
-    <source src="https://poliwatvideos.s3.us-east-2.amazonaws.com/kyokopoliwat.mp4" type="video/mp4">
-    <source src="https://poliwatvideos.s3.us-east-2.amazonaws.com/kyokopoliwat.webm" type="video/webm">
-</video> -->
-
-<!-- {{ partial "top2.html" }} -->
-<div class="container">
-  <div class="row">
-    <div class="col-sm-4">
-      <h1><a href="/">poliw.at</a></h1>
-      <p>---</p>
-      <b>CHANNEL LOG</b>
-      <p>July 3,2021 Finally a dedicated page to tunes. KISS =Keep it simple stupid.</p>
-      <p>Many ways to listen, choose your weapon.</p>
-      <p>OSOD.</p>
-      ---
-    </div>
-    <div class="col-sm-4">
-      <h2>Spotify</h2>
-      <iframe src="https://open.spotify.com/embed/artist/7Jn4iPQ4xOje3URpWzD27A?theme=0" width="100%" height="380" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>
-    </div>
-    <div class="col-sm-4">
-      <h2>iHeart Radio</h2>
-      <iframe allow="autoplay" width="100%" height="300" src="https://www.iheart.com/artist/poliwat-34084534/?embed=true" frameborder="0"></iframe>
+  <div class="container h-100">
+    <div class="d-flex h-100 text-center align-items-center">
+      <div class="w-100 text-white">
+        <h1><a href="/tags/logs">Listen</a></h1>
+        <h2><a href="/about">Watch</a></h2>
+        <h4><a href="/tags/podcasts">CV</a></h4>
+        <h5><a href="/tags/projects">Contact</a></h5>
+      </div>
     </div>
   </div>
-
-  <div class="row">
-    <div class="col-sm-6">
-      <h1>Antifolk / SINGSONG -SS</h1>
-      <iframe src="https://archive.org/embed/pbd-singsong&playlist=1&list_height=150" width="500" height="300" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
-    </div>
-    <div class="col-sm-6">
-      <h1>Federal Beat Reserve -FBR</h1>
-      <iframe src="https://archive.org/embed/federal-beat-reserve-poliwat&playlist=1&list_height=150" width="500" height="300" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
-
-    </div>
-    <div class="col-sm-6">
-      <h1>Freestylers Anonymous -FA</h1>
-      <iframe src="https://archive.org/embed/freestylers-anonymous&playlist=1&list_height=150" width="500" height="300" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
-    </div>
-
-    <div class="col-sm-6">
-      <h1>Hypothetical House -HH</h1>
-      <iframe src="https://archive.org/embed/hypothetical-house&playlist=1&list_height=150" width="500" height="300" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
-    </div>
-  </div>
-
-  <div class="row">
-    <div class="col-sm-6">
-      <h2>Audio Journals -AJ</h2>
-      <iframe src="https://archive.org/embed/audio-journals-pbd&playlist=1&list_height=150" width="500" height="300" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
-    </div>
-    <div class="col-sm-6">
-      <h2>(Legacy) POLIW.AT OG Soundcloud</h2>
-      <iframe src="https://archive.org/embed/ArtstLadyOnTheTrainNovemberTwoKEighteen1&playlist=1&list_height=150" width="500" height="300" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
-    </div>
-  </div>
-</div>
+</header>

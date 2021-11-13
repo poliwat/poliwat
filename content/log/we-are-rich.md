@@ -17,7 +17,7 @@ Depersonalization-derealization Method (NOT Disorder)
 
 https://www.webmd.com/mental-health/depersonalization-disorder-mental-health
 
-https://www.huffingtonpost.co.uk/krista-mills/dissociative-disorders_b_7073238.html
+http://www.huffingtonpost.co.uk/krista-mills/dissociative-disorders_b_7073238.html
 
 https://www.psychforums.com/schizoid-personality/topic82720.html
 

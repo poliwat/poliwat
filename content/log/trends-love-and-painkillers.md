@@ -72,7 +72,7 @@ Alright so finishing the portfolio looks like the same tasks from a couple days 
 Originally I was going to write about something else, but it would be more therapeutic to log two of the most beautiful experiences in my life...
 
 
-## applied to 30 jobs in the bay with [this](https://michaelbetts.me)
+## applied to 30 jobs in the bay with [this](http://michaelbetts.me)
 
 #### Painkillers
 

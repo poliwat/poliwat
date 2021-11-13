@@ -8,7 +8,7 @@ tags : ["logs"]
 
 **SATURDAY 725 PM**
 
-https://store.carsieblanton.com/track/vim-vigor
+http://store.carsieblanton.com/track/vim-vigor
 
 
 **sat 848 pm**

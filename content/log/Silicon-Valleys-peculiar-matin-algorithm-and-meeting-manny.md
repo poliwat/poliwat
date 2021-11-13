@@ -20,7 +20,7 @@ https://gallery.mailchimp.com/d98bc191795a26a2e0dec3420/files/FREE_Simple_Keto.0
 
 https://foursquare.com/v/wordnik-hq/4f0f36b7e4b035449940c72f/photos
 
-https://erinmckean.com/work/
+http://erinmckean.com/work/
 
 https://thirdeyepinecones.com/founders-story
 

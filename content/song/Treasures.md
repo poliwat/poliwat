@@ -5,7 +5,7 @@ draft : "false"
 tags : ["songs"]
 ---
 
-A song about how you really want to be able to appreciate all you have right in front of you.
+A song about how you really want to be able to appreciate all you have riht in front of you.
 
 <!--more-->
 

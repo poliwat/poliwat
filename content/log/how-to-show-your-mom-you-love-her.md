@@ -27,7 +27,7 @@ going to go mail it off with a little note
 
 also my buddy just recommended I apply to this:
 
-https://www.theatrebayarea.org/page/generalauditions
+http://www.theatrebayarea.org/page/generalauditions
 
 
 -===-

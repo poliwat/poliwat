@@ -2,14 +2,14 @@
 title: "Shaving Legs, and Seize the day, Girl"
 date: 2020-01-31T17:22:44-05:00
 draft : "false"
-tags : ["song"]
+tags : ["songs"]
 ---
 
-<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=1143358609/size=small/bgcol=ffffff/linkcol=0687f5/track=433953239/transparent=true/" seamless><a href="https://michaelbetts.bandcamp.com/album/songs-part-1">Songs, Part 1 by Michael Betts</a></iframe>
-
-^2 songs in one. Same Key.
+2 songs in one. Same Key.
 
 <!--more-->
+
+<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=1143358609/size=small/bgcol=ffffff/linkcol=0687f5/track=433953239/transparent=true/" seamless><a href="https://michaelbetts.bandcamp.com/album/songs-part-1">Songs, Part 1 by Michael Betts</a></iframe>
 
 ##### Key: G major
 

@@ -6,7 +6,7 @@
     <description>Recent content in songs on POLIW.AT</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 09 Apr 2021 22:47:56 -0700</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2020 10:36:17 -0400</lastBuildDate>
     
 	<atom:link href="https://poliw.at/tags/songs/index.xml" rel="self" type="application/rss+xml" />
     
@@ -23,26 +23,12 @@
     </item>
     
     <item>
-      <title>Tock</title>
-      <link>https://poliw.at/song/tock/</link>
-      <pubDate>Fri, 09 Apr 2021 22:47:56 -0700</pubDate>
+      <title>3PAC OHOOTS Is Dead</title>
+      <link>https://poliw.at/songs/3pac-ohoots-is-dead/</link>
+      <pubDate>Fri, 31 Jan 2020 12:21:45 -0500</pubDate>
       
-      <guid>https://poliw.at/song/tock/</guid>
-      <description>&lt;div id=&#34;video-viewport-blog&#34;&gt;
-  &lt;video width=&#34;1280&#34; height=&#34;1080&#34; loop mute controls&gt;
-    &lt;source src=&#34;https://poliwatvideos.s3.us-east-2.amazonaws.com/vault361.mp4&#34; type=&#34;video/mp4&#34; /&gt;
-    &lt;source src=&#34;https://poliwatvideos.s3.us-east-2.amazonaws.com/vault361.webm&#34; type=&#34;video/webm&#34; /&gt;
-  &lt;/video&gt;
-&lt;/div&gt;</description>
-    </item>
-    
-    <item>
-      <title>I Am Soup</title>
-      <link>https://poliw.at/song/i-am-soup/</link>
-      <pubDate>Wed, 10 Mar 2021 14:47:46 -0800</pubDate>
-      
-      <guid>https://poliw.at/song/i-am-soup/</guid>
-      <description>&lt;iframe src=&#34;https://archive.org/embed/2skip1v1&#34; width=&#34;640&#34; height=&#34;480&#34; frameborder=&#34;0&#34; webkitallowfullscreen=&#34;true&#34; mozallowfullscreen=&#34;true&#34; allowfullscreen&gt;&lt;/iframe&gt;</description>
+      <guid>https://poliw.at/songs/3pac-ohoots-is-dead/</guid>
+      <description>&lt;p&gt;Song about a friend I didn&amp;rsquo;t get a chance to meet on this Earth.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -51,9 +37,16 @@
       <pubDate>Sat, 17 Oct 2020 10:36:17 -0400</pubDate>
       
       <guid>https://poliw.at/song/what-is-lost/</guid>
-      <description>&lt;iframe src=&#34;https://archive.org/embed/pbd-singsong/Voice+Memo+-+2016-05-28+08+35+48+-+What+Is+Lost+Soon+Becomes+Found.m4a&#34; width=&#34;500&#34; height=&#34;30&#34; frameborder=&#34;0&#34; webkitallowfullscreen=&#34;true&#34; mozallowfullscreen=&#34;true&#34; allowfullscreen&gt;&lt;/iframe&gt;
-
-&lt;p&gt;^ 1st Old (1st capture of the completely improvised song (pretty close though not skill wise - compared to the final product one day.))&lt;/p&gt;</description>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DINOCLIT</title>
+      <link>https://poliw.at/song/dinoclit/</link>
+      <pubDate>Fri, 02 Oct 2020 13:21:27 -0400</pubDate>
+      
+      <guid>https://poliw.at/song/dinoclit/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -62,6 +55,24 @@
       <pubDate>Wed, 30 Sep 2020 22:56:47 -0400</pubDate>
       
       <guid>https://poliw.at/song/what-emotion-is-most-hidden/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Strong Words From a Weak Man</title>
+      <link>https://poliw.at/song/strong-words-from-a-weak-man/</link>
+      <pubDate>Sun, 28 Jun 2020 09:27:30 -0400</pubDate>
+      
+      <guid>https://poliw.at/song/strong-words-from-a-weak-man/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>My Gifts</title>
+      <link>https://poliw.at/song/my-gifts/</link>
+      <pubDate>Thu, 14 May 2020 01:20:39 -0400</pubDate>
+      
+      <guid>https://poliw.at/song/my-gifts/</guid>
       <description></description>
     </item>
     
@@ -90,6 +101,33 @@ cause you don&#39;t even know
     </item>
     
     <item>
+      <title>CC4CF</title>
+      <link>https://poliw.at/song/cc4cc/</link>
+      <pubDate>Thu, 09 Apr 2020 13:16:24 -0400</pubDate>
+      
+      <guid>https://poliw.at/song/cc4cc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prospect Park</title>
+      <link>https://poliw.at/song/prospect-park/</link>
+      <pubDate>Wed, 08 Apr 2020 23:13:20 -0400</pubDate>
+      
+      <guid>https://poliw.at/song/prospect-park/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Real Legend</title>
+      <link>https://poliw.at/song/real-legend/</link>
+      <pubDate>Wed, 01 Apr 2020 19:14:01 -0400</pubDate>
+      
+      <guid>https://poliw.at/song/real-legend/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>I Dont Need Liquor</title>
       <link>https://poliw.at/song/i-dont-need-liquor/</link>
       <pubDate>Fri, 20 Mar 2020 13:40:15 -0400</pubDate>
@@ -99,20 +137,29 @@ cause you don&#39;t even know
     </item>
     
     <item>
-      <title>I wanna have sex</title>
-      <link>https://poliw.at/log/eyeballs-from-bed/</link>
-      <pubDate>Fri, 20 Mar 2020 03:34:14 -0400</pubDate>
-      
-      <guid>https://poliw.at/log/eyeballs-from-bed/</guid>
-      <description>&lt;p&gt;With notes.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
       <title>We Are Jobs</title>
       <link>https://poliw.at/song/we-are-jobs/</link>
       <pubDate>Wed, 18 Mar 2020 10:58:57 -0400</pubDate>
       
       <guid>https://poliw.at/song/we-are-jobs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Today I Submit To</title>
+      <link>https://poliw.at/song/today-i-submit-to/</link>
+      <pubDate>Mon, 16 Mar 2020 18:11:21 -0500</pubDate>
+      
+      <guid>https://poliw.at/song/today-i-submit-to/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Boogeyman</title>
+      <link>https://poliw.at/song/boogeyman/</link>
+      <pubDate>Wed, 26 Feb 2020 11:47:19 -0500</pubDate>
+      
+      <guid>https://poliw.at/song/boogeyman/</guid>
       <description></description>
     </item>
     
@@ -126,6 +173,24 @@ cause you don&#39;t even know
     </item>
     
     <item>
+      <title>I Am a Spliff Heads</title>
+      <link>https://poliw.at/song/i-am-a-spliff-heads/</link>
+      <pubDate>Fri, 31 Jan 2020 18:05:59 -0500</pubDate>
+      
+      <guid>https://poliw.at/song/i-am-a-spliff-heads/</guid>
+      <description>&lt;p&gt;Autobiographical a-cappella song in which the spliff is your vehicle for opening up.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Hail or Constantly Zoning Out</title>
+      <link>https://poliw.at/song/hail/</link>
+      <pubDate>Fri, 31 Jan 2020 17:47:19 -0500</pubDate>
+      
+      <guid>https://poliw.at/song/hail/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>This Is How You Buy Flowers</title>
       <link>https://poliw.at/song/this-is-how-you-buy-flowers/</link>
       <pubDate>Fri, 31 Jan 2020 17:45:41 -0500</pubDate>
@@ -135,12 +200,31 @@ cause you don&#39;t even know
     </item>
     
     <item>
+      <title>Life Advice</title>
+      <link>https://poliw.at/song/life-advice/</link>
+      <pubDate>Fri, 31 Jan 2020 17:44:25 -0500</pubDate>
+      
+      <guid>https://poliw.at/song/life-advice/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Asima the Great</title>
+      <link>https://poliw.at/song/asima-the-great/</link>
+      <pubDate>Fri, 31 Jan 2020 17:41:48 -0500</pubDate>
+      
+      <guid>https://poliw.at/song/asima-the-great/</guid>
+      <description>&lt;p&gt;Otherwise known as &amp;lsquo;my first date&amp;rsquo;.
+Story, then a song, as it was first written.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Treasures</title>
       <link>https://poliw.at/song/treasures/</link>
       <pubDate>Fri, 31 Jan 2020 17:37:47 -0500</pubDate>
       
       <guid>https://poliw.at/song/treasures/</guid>
-      <description>&lt;p&gt;A song about how you really want to be able to appreciate all you have right in front of you.&lt;/p&gt;</description>
+      <description>&lt;p&gt;A song about how you really want to be able to appreciate all you have riht in front of you.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -150,6 +234,33 @@ cause you don&#39;t even know
       
       <guid>https://poliw.at/song/%D0%B6%D0%B8%D0%B7%D1%87%D1%8C-%D1%82%D0%B0%D0%BA%D0%B5-%D1%81%D0%B5%D0%B1%D0%B5/</guid>
       <description>&lt;p&gt;A love song I wrote in Russian.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Patriarchy</title>
+      <link>https://poliw.at/song/patriarchy/</link>
+      <pubDate>Fri, 31 Jan 2020 17:34:19 -0500</pubDate>
+      
+      <guid>https://poliw.at/song/patriarchy/</guid>
+      <description>&lt;p&gt;A satire song.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>2 Reasons</title>
+      <link>https://poliw.at/song/2-reasons/</link>
+      <pubDate>Fri, 31 Jan 2020 17:32:28 -0500</pubDate>
+      
+      <guid>https://poliw.at/song/2-reasons/</guid>
+      <description>&lt;p&gt;Reasons of why I sleep alone at night, basically my personality flaws and view of the world.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Shaving Legs, and Seize the day, Girl</title>
+      <link>https://poliw.at/song/shaving-legs/</link>
+      <pubDate>Fri, 31 Jan 2020 17:22:44 -0500</pubDate>
+      
+      <guid>https://poliw.at/song/shaving-legs/</guid>
+      <description>&lt;p&gt;2 songs in one. Same Key.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -168,6 +279,15 @@ cause you don&#39;t even know
       
       <guid>https://poliw.at/songs/toe-blue/</guid>
       <description>&lt;p&gt;CHEATERS, how do you justify cheating?&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Distant Hills - Winters almost over</title>
+      <link>https://poliw.at/songs/distant-hills/</link>
+      <pubDate>Thu, 14 Nov 2019 16:54:12 -0800</pubDate>
+      
+      <guid>https://poliw.at/songs/distant-hills/</guid>
+      <description>&lt;p&gt;Loved this freestyle so much I memorized it 99% verbatim.&lt;/p&gt;</description>
     </item>
     
     <item>

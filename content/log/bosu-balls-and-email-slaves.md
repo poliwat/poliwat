@@ -29,7 +29,7 @@ Easy! It's easier to make music w
 Today I need to hit up my sister in law marisa who lives close by to san mateo and I need to go hangout with her and her new baby!
 
 
-Also today I need to send https://omari.io out to these companies. I need to secure a client like... now.
+Also today I need to send http://omari.io out to these companies. I need to secure a client like... now.
 Jack and his mom are classic zombies going GET A JOB
 
 It's day 5 of the model pursuit with Jack and he noticed some concave action going down on his upper abs. LOVE IT

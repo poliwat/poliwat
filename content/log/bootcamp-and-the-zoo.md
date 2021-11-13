@@ -25,7 +25,7 @@ We are putting on a comedy play based off the video game franchise The Sims, and
 
 Thanks,
 Michael Betts
-https://michaelbetts.me
+http://michaelbetts.me
 
 
 ## jack's a huge pussy () and doesn't want me to come to his improv show

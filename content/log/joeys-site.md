@@ -18,6 +18,6 @@ Beats
 
 making him a site and he will give me some drums lessons  
 
-<iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=354518226/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://pricklypair.bandcamp.com/album/now-you-know">Now You Know by Prickly Pair</a></iframe>
+<iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=354518226/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="http://pricklypair.bandcamp.com/album/now-you-know">Now You Know by Prickly Pair</a></iframe>
 
 ^^ his music === I love it !!!

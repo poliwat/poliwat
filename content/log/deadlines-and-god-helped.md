@@ -12,7 +12,7 @@ Focus.
 It's been a slow start, but well done.
 
 Listening to the Modern Architect, a show I may help produce at KZSU. I'll see their process on Thursday and see what's up.
-https://www.themodernarchitect.org/on-demand-episodes
+http://www.themodernarchitect.org/on-demand-episodes
 
 God saved me because someone off of letgo bought my loaded longboard deck. When I'm rich I'll get one again.
 

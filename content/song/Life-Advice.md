@@ -2,12 +2,12 @@
 title: "Life Advice"
 date: 2020-01-31T17:44:25-05:00
 draft : "false"
-tags : ["song"]
+tags : ["songs"]
 ---
 
-<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=3303138254/size=small/bgcol=ffffff/linkcol=0687f5/track=3886783527/transparent=true/" seamless><a href="https://michaelbetts.bandcamp.com/album/songs-part-2">Songs, Part 2 by Michael Betts</a></iframe>
-
 <!--more-->
+
+<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=3303138254/size=small/bgcol=ffffff/linkcol=0687f5/track=3886783527/transparent=true/" seamless><a href="https://michaelbetts.bandcamp.com/album/songs-part-2">Songs, Part 2 by Michael Betts</a></iframe>
 
 #### Lyrics
 

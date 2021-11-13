@@ -98,7 +98,7 @@ looking for a pale blue bitch
 ```
 
 
-https://bl.ocks.org/ganeshv/6a8e9ada3ab7f2d88022
+http://bl.ocks.org/ganeshv/6a8e9ada3ab7f2d88022
 
 
 
@@ -244,7 +244,7 @@ Add projects into the main menu, with a new page for the following:
 
 - Pale Blue . (podcast)
 - pale blue lab
-- https://poliw.at
+- http://poliw.at
 - Overview Effect Project  == donate your old computer parts, / volunteer to be an official ambassador of the overview effect project. get permission to set it up somewhere cool in your community!
 
 The laundromat would be a cool place.
@@ -255,7 +255,7 @@ Laser cut cases
 
 - Love as Capital (open source behavior manual for all humans )
 
-  ^ I'm working on the following projects. Everything about these projects will always be open source. I write daily in a personal blog at <a href="https://poliw.at"> poliw.at </a>
+  ^ I'm working on the following projects. Everything about these projects will always be open source. I write daily in a personal blog at <a href="http://poliw.at"> poliw.at </a>
 
 Everyhting about my life revolves around these projects. When people ask if I have a job, yes I own a nonprofit working the above projects.
 

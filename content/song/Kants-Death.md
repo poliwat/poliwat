@@ -2,14 +2,12 @@
 title: "Kants Death"
 date: 2021-03-10T14:51:50-08:00
 draft : "false"
-tags : ["song"]
+tags : ["songs"]
 ---
 
-<iframe src="https://archive.org/embed/1hop1v2" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+<iframe allow="autoplay" width="100%" height="300" src="https://www.iheart.com/artist/poliwat-34084534/?embed=true" frameborder="0"></iframe>
 
 <!--more-->
-
-<iframe allow="autoplay" width="100%" height="300" src="https://www.iheart.com/artist/poliwat-34084534/?embed=true" frameborder="0"></iframe>
 
 
 

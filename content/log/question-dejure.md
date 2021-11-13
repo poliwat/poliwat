@@ -162,12 +162,12 @@ kali and shiva
 
 https://en.wikipedia.org/wiki/Pele_(deity)
 
-https://ourmedia.org/about/
+http://ourmedia.org/about/
 
 
 willow garage
 
-https://www.willowgarage.com/pages/software/opencv
+http://www.willowgarage.com/pages/software/opencv
 
 
 -=-=--=-=

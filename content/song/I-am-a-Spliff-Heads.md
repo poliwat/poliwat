@@ -2,16 +2,15 @@
 title: "I Am a Spliff Heads"
 date: 2020-01-31T18:05:59-05:00
 draft : "false"
-tags : ["song"]
+tags : ["songs"]
 ---
 
-<iframe src="https://open.spotify.com/embed/track/1dz97RsS9AbqXzwE8FkRQU" width="100%" height="380" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+Autobiographical a-cappella song in which the spliff is your vehicle for opening up.
 
 <!--more-->
 
 #### Lyrics
-
-Autobiographical a-cappella song in which the spliff is your vehicle for opening up.
+{{Acapella version}}
 
 ```
 Am        G    (G#)             

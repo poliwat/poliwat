@@ -3,15 +3,15 @@ title: "Violence Give It Up"
 date: 2021-05-27T17:11:04-04:00
 draft : "false"
 tags : ["Logs"]
-vtag: "vault361"
 ---
+
 
 **17:12**
 
 ```
 
 Couldn't
-ever be more
+ever be mor e
   violence
   man runs into the center of the crowd
   screams

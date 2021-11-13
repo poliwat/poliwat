@@ -11,7 +11,7 @@ tags : ["logs"]
 
 Hello! I'm Michael Betts. But first, check it out:
 
-<img src="https://paleblue.fm/wp-content/uploads/2018/05/pbd-og.jpg">
+<img src="http://paleblue.fm/wp-content/uploads/2018/05/pbd-og.jpg">
 
 
 
@@ -327,7 +327,7 @@ how to make your own font for free
 
 for muneerah to read :
 
-https://www.businessinsider.com/overview-effect-nasa-apollo8-perspective-awareness-space-2015-8
+http://www.businessinsider.com/overview-effect-nasa-apollo8-perspective-awareness-space-2015-8
 
 
 

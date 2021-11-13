@@ -18,7 +18,7 @@ write simlish
 
 **Friday 111 pm**
 
-https://www.dailygood.org/pdf/ij.php?tid=682
+http://www.dailygood.org/pdf/ij.php?tid=682
 
 https://soundcloud.com/kaiyabaku/fish-tacos
 

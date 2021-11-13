@@ -18,7 +18,7 @@ PaginatePath = "/"
   description = "Life is short, POLIWAT forever. OSOD = open source or die."
   copyright = " OSOD &copy;2019 POLIW.AT LOVES YOU"
   sidebarAbout = [
-    "> US based mixed media artist " , "> You have been lied to all your life " , "> Everyone's an artist", "> Open Source or die"
+    "TLDR;","> US based mixed media artist ","> passion for tech art and humanity ","> makes art to inspire higher standards of how we treat each other"
   ]
   # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a
@@ -50,12 +50,8 @@ PaginatePath = "/"
   home = true
 
   [[params.navlinks]]
-  name = "Music"
-  url = "https://open.spotify.com/artist/7Jn4iPQ4xOje3URpWzD27A?si=AyZdzRvtRuibdqwtUrB-qQ"
-
-  [[params.navlinks]]
-  name = "Video Library Vault 36"
-  url = "video/"
+  name = "About"
+  url = "about/"
 
   [[params.navlinks]]
   name = "Get in touch"

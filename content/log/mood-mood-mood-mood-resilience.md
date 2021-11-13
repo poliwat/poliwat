@@ -21,7 +21,7 @@ scheduled peter ++
 
 called DD again ++ (4th time)
 
-got https://palebluedawt.com/ setup
+got http://palebluedawt.com/ setup
 
 Editing 1st episode
 

@@ -2,7 +2,7 @@
 title: "Find Kachina"
 date: 2021-07-11T10:46:31-04:00
 draft : "false"
-tags : ["Logs"]
+tags : ["videos"]
 ---
 
 

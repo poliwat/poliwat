@@ -2,7 +2,7 @@
 title: "Miss Myself Missing You"
 date: 2021-07-08T01:11:37-04:00
 draft : "false"
-tags : ["song"]
+tags : ["songs"]
 ---
 
 <iframe src="https://open.spotify.com/embed/track/0eBUnpBZjW5G5ZloE7pWfZ" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>

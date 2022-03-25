@@ -2,7 +2,7 @@
 title: "Ginas Beauty Marks"
 date: 2021-07-19T09:51:53-04:00
 draft : "false"
-tags : ["song"]
+tags : ["videos" , "songs"]
 ---
 
 <iframe src="https://player.vimeo.com/video/485314015" width="640" height="338" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>

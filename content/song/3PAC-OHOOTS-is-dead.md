@@ -2,7 +2,7 @@
 title: "3PAC OHOOTS Is Dead"
 date: 2020-01-31T12:21:45-05:00
 draft : "false"
-tags : ["song"]
+tags : ["songs"]
 weight : "2"
 ---
 

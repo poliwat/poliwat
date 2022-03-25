@@ -1,1 +1,12 @@
-Made with love by poliw.at
+<div class="col-xs-12 col-sm-12">
+    <br>
+    <div class="">
+      <a href="/">
+        <img src="/img/poliwat-logo-sm.png" alt="POLIW.AT LOVES YOU"><br>
+      </a>
+      {{ range .Site.Taxonomies.tags }}
+              <span><a href="{{ .Page.Permalink }}">{{ .Page.Title }}</a> <span style="color:#f2f2f2;">{{ .Count }}</span></span>
+      {{ end }}
+      {{ partial "social_buttons_in_sidebar.html" . }}
+    </div>
+</div>

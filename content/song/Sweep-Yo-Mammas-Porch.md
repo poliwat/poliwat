@@ -2,7 +2,7 @@
 title: "Sweep Yo Mammas Porch"
 date: 2021-07-16T14:33:08-04:00
 draft : "false"
-tags : ["song"]
+tags : ["songs"]
 ---
 
 <iframe style="border: 0; width: 350px; height: 350px;" src="https://bandcamp.com/EmbeddedPlayer/track=3244740584/size=large/bgcol=333333/linkcol=ffffff/minimal=true/transparent=true/" seamless><a href="https://poliwat.bandcamp.com/track/sweep-yo-mammas-porch-v1">Sweep yo mammas porch v1 by POLIW.AT</a></iframe>

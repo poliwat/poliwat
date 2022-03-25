@@ -8,7 +8,7 @@ disqusShortname = ""
 googleAnalytics = ""
 publishDir = "docs"
 
-paginate = "1"
+paginate = "10"
 PaginatePath = "/"
 
 [params]

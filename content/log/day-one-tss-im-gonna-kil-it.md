@@ -53,7 +53,7 @@ the misunderstood angel
 *Monday 932 PM*
 
 CooL!
-http://chordedkeyset.com/
+https://chordedkeyset.com/
 
 
 *Monday 1102 PM*

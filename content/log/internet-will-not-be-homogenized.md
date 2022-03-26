@@ -147,7 +147,7 @@ you will be in the drivers seat
 the internet will not be homogenized
 
 Reference:
-(http://i.imgur.com/qtENxAG.jpg)
+(https://i.imgur.com/qtENxAG.jpg)
 
 (https://www.eff.org/deeplinks/2017/05/fcc-needs-cut-through-noise-and-listen-publics-support-net-neutrality)
 

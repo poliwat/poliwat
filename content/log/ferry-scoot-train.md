@@ -37,7 +37,7 @@ I just found out from him that the podcast will get a sponsor, but there's a ver
 
 My favorite nugget from Tom (he's my producer mentor) was his advice to compile a list of 25 companies that I care about, and think I can help out. I'm going to focus on that
 
-I'm going to send Ben and Noa a little thankyou plank, as well as Charles. I'm going to formerly ask Ben to be my mentor or employment, whatever way I could help him out. The other item I'm prepping towards meeting Stephan Crawford. Tom's known him for 20 years, and he'll be on a future innovators show. This is [Stephan's baby](http://www.theclimatemusicproject.org/who-we-are/), something I'm very into.
+I'm going to send Ben and Noa a little thankyou plank, as well as Charles. I'm going to formerly ask Ben to be my mentor or employment, whatever way I could help him out. The other item I'm prepping towards meeting Stephan Crawford. Tom's known him for 20 years, and he'll be on a future innovators show. This is [Stephan's baby](https://www.theclimatemusicproject.org/who-we-are/), something I'm very into.
 
 Focus
 

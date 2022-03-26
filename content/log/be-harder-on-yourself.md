@@ -46,7 +46,7 @@ git out there and make tunes using nature as the instrument
 -=-=-=-=-=-=- -=-=-=-=-=-=- -=-=-=-=-=-=- -=-=-=-=-=-=- -=-=-=-=-=-=- -=-=-=-=-=-=- -=-=-=-=-=-=- -=-=-=-=-=-=- -=-=-=-=-=-=-
 
 apply to this:
-http://zero1.org/programs/opencall
+https://zero1.org/programs/opencall
 
 
 1241 PM

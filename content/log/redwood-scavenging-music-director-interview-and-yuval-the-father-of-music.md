@@ -136,7 +136,7 @@ Palo Alto city Council
 
 =-=-=-=-=-=--==--===
 
-http://omari.io/
+https://omari.io/
 
 =-=-=-=-=-=--=-=-=-=
 

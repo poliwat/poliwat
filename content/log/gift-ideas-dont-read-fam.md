@@ -15,7 +15,7 @@ me        - phone case
 
 Dad - https://www.thingiverse.com/thing:2639118
 
-mom - necklace http://www.instructables.com/id/How-to-quickly-get-a-photo-ready-for-Etching-on-th/
+mom - necklace https://www.instructables.com/id/How-to-quickly-get-a-photo-ready-for-Etching-on-th/
 
 
 pl - https://i.pinimg.com/originals/34/0f/73/340f73deff34ef12cc548904fa5e35bc.jpg

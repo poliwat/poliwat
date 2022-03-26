@@ -17,7 +17,7 @@ I don't have any new ideas but listening to all my unfinished [beats](https://so
 <iframe width="100%" height="20" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/335856091%3Fsecret_token%3Ds-9TWJf&amp;color=ff5500&amp;inverse=false&amp;auto_play=false&amp;show_user=true"></iframe>
 
 Yesterday I failed at making [live loops](https://youtu.be/0gKWfvd-chA) because I didn't have good old [DJ Chad Mike](https://chadlamon.com) hitting record for me. The more I program, write, solder, the worse I get at being a musician.
-Yesterday I was dead sober and couldn't even properly loop a 2 chord progression. BUT the settings on the looper were fucked up it was on quantize while recording so playback was *nothing* like what it should've sounded like. Today after work [stefan](http://soundcloud.com/kyotokidforever) and I are going to play together practicing live looping. But I also need to start wiring this bad boy up:
+Yesterday I was dead sober and couldn't even properly loop a 2 chord progression. BUT the settings on the looper were fucked up it was on quantize while recording so playback was *nothing* like what it should've sounded like. Today after work [stefan](https://soundcloud.com/kyotokidforever) and I are going to play together practicing live looping. But I also need to start wiring this bad boy up:
 
 <img src="/images/poliwat1.jpg"  />
 
@@ -53,8 +53,8 @@ Online journalling scares me. No one has read a single sentence thus far.
 
 Current Accountabilibuddies:
 
-1. [Chad](http://chadlamon.com/) mike have a pact to do 100 pushups a day.
-2. [stefan](http://soundcloud.com/kyotokidforever) mike have a pact to remain sober (he can do as he pleases, he makes sure I don't consume alcohol / nicotine / marijuana ).
+1. [Chad](https://chadlamon.com/) mike have a pact to do 100 pushups a day.
+2. [stefan](https://soundcloud.com/kyotokidforever) mike have a pact to remain sober (he can do as he pleases, he makes sure I don't consume alcohol / nicotine / marijuana ).
 3. [tyler](https://github.com/prudentbot) mike have a pact to do something that scares you each day.
 
 
@@ -97,7 +97,7 @@ biked home from work cause I couldn't think straight.
 I'm getting a little too much resistance from friends and family.
 To borrow from the Beatles, I'm going to be successful with poliwat in only with a little help from my friends.
 
-It's going to take a lot of convinving to get Paul to record Bonnie's birth of her first child, and chad to film me with his drone all the way in Oregon for the [eclipse](http://oregoneclipse2017.com/).  
+It's going to take a lot of convinving to get Paul to record Bonnie's birth of her first child, and chad to film me with his drone all the way in Oregon for the [eclipse](https://oregoneclipse2017.com/).  
 
 
 I setup two meetings:
@@ -106,7 +106,7 @@ Chad where I show him my whole poliwat plans Sunday from 2-4pm.
 
 From now on Katie and I talk using [police codes](https://copradar.com/tencodes/).
 
-[Peter](http://pndpo.com/) has not called back in 5 calls, I'm worried about him. He barely answered one call after his grandma died and I asked for help on poliwat like a big twat and he hasnt wanted to speak to me since. I'll keep calling.
+[Peter](https://pndpo.com/) has not called back in 5 calls, I'm worried about him. He barely answered one call after his grandma died and I asked for help on poliwat like a big twat and he hasnt wanted to speak to me since. I'll keep calling.
 
 So my todos for the night:
 

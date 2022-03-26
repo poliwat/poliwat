@@ -34,14 +34,14 @@ All social media account you want to use links
 https://pricklypair.bandcamp.com/releases
 
 
-<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=354518226/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://pricklypair.bandcamp.com/album/now-you-know">Now You Know by Prickly Pair</a></iframe>
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=354518226/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://pricklypair.bandcamp.com/album/now-you-know">Now You Know by Prickly Pair</a></iframe>
 
 
 
 https://www.blinkist.com/ setup later
 
 
-http://www.goodchocolate.com/
+https://www.goodchocolate.com/
 
 
 https://en.wikipedia.org/wiki/Jiddu_Krishnamurti#Schools

@@ -110,7 +110,7 @@ FINSH website about, everything
 https://www.linkedin.com/in/metapattern/
 
 
-http://www.thecuriouscompany.com/carson-linforth-bowley/
+https://www.thecuriouscompany.com/carson-linforth-bowley/
 
 
 

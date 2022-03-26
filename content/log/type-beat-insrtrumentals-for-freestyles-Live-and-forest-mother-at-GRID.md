@@ -104,4 +104,4 @@ how to open AVCHD
 
 #### Trolling people on craiglist I'm back baby !!
 
-<a href="http://olifro.st/blog/shook-shirt-hook/">atleast one person doesn't take themselves seriously so should you michael</a>
+<a href="https://olifro.st/blog/shook-shirt-hook/">atleast one person doesn't take themselves seriously so should you michael</a>

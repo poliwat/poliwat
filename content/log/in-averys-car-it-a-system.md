@@ -46,7 +46,7 @@ squasha asha pasha
 
 **Wed 948 pm**
 
-<iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=4170159574/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="http://justinelucas.bandcamp.com/album/keep">Keep by Justine Lucas</a></iframe>
+<iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=4170159574/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://justinelucas.bandcamp.com/album/keep">Keep by Justine Lucas</a></iframe>
 
 ## meet my new voice teacher
 

@@ -47,7 +47,7 @@ why hashtag anything but
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7v4chjHBwiI" frameborder="0" allowfullscreen></iframe>
 
 
-[chomsky type beats](http://www.levity.com/orfeo/index.part1.html)
+[chomsky type beats](https://www.levity.com/orfeo/index.part1.html)
 
 living in a chomsky
 

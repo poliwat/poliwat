@@ -30,11 +30,11 @@ Cam just told me about this
 
 <a href="https://united.vote/"> united vote </a>
 
-<a href="http://curry.com/"> No Agenda Podcast </a>
+<a href="https://curry.com/"> No Agenda Podcast </a>
 
 
 ##### Recommended by Jen:
-<a href="http://curry.com/"> No Agenda Podcast </a>
+<a href="https://curry.com/"> No Agenda Podcast </a>
 
 
 
@@ -54,7 +54,7 @@ Cam just told me about this
 
   <a href="https://scansf.com/"> If you ever wanted to scan police radios</a>
 
-  <a href="http://www.panix.com/~clay/scanning/frequencies/states/ca/san_francisco.txt"> If you ever wanted to scan police radios</a>
+  <a href="https://www.panix.com/~clay/scanning/frequencies/states/ca/san_francisco.txt"> If you ever wanted to scan police radios</a>
 
 
 # <a href="https://www.digitalmusicnews.com/2013/11/19/biggestsoundcloudmistakes/"> for years, I have virtually done the opposite of this article with poliwat. </a>

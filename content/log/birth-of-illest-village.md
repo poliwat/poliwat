@@ -48,7 +48,7 @@ our finished ones:
 
 ## description
 
-✖ Buy this Beat: http://illestvillage.bandcamp.com
+✖ Buy this Beat: https://illestvillage.bandcamp.com
 ✖ DM us on discord: https://discord.gg/crjEV9h
 
 Beautiful photography by our friend Ashley French https://www.instagram.com/ashleylfrench/

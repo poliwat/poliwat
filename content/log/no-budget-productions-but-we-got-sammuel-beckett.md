@@ -134,7 +134,7 @@ Finishing up portfolio site
 
 got 1000 Confucious Canoes in
 
-also accidently [found this](http://www.sentosa.com.sg/polw/index.html) when I mistyped poliw.at in the browser LOL. I gotta record here.
+also accidently [found this](https://www.sentosa.com.sg/polw/index.html) when I mistyped poliw.at in the browser LOL. I gotta record here.
 
 
 *Tuesday 227 AM*

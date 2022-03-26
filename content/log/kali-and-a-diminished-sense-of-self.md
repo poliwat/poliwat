@@ -9,7 +9,7 @@ tags : ["logs"]
 
 In a civil rights class with Rebecca on campus UCSC.  Recording this guy, hoping for just 3 good sentences on the black panthers.
 
-Also for next time I get <a href="http://vedder.se/2015/01/vesc-open-source-esc/"> high - </a>
+Also for next time I get <a href="https://vedder.se/2015/01/vesc-open-source-esc/"> high - </a>
 
 
 bill zimerman

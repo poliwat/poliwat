@@ -11,7 +11,7 @@ Sunday 402 pm
 What I'm listening to: {}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}
   -=-
 
-  <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=986767488/size=large/bgcol=333333/linkcol=4ec5ec/tracklist=false/transparent=true/" seamless><a href="http://michaelbetts.bandcamp.com/album/marquetteiquette-betts-family-reunion-album-side-a">Marquetteiquette - Betts Family Reunion Album Side A by Michael Betts</a></iframe>
+  <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=986767488/size=large/bgcol=333333/linkcol=4ec5ec/tracklist=false/transparent=true/" seamless><a href="https://michaelbetts.bandcamp.com/album/marquetteiquette-betts-family-reunion-album-side-a">Marquetteiquette - Betts Family Reunion Album Side A by Michael Betts</a></iframe>
 
   =-=
 

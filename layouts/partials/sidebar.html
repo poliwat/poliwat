@@ -10,7 +10,7 @@
           {{ . | safeHTML }}
         {{ end }}
         {{ partial "attribution.html" . }}
-        <h1><a href="/listen">Music</a> \\ <a href="/video">Vizzies</a></h1>
+        <h1><a href="{{ .Site.BaseURL }}listen/">Music</a> \\ <a href="{{ .Site.BaseURL }}video/">Vizzies</a></h1>
       </p>
       <!-- <h6>Other Logs:</h6>
       {{ range .Data.Pages }}

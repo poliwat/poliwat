@@ -14,7 +14,7 @@
 </div>
 <div class="col-xs-12 col-sm-8 col-md-9 content-column">
   <div class="row">
-    <p class="sidebar-p"><span><a href="{{ .Site.BaseURL }}">poliw.at/</a><a href="/tags/{{ .Section }}s">{{ .Section }}</a>/</span>{{ .Title }}</p>
+    <p class="sidebar-p"><span><a href="{{ .Site.BaseURL }}">poliw.at/</a><a href="{{ .Site.BaseURL }}tags/{{ .Section }}s">{{ .Section }}</a>/</span>{{ .Title }}</p>
   </div>
   <!-- {{ partial "mobile_nav_toggle.html" . }} -->
   <div class="row">
@@ -39,7 +39,7 @@
   <ul>
     {{ range first 10 ( where ( where .Site.Pages.ByDate.Reverse ".Params.tags" "intersect" .Params.tags ) "Permalink" "!=" .Permalink ) }}
       <li class="relatedPost">
-        <a href="{{ .RelPermalink }}">{{ .Title | markdownify }}</a><br />
+        <a href="{{ .Site.BaseURL }}{{ .RelPermalink }}">{{ .Title | markdownify }}</a><br />
         {{ .Description | markdownify }}
       </li>
     {{ end }}

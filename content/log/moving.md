@@ -23,7 +23,7 @@ Just got back from the electronics store and Sean's house. I brought him and Ash
 
 I wrote down small tasks for poliwat. I went from lost dog to found owner by just breaking down the tasks.
 
-You can refer to the progress in the [poliwat master doc](/2017/08/02/poliwat-master-doc/)
+You can refer to the progress in the **poliwat master doc**
 
 But in summary got all my bad soldering jobs out of my system. After reading that you should use old solder bits on your workbench it got much better.
 

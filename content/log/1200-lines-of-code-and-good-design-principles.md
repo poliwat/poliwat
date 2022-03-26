@@ -56,7 +56,7 @@ Check for a high to low transition. For a pushbutton connected between the pin a
 To journal adventures with. I look forward to travelling.
 
  Now it's only been 30 minutes since I awoke but I am full blown procrastinating at this point in time. Slept on my wrist wrong and it feels like shit.
- okay okay WABI SABI and updating [poliwat master doc](/2017/08/02/poliwat-master-doc/).
+ okay okay WABI SABI and updating poliwat master doc
 
 
 I feel lazy

@@ -18,20 +18,36 @@
   </url>
   
   <url>
-    <loc>https://poliw.at/video/71&#43;skip&#43;pale&#43;blue&#43;promise/</loc>
-    <lastmod>2022-03-25T21:18:24-04:00</lastmod>
+    <loc>https://poliw.at/</loc>
+    <lastmod>2022-03-26T14:21:59-04:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://poliw.at/</loc>
-    <lastmod>2022-03-25T21:18:24-04:00</lastmod>
-    <priority>0</priority>
+    <loc>https://poliw.at/log/</loc>
+    <lastmod>2022-03-26T14:21:59-04:00</lastmod>
   </url>
   
   <url>
     <loc>https://poliw.at/tags/</loc>
-    <lastmod>2022-03-25T21:18:24-04:00</lastmod>
+    <lastmod>2022-03-26T14:21:59-04:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://poliw.at/log/think-5-30-governors-island/</loc>
+    <lastmod>2022-03-26T14:21:59-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://poliw.at/tags/logs/</loc>
+    <lastmod>2022-03-26T14:21:59-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://poliw.at/video/71&#43;skip&#43;pale&#43;blue&#43;promise/</loc>
+    <lastmod>2022-03-25T21:18:24-04:00</lastmod>
   </url>
   
   <url>
@@ -403,17 +419,6 @@
   <url>
     <loc>https://poliw.at/log/30-on-30-challenge/</loc>
     <lastmod>2022-03-23T11:08:11-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://poliw.at/log/</loc>
-    <lastmod>2022-03-23T11:08:11-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://poliw.at/tags/logs/</loc>
-    <lastmod>2022-03-23T11:08:11-04:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -5567,12 +5572,12 @@
   </url>
   
   <url>
-    <loc>https://poliw.at/categories/video/</loc>
+    <loc>https://poliw.at/tags/video/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://poliw.at/tags/video/</loc>
+    <loc>https://poliw.at/categories/video/</loc>
     <priority>0</priority>
   </url>
   

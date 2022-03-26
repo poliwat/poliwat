@@ -19,7 +19,7 @@ tape of my crying mom plus drunk best childhood friend talking of the recent dea
 
 Driving to the DMV with Chad now. I need to get a license before hitting Michigan tomorrow with my dad. I am going to sneak some lucy on the plane.
 
-I'm a little behind schedule with [Github . center ](/posts/the-center-of-github.md).
+I'm a little behind schedule with **Github . center**
 
 <img src="/images/chadMike2.jpeg">
 

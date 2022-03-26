@@ -27,7 +27,7 @@ She is also having some sort of relations with a prisoner where she volunteers
 
 ##### Amtrak was two hours late.
 
-I wrote lyrics and planned for [github.center](/posts/github.center.md) . I'm *almost* okay with sharing a secret, but not yet. Maybe in a future post.
+I wrote lyrics and planned for **github.center** . I'm *almost* okay with sharing a secret, but not yet. Maybe in a future post.
 
 The name of the game on this train ride, lets see here ...
 

@@ -21,7 +21,7 @@ because I got this email
 
 <img src="/images/fcc.png"/>
 
-Progress will be logged in the [IWNBH](/2017/08/02/internet-will-not-be-homogenized/) master log.
+Progress will be logged in the IWNBH = internet-will-not-be-homogenized/) master log.
 
 -==-===--=-==---=-=
 Jasmin our training instructor invited us to a house show last night

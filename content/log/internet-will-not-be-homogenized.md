@@ -162,7 +162,7 @@ Reference:
 
 *Wed 1143 AM*
 
-I need to finish this project, I will set a deadline for it after finishing [POLIWAT v1](/2017/08/02/poliwat-master-doc/)
+I need to finish this project, I will set a deadline for it after finishing POLIWAT v1 = **2017/08/02/poliwat-master-doc**
 
 
 

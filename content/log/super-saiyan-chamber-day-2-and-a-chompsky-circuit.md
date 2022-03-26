@@ -10,7 +10,7 @@ tags : ["logs"]
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Dc1jbDwppS8" frameborder="0" allowfullscreen></iframe>
 
 
-[Poliwat master doc is getting an update.](/2017/08/02/poliwat-master-doc/)
+**Poliwat master doc is getting an update**
 
 <img src="/images/Telephony_multiplexer_system.gif"/>
 

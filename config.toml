@@ -8,8 +8,8 @@ disqusShortname = ""
 googleAnalytics = ""
 publishDir = "docs"
 
-paginate = "10"
-PaginatePath = "/"
+# paginate = "10"
+# PaginatePath = "/"
 
 [params]
   # Style options: default (pink), blue, green, pink, red, sea, violet

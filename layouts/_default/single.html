@@ -14,36 +14,36 @@
 </div>
 <div class="col-xs-12 col-sm-8 col-md-9 content-column">
   <div class="row">
-    <p class="sidebar-p"><span><a href="{{ .Site.BaseURL }}">poliw.at/</a><a href="{{ .Site.BaseURL }}song/">song</a>/</span>{{ .Title }}</p>
+    <p class="sidebar-p"><span><a href="{{ .Site.BaseURL }}">poliw.at/</a><a href="/tags/{{ .Section }}s">{{ .Section }}</a>/</span>{{ .Title }}</p>
   </div>
   <!-- {{ partial "mobile_nav_toggle.html" . }} -->
   <div class="row">
   <div class="col-xs-12 col-md-6">
     {{ with .PrevInSection }}
-     <span class="arrowLife">&#8592;</span> <a class="previous" href="{{.Permalink}}">{{.Title}}</a>
+     <span class="arrowLife">&#8592;</span> <a class="previous" href="{{ .Permalink }}">{{.Title}}</a>
     {{ end }}
   </div>
   <div class="col-xs-12 col-md-6">
     {{ with .NextInSection }}
-     <span class="arrowLife">&#8594;</span><a class="next" href="{{.Permalink}}">{{.Title}}</a>
+     <span class="arrowLife">&#8594;</span><a class="next" href="{{ .Permalink }}">{{.Title}}</a>
     {{ end }}
   </div>
   </div>
 
   <div class="black-background">
+    <p>{{ .Content }}</p>
+    <h1>{{ .Title }}</h1>
+    <h1>{{ .Date }}</h1>
 
-  <p>{{ .Content }}</p>
-  <h1>{{ .Title }}</h1>
-  <h1>{{ .Date }}</h1>
-  <h6>Other Logs:</h6>
-  <!-- <ul>
+    <h6>Other Logs:</h6>
+  <ul>
     {{ range first 10 ( where ( where .Site.Pages.ByDate.Reverse ".Params.tags" "intersect" .Params.tags ) "Permalink" "!=" .Permalink ) }}
       <li class="relatedPost">
         <a href="{{ .RelPermalink }}">{{ .Title | markdownify }}</a><br />
         {{ .Description | markdownify }}
       </li>
     {{ end }}
-  </ul> -->
+  </ul>
 </div>
 
   </div>

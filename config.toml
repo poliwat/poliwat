@@ -1,4 +1,5 @@
 baseurl = "https://poliw.at/"
+donkey = "https://poliw.at"
 title = "POLIW.AT"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "en-us"
@@ -69,7 +70,6 @@ PaginatePath = "/"
   name = "Archive"
   url = "https://archive.org/details/@poliwat"
 
-
   [[params.navlinks]]
   name = "Amazon"
   url = "https://www.amazon.com/s?k=poliw.at&i=digital-music&search-type=ss&ref=ntt_srch_drd_B0851YJNWM"
@@ -81,7 +81,6 @@ PaginatePath = "/"
   [[params.navlinks]]
   name = "CV"
   url = "cv/"
-
 
   [params.social]
   email         = "michael@kzsu.stanford.edu"

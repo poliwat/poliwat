@@ -175,9 +175,9 @@ time {
   color: black;
   text-transform: capitalize;
 }
-#sidebar a {
+/* #sidebar a {
   color: #ffffff;
-}
+} */
 
 .content-column {
 background-color: #000000;

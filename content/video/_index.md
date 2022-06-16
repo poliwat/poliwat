@@ -2,6 +2,6 @@
 aliases = ["videos","articles","blog","showcase"]
 title = "Videos"
 author = "POLIW.AT"
-tags = ["video"]
+tags = ["videos"]
 categories = ["video"]
 +++

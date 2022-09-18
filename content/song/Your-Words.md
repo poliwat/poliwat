@@ -17,7 +17,7 @@ E              F#m11/E
 Your words say open your heart
 Emaj7      Fm11/E Fm A    Asus
 your hands say open your walls
-y tu brute mow lawn la bay
+y tu mow lawn la bay (mow lawn la Vey)
 
 E        Emaj7
 dont eat all day
@@ -28,7 +28,10 @@ the cave and the fence
 F#m   A    Asus
 there's no winners
 
-E  F#m11/E Emaj7 Fm11/E Fm A Asus Emaj7
+E  F#m11/E Emaj7
+Fm11/E Fm
+A Asus Emaj7
+
 redemptions occur on beaches
 winning you back takes pitches
 I know its actions

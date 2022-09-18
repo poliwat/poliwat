@@ -319,3 +319,11 @@ code {
   color: #f2f2f2;
   letter-spacing: 1px;
 }
+
+.VIP {
+  text-align: left;
+}
+
+table, tr {
+  color: crimson;
+}

@@ -1,0 +1,58 @@
+---
+title: "Finally SETUP"
+date: 2020-11-21T19:40:16-05:00
+draft : "false"
+tags : ["Logs"]
+---
+```
+My room
+is a safe room
+```
+
+**19:41**
+
+O M G .
+
+I am finally set up.
+
+*nearly*
+
+setup.
+
+
+Soon there are
+
+Very soon there are
+
+no
+
+Really no excuses
+
+<!--more-->
+
+|| It's the day after ||
+
+
+
+<!--
+
+| Dailies        | Questions           | Answers  |
+| ------------- |:-------------:| -----:|
+| Read()      | *What did you read?* | X |
+| Write()      | *What did you write?*      |   X |
+| Create() | *What did you make?*      |    X |
+| Exercise() | *Dance workout (or otherwise?)*      |    X |
+| Audio() | *You recorded what:*      |    X |
+| Video() | *You filmed what:*      |    X |
+| Finish() | *You bounced what track:*      |    X |
+| Live() | *You sang what live:*      |    X |
+| Finish2() | *You made what visuals*      |    X |
+| Phone() | *You called who:*      |    X |
+| Share() | *Uploaded what to archive:*      |    X |
+| PBD() | *You did what for PBD?*      |    X |
+| Web() | *You did what to POLIW.AT?*      |    X |
+| Love&Legacy() | *You did what for friends/fam?*      |    X |
+| God() | *You're grateful for what?*      |    X |
+<sub>v1.0</sub>
+
+ -->

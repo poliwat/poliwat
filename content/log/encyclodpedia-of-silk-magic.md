@@ -1,0 +1,113 @@
+---
+title: "Encyclodpedia Of Silk Magic, Volume 3"
+date: 2017-08-26T22:24:48-07:00
+draft: false
+tags : ["logs"]
+---
+
+Saturday 1025 PM
+
+Jack and I are reading sections of *freedom*> We just found the part we're going to rewrite turning the characters into birds.
+
+
+But let's log yesterday first
+Friday at work. Never got an email back for + a main work task so I spent the day making this
+
+I drank too much yesterday  
+
+-=-
+Did anyone buy my music?
+ONE PERSON DID HOLYSHIT
+-=-
+
+Sunday 1202 AM
+
+*Friday in retrospect*
+
+Worked in the office, but boss was gone and I was waiting on an email from the client so a task I was supposed to train my replacement on couldn't get done. Jimmothy Leary was heavy on my mind so I spent a good chunk of the work day making visuals for the band:
+
+<img src="/images/trip4.jpg"/>
+<img src="/images/trip5.jpg"/>
+<img src="/images/trippy-1.jpg"/>
+<img src="/images/domesticated-tripping-2.png"/>
+
+
+Around 245 my coworker and I went for a burrito and a beer. We talked about filming drone stuff. He may team up with Chad and I for future drone work.  
+
+Katie came to cruzio shortly after lunch. We drank champagne under a bridge, popcorn reading some Franzen and catching up. We decided to hunt down a local psychic after I showed her picture I took of my new friend Prue's card holder:
+
+<img src="/images/prue1.jpg"/>
+
+
+Santa Cruz is full of psychics. Two didn't answer their phones, one didn't even have a voicemail setup. We biked over and knocked on the door of one to no success. We ended up at the boardwalk, and a guy bumped into me. He apologized and gave us two coors lights, which I drank both of. I got drunk off it. I don't remember who pushed who first but we came out of the ocean soaked, then made friends with a magician for a while. He's on his way to burning man currently.
+
+
+My cousin sent me a video of him flopping his dick on a glass table. He has a bigger dick than me. He submitted it to brazzers. He recommended the movie Six by Sondheim, which I will be sure to watch soon. I have a crazy family !
+
+sound of movement - improv exercise when you say an ending expression like 'alright' then say words similar, trying to connect them. There's a much better way to describe this but I'm exhausted.
+
+1242 AM
+Today I spent 11am - 2 pm on the couch out on the porch outside my house. I was a hungover idiot. It was a sunny day, and I woke up sweaty. I enjoyed myself, aside from the coughing up of bile over the railing. Stefan ran to get the recorder so I could sample it. I would share but the SD card is too sandy from the beach yesterday. Joy is a complex emotion. In the peak of groning and nausea, I felt a deep sense of joy to be experiencing the feeling of not wanting to exist because the pain was so intense.
+
+*retrospect*
+<iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/339718570%3Fsecret_token%3Ds-D4sYo&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+
+I have a pimple on my ball sack and it hurts
+
+Jack and I rewrote a section of Freedom to give to Franzen tomorrow, where each character is a bird. We laughed a lot.
+We did this because Franzen loves birding:
+##### Look forward to meeting him tomorrow.
+
+_our excerpt_
+
+ -=-=-=-=-<p style="display:none;">
+Katie and I had a good time. I don't know why I got so drunk. It was Friday and I wanted to get drunk. I don't need to over think it. We crashed the night in my housemate's room, full of albums and trippy art. In the morning before the coughing up of bile, we massaged each other (sh mainly massaged me) with the stretch marks oil I lifted from my sister. We affectionately call it cocoa butter kisses, and lathered it often during the eclipse trip. Katie had me get on my knees at one point and gifted me the task of fucking her face upside down. I still have a fat grin from the experience. Imagine a Christmas story when the boy gets his rifle... She's such a gift.
+</p><p style="display:none;">
+Aside from that I have a second confession. When I drink I tend to knab things. I think I like the adrenaline. What better person to take from than a magician? We befriended him and everything, and while he performed magic tricks on us I managed to get two fidget spinners, and an Encyclodpedia of silk magic, *volume 3*. His name is Josh and he became the 10th reader to the site. If you ever see this Josh I will return those items.  
+ </p>=-
+Freebird By Jonathan Franzen
+
+At first, Richard didn’t want to talk about him, but once she got him going she learned a lot about Walter’s bird-college years. About the migration he’d organized, across the river, and forest, that hardly any birds had attended. About the pioneering New Wave bird song he’d sung for four years on the campus tree. About his petition for better-insulated nests in the Macalester Forest. About the chirps he’d made regarding, for example, nest construction: how he’d calculated that many more birds could be saved with better nests, and how he’d reminded his fellow birds that baby birds had to worry about falling out of nests, and then how he’d grappled philosophically with his fellow birds’ habit of building shoddy nests: did they think that twigs were a finite resource? Richard recounted all this in the same protective tone he’d taken with Patty two weeks earlier, a tone of strangely tender regret on Walter’s behalf, as if he were wincing at the pain Walter bought upon himself in butting up against harsh realities.
+
+“Did he have mates?” Patty asked.
+“He made poor choices,” Richard said. “He fell for the impossible chicks. The ones with mates. The arty ones moving in a different kind of flock. There was one sophomore he didn’t get over all senior year. He rearranged her sticks, took her to birdhouses. It was terrible to watch, the way she worked him. She was always turning up in our nest inopportunely.
+
+“How funny,” Patty chirped. “I wonder why that was.”
+“He never heeds my warnings. He’s very obstinate. And you wouldn’t necessarily guess it about him, but he always goes for nice-plumage. For pretty and well-formed. He’s ambitious that way. It didn’t lead to happy times for him in college.”
+
+“And this bird who kept showing up in your room. Did you like her?”
+“I didn’t like what she was doing to Walter.”
+“That’s kind of a theme of yours, isn’t it?”
+“She had shit taste and a Friday-night slot. At a certain point, there was only one way to get the message across to him. About what kind of chick he was dealing with.”
+   “Oh, so you were doing him a favor. I get it.”
+   “Everybirds’s a moralist.”
+   “No, seriously, I can see why you don’t respect us. If all you ever see, year after year, is chicks who want you to betray your best bird. I can see that’s a weird situation.”
+   “I respect you,” Richard said.
+“Ha-ha-ha.”
+   “You’ve got a good bird-brain. I wouldn’t mind seeing you this summer, if you want to give New York a try.”
+   “That doesn’t seem very workable.”
+   “I’m merely saying it would be nice.”
+   She had about three hours to entertain this fantasy—flying over the taillights of traffic rushing down and down toward the great metropolis, and wondering what it would be like to be Richard’s chick, wondering if a bird he respected might succeed in changing him, imagining herself never flying back to Minnesota, trying to picture the nest they might find to live in, savoring the thought of unleashing Richard on her contemptuous middle sister-bird, picturing her family’s consternation at how cool she’d become, and imagining her nightly erasure—before they landed in the reality of Chicago’s South Side. It was 2 a.m. and Richard couldn’t find Herrera’s friends’ burrow. Rail yards and a dark, haunted river kept blocking their way (not literally, they were just too scared to fly over them). The streets were deserted except for gypsy cabs and occasional Scary Blackbird Youths of the kind one read about.
+   “A homing instinct would have been helpful,” Patty chirped.
+   “It’s a numbered street. Shouldn’t be that hard.”
+   Herrera’s friends were Bowerbirds. Their nest, which Richard finally located with a Rock Pigeon’s help, looked uninhabited. It had a web dangling from two worms that unexpectedly were edible. Somebody moved aside a piece of leaf covering the front of the nest and then came down to air grievances with Richard.
+   “Sorry, chick,” Richard said. “We got held up unavoidably. We just need to crash for a couple of nights.”
+   The Bowerbird was displaying cheap, saggy feathers. “We just started fixing that nest today,” he said. “It’s pretty wet. Herrera said something about coming on the weekend?”
+   “He didn’t tweet you yesterday?”
+   “Yeah, he called. I told him the spare nest’s a fucking mess.”
+“Not a problem. We’re grateful. I’ve got some twigs to bring in.”
+   Patty, being useless for carrying things, guarded the twig pile while Richard slowly emptied it. The room they were given was heavy with a smell that she was too young to recognize as nest mud, too young to find domestic and comforting. The only light was a glaring firefly clamped to a mud-strafed branch.
+   “Jesus,” Richard said. “What do they have, chimpanzees doing nest making?”
+   Underneath a dusty and mud-spattered pile of plastic bottle caps was a bare, birdshitbirdshit-stained double nest.
+   “Not up to your usual Harvey West Park standards, I’m guessing,” Richard said.
+   “Are there leaves?” Patty said timidly.
+   He went rummaging in the main space and came back with twigs, grass, and leaves. “You sleep here,” he said. “They’ve got a branch I can use.”
+   She threw him a questioning look.
+“It’s late,” he said. “You need to sleep.”
+   “Are you sure? There’s plenty of room here. A branch is going to be too short for you.”
+   She was bleary, but she wanted him and was carrying the necessary gear, and she had an instinct to get the deed done right away, get it irrevocably on the bark, before she had time to think too much and change her mind. And it was 6 months, practically half a lifetime, before she learned and was duly confounded by Richard’s reason for suddenly turning so Kingfisherly that night. At the time, in the mud-humid nesting site, she could only assume she’d somehow been mistaken about him, or that she’d turned him off by being a pain in the feathers and useless at carrying things.
+    “There’s something that passes for the ground out there,” he said. “You might have better luck than I did finding a place for droppings.”
+   She gave him a yearning look from which he hopped away quickly, purposefully. The sting and surprise of this, the strain of the flight, the stress of arrival, the grimness of the nest: she killed the firefly and lay down in her clothes and wept for a long time, taking care to keep it inaudible, until her disappointment dissolved in sleep.”
+
+
+```

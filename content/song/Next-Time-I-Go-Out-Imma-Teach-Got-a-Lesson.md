@@ -364,12 +364,19 @@ His Only Memento
 
 
 I your vitamin D
+
 you my vitamin K
+
 ok ok I am late again today
+
 pissing you off
 
 
 flora, fauna, and minerals.
+
+# Context
+
+### 'From the kama sutra of Japan'
 
 Section Three
 1. Grudge Provoked by a Sedge Hat
